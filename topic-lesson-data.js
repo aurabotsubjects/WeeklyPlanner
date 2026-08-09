@@ -1550,7 +1550,1508 @@ window.TOPIC_LESSON_DATA = {
     },
     {
       "name": "PE",
-      "units": []
+      "units": [
+  {
+    "name": "Soccer",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Glue Feet",
+            "summary": "Kicks off the Foundational Ball Control block by getting every student comfortable simply keeping the ball near their feet. In Traffic Lights Dribble, students dribble freely around a grid and react instantly to 'green' (fast light touches), 'yellow' (slow, tight control) and 'red' (dead stop) calls. Sole Tag has partners protecting their own ball while trying to tap a partner's away, and 1v1 Gate Challenge adds a defender who can poke at the ball as students dribble through cone gates. The day closes with Small-Sided Possession Soccer (3v3/4v4, no goals), where a team scores by stringing together five untouched passes — rewarding whoever can keep control under pressure. Value focus: Aroha, being patient with a clumsy first touch and encouraging classmates whose ball control looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: NZC Health & PE Strand B, managing self through foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Gear Shift",
+            "summary": "Builds directly on yesterday's close control by adding changes of pace and direction. Cone Slalom Sprint has students racing their own best time through a zig-zag of cones, while Number Call Turns has them dribbling freely until their number is called, forcing a sharp inside-of-foot cut. Shrinking Grid Dribble raises the stakes further as the whole class dribbles inside a grid that shrinks every thirty seconds, testing who can keep control as space disappears. The Big Game, End Zone Dribble, is 4v4 with the field split into thirds — teams must dribble (not pass) the ball into the opposition's end zone, so a sudden change of speed or direction becomes the key way to beat a defender in the middle third. Value focus: Mōhio, understanding what your own feet are doing and noticing what changes as it starts to click. Curriculum focus: NZC Strand B, managing self by reading and adjusting body movement."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Escape Artist",
+            "summary": "Introduces real opposition for the first time. Shadow Dribble has a defender following 1.5 metres away without touching the ball, just to get attackers used to someone nearby, before 1v1 to Two Gates lets that defender genuinely try to win the ball with their feet. King of the Grid then has four or five students dribbling in a shared space, retrieving their ball if it's knocked out and tracking who can keep the longest unbroken streak of control. The Big Game, 1v1 Alley Tournament, is played in a narrow pitch with a small goal at each end, first to three goals or most goals in two minutes, rewarding shielding and sharp changes of direction under genuine pressure. Value focus: Manaaki, giving a partner a fair, honest challenge — competitive but not so hard it stops being fun. Faith connection: Philippians 2:4, looking not only to your own interests but also to those of others. Curriculum focus: Strand B, managing self and relating to others under pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Laser Passes",
+            "summary": "Shifts the week's focus from dribbling to passing accuracy. In Pass & Retreat, partners pass and then each take a step further away — the passer stepping back, the receiver only allowed one sideways step — so the target grows harder with every clean exchange. Gate Passing has pairs threading the ball through a small cone gate from increasing distances, and Triangle Passing Race has groups of three racing to complete ten accurate passes around a triangle. The Big Game returns to Lesson 1's possession format, but this time coaching and scoring is specifically about pass accuracy rather than just touches. Value focus: Pānga, recognising that an accurate pass makes the game better for a teammate, not just yourself. Faith connection: Romans 12:10, honouring one another above yourselves. Curriculum focus: Strand B, relating to others through accurate, intentional passing."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Soft Hands, Soft Feet",
+            "summary": "Closes the block by teaching first touch. Cushion Catch has partners passing back and forth, with the receiver needing to cushion the ball to a dead stop within one touch before returning it. First Touch, Second Touch, Go asks students to direct their first touch away from an imaginary defender, then dribble to a target cone on the second touch, while Pressure Receive adds a light shadow defender nearby to introduce visual pressure on that first touch. The Big Game, 3-Touch Possession Soccer, limits every player to three touches before passing, rewarding whoever has developed the cleanest, quickest first touch from the week's practice. Value focus: Aroha, staying patient and kind with yourself and teammates when a first touch doesn't go to plan. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through refining a core technical skill, closing out Foundational Ball Control before next week's passing-on-the-move focus."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Give and Go",
+            "summary": "Opens the Combining Skills block by teaching players to move after they pass. Wall Pass Relay has Player A passing to Player B then immediately jogging to a new cone to receive the ball back, repeated down a channel. Give and Go Gates has trios combining give-and-go passes to move the ball through a series of gates, racing another trio, while 1-2 vs Shadow Defender lets a pair attempt the same combination against a defender who can only intercept once the first pass has been played. The Big Game, 3v3 + 1 Target Player Soccer, uses small goals and a target player to create natural give-and-go opportunities, with the coach calling out every successful combination in play. Value focus: Mōhio, understanding your role and where you fit in the play, not just reacting. Curriculum focus: Strand B, relating to others by combining passing and movement into a single game action."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Perfect Strike",
+            "summary": "Introduces shooting technique in isolation before adding pressure. Technique Target Shots has students striking a stationary ball at a large taped target, focused purely on clean technique rather than power. Roll and Strike adds timing by having a partner roll the ball in so the shooter must strike it while moving, and Shot Streak Challenge has small groups rotating through a shooting station, tracking how many consecutive shots keep clean technique as a team streak. The Big Game, Small-Sided Goals Soccer, keeps the emphasis on technique over outcome — the coach praises a well-struck shot even when it misses the goal. Value focus: Manaaki, practising a skill faithfully with real effort even when it doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good, for we will reap a harvest if we do not give up. Curriculum focus: Strand B, managing self through repeated, effortful skill practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Pick Your Spot",
+            "summary": "Moves shooting from technique to placement. Zone Shooting divides the goal into four cone-marked zones, with the teacher calling a target zone before every shot, while Beat the Keeper Angles has a student keeper standing in different positions so the shooter must read the open side of goal. Points Target Shootout raises the stakes by giving corner zones more points than the middle, with small groups competing for the highest team score. The Big Game builds this straight into a real match — Small-Sided Goals Soccer with a marked bonus corner worth double points, rewarding smart shot placement over just power. Value focus: Pānga, thinking ahead about where a shot will have the most impact rather than just reacting. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Triple Threat",
+            "summary": "Brings dribbling, passing and shooting together in one flowing sequence for the first time. The Dribble-Pass-Shoot Circuit has students dribbling through cones, passing to a rebound wall, controlling the return and shooting at goal, all against their own best time. 2v1 to Goal has two attackers combining dribbles and passes against a single defender before shooting, and the Combo Points Challenge rewards any 3v3 team that completes a genuine dribble-pass-shoot sequence, even if the shot misses. The Big Game keeps that bonus alive in a full 4v4 game, celebrating any goal built from a visible combination of all three skills. Value focus: Aroha, enjoying the game and celebrating good combinations as a team, not just goals scored. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing multiple skills into one effective action."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Body Shield",
+            "summary": "Closes the block by teaching players to protect the ball under pressure. In Turn Away Challenge, a receiver collects a pass with a shadow defender close behind and must turn away from that side before dribbling to a target. Protect the Ball 1v1 has one player shielding the ball in a small grid for as long as possible against a defender using feet only, and Shield & Release adds a twist — the shielding player must hold possession for a set count before releasing a pass to a supporting teammate. The Big Game carries a bonus for any player who shields the ball under pressure for three seconds or more before releasing it, closing out Combining Skills & Attacking Basics before next week's defending and decision-making focus. Value focus: Mōhio, reading pressure and space before deciding which way to turn. Curriculum focus: Strand B, managing self through body positioning under contact."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Patient Defender",
+            "summary": "Opens the Defending, Attacking & Decision-Making block by teaching patient, positional defending rather than diving in. Jockey & Freeze has a defender shadowing a dribbling attacker in a channel, frozen on command and scored purely on balance and positioning — side-on, low, goal-side — not on winning the ball. Delay the Attacker turns this into a timed challenge, with the defender's only job being to delay the attacker from reaching the end line as long as possible, and 2 Defenders, Patient Press has a pair of defenders staying connected and only committing to a tackle once support arrives. The Big Game keeps the same emphasis, with the coach highlighting good jockeying and delaying moments as much as tackles won. Value focus: Manaaki, understanding that good defending — a role with no scoring — is still a genuine gift to the team. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through disciplined, patient positioning."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Perfect Timing",
+            "summary": "Builds on patient defending by teaching a fair, well-timed tackle. Poke Tackle Practice has an attacker dribbling slowly in a straight line while the defender practises timing a simple poke at controlled pace, and Win It Clean 1v1 raises the stakes with a live grid game where the defender only scores for a genuinely clean, feet-only win of the ball. Tackle & Transition then rewards a good tackle immediately — the moment the defender wins it cleanly, they become the attacker and must dribble to a target. The Big Game keeps that fairness front and centre, with the coach specifically praising well-timed, clean tackles. Value focus: Pānga, understanding that a fair, well-timed tackle is good for the whole game, while a reckless one isn't. Faith connection: Proverbs 11:3, the integrity of the upright guides them. Curriculum focus: Strand B, managing self through timing and fair play."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Find the Gap",
+            "summary": "Turns attention from defending to attacking movement — finding space without the ball. Spot the Space has small groups moving around a grid with no ball at all, freezing on a whistle in whatever spot they judge to be most open. Third Player Movement has two players passing while a third constantly repositions to find the next passing option, and 4v2 Space Rondo has four attackers keeping the ball from two defenders, scored on consecutive passes, which forces constant movement to keep passing angles open. The Big Game carries the same idea into a full match, with the coach calling out and celebrating any player who clearly finds space to receive a useful pass. Value focus: Mōhio, understanding the bigger picture of the game and where genuine opportunities are, beyond your own touches on the ball. Curriculum focus: Strand B, thinking — reading space and positioning ahead of the ball."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Options Everywhere",
+            "summary": "Extends space-finding into supporting a teammate who already has the ball. Angle Awareness has trios checking that the ball-carrier always has two supporting teammates at different angles, not lined up behind a defender's shadow. Rondo with Two Targets requires a possession team to use two different supporting players rather than the same one twice in a row, and Support Under Pressure is a 3v1 keep-away where three attackers must always offer at least two passing options while a defender tries to cut the lanes. The Big Game rewards this directly, with the coach highlighting any off-the-ball movement that clearly created a good passing option. Value focus: Aroha, actively looking out for a teammate on the ball as a form of care within the game. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strands B and C, relating to others through supportive positioning."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Cushion Control",
+            "summary": "Closes the block by teaching control of a ball that isn't rolling along the ground. Bounce & Trap has partners bouncing (throwing, not kicking) the ball to each other to practise trapping it dead with the sole or cushioning it with the top of the foot. Thigh & Chest Cushion adds a softer throw for a thigh or chest cushion, scoring a point for each clean drop to the feet, and the Aerial Control Relay turns it into a team race — receive a thrown ball out of the air, control it, dribble to a target, and return. The Big Game feeds several restarts in by throw rather than the usual pass, requiring a controlled first touch mid-game before Defending, Attacking & Decision-Making gives way to next week's team tactics. Value focus: Manaaki, persisting faithfully with a genuinely tricky skill to serve the team well. Faith connection: James 1:2-4, perseverance producing maturity. Curriculum focus: Strand B, managing self through a more advanced technical skill."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Last Line",
+            "summary": "Opens the final block with the basics of goalkeeping. Catch & Roll has partners rolling or gently throwing the ball at a student keeper in a small goal, practising a 'W' hand shape to catch and rolling the ball back out. Angle Steps focuses purely on positioning — small side-steps to stay central to the ball as it's moved along a line outside the box, with no shot yet — and Shot Stopper Rotation lets a small group take turns facing gentle close-range shots, rotating so everyone experiences the role. The Big Game rotates goalkeepers every few minutes in a full 4v4 game so every student plays the position, with the coach reinforcing how much the keeper's decisions affect the whole team. Value focus: Pānga, understanding how one role — the goalkeeper — has a unique impact on everyone else's game. Curriculum focus: Strand B, managing self through a specialist role and its wider team impact."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Keep Away Kings",
+            "summary": "Brings the whole unit's passing and control skills together under real pressure. 5v2 Rondo has five attackers keeping the ball from two defenders in a grid, counting consecutive passes, while Possession Points Ladder has 4v4 teams playing possession-only football with a running points ladder that resets when the ball is lost, chasing their own best streak. Press & Win adds a defending-side reward, celebrating any team that wins the ball back within three seconds of losing it. The Big Game, 4v4 Possession Soccer with Small Goals, combines both sides — keeping the ball through support and good angles, while still looking for chances to attack and score. Value focus: Mōhio, understanding the team's overall plan and your part in keeping or winning possession, not just your own touches. Curriculum focus: Strands B and C, relating to others through coordinated team possession."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Switch It On",
+            "summary": "Teaches the fast mental switch between attacking and defending. Freeze & React has a possession game interrupted by a whistle the instant possession changes, with both teams reacting to an 'attack!' or 'defend!' call and repositioning immediately. 3v3 Quick Switch allows goals at both ends straight after a turnover, rewarding the fastest mental and physical transition, and Counter-Attack Race gives a team just eight seconds to attack and shoot after winning the ball before defenders can reorganise. The Big Game keeps the same lens on a full 4v4 game, with the coach specifically celebrating fast, well-organised reactions to turnovers in both directions. Value focus: Manaaki, reacting instantly for the team's benefit in the moments that matter most, not only when the ball is at your feet. Faith connection: Galatians 6:10, doing good to all as we have opportunity. Curriculum focus: Strands B and C, managing self and relating to others under sudden change."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Set Piece Specialists",
+            "summary": "Introduces simple team strategy through restarts. Legal Throw-In Practice has pairs working on correct technique — both feet down, ball behind and over the head, released in front — aiming at a moving partner. Corner Routine Design lets small groups invent and rehearse one simple, repeatable corner routine, such as a short pass then cross, and Set Piece vs Defence tests that routine against a small defending team trying to intercept, adjusting it if it isn't working. The Big Game applies all of this live, using the practised throw-in technique and corner routines at every relevant restart in a full 4v4 game. Value focus: Aroha, planning something as a team in advance, built on trust in one another. Faith connection: Ecclesiastes 4:9-10, two are better than one, for they have a good return for their labour. Curriculum focus: Strands B and C, thinking — planning and rehearsing a team strategy."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Soccer Showdown",
+            "summary": "Closes the unit with a culminating mini-tournament that draws on everything practised across the term. The Unit Skills Warm-Up Carousel gives a light refresher across close control, passing accuracy and shooting technique, before the Mixed Skill Relay has teams combining dribbling, passing and shooting in one competitive sequence. Captain's Challenge gives each team a nominated captain who sets one focus for the day — for example passing accuracy — offering a taste of real strategic ownership. The Big Game is a Round-Robin Mini-Tournament, with several small teams rotating through short 3v3/4v4 games on multiple pitches, scored simply, where every skill from the twenty-lesson unit becomes relevant somewhere on the field. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, teammates and how you treat others in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rippa Rugby",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Cradle Carry",
+            "summary": "Opens Foundational Ball Skills by teaching a secure two-handed carry and basic pass. Long Arms Carry has students carrying freely around a grid, ball held away from the body, passing to the nearest teammate on 'stop!' and continuing to move. Standing Pass Lines has partners three metres apart passing backward or sideways, stepping back after each clean catch to stretch the distance, while Circle Pass Race has groups of five or six racing to complete a lap of passes around a circle without dropping the ball. The Big Game, Continuous Pass Rugby, is 4v4 at walking or jogging pace with no tags yet — teams simply try to string together clean passes while advancing toward the try line. Value focus: Aroha, patience with a ball that doesn't sit securely yet, and encouragement for teammates whose handling looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Flat & Back",
+            "summary": "Teaches the legal backward or flat pass that rugby depends on. Backward Gate Passing has pairs threading the ball through a cone gate placed level with or behind the receiver, losing a point for any forward pass. Moving Line Pass has a line of four or five players jogging while passing along the line, every pass required to travel backward relative to the run, and Triangle Pass & Move races groups of three to complete ten legal passes as fast as possible. The Big Game repeats Lesson 1's format but now scores pass legality specifically — any forward pass hands possession to the other team. Value focus: Mōhio, understanding the rule itself and why it shapes how the game is played. Curriculum focus: Strand B, managing self by applying a rule correctly under movement."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Safe Hands",
+            "summary": "Builds catching ability while moving. Target Hands Catch has partners jogging side by side, the passer calling 'hands' so the receiver presents a target and catches without breaking stride. Catch on the Move Relay has small groups jogging down a channel, passing and catching continuously to reach a far cone without dropping the ball, and Distraction Catch adds a shadow defender jogging alongside — not intercepting, just adding visual pressure. The Big Game, 3-Pass Possession Rugby, requires every player to complete at least three clean catch-and-passes before their team can score, rewarding secure hands under real game movement. Value focus: Manaaki, giving a passing partner a genuinely catchable ball rather than a careless one. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through catching technique on the move."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Jinking Feet",
+            "summary": "Introduces evasive footwork. Cone Slalom Carry has students carrying the ball through a zig-zag of cones as fast as possible against their own best time, while Number Call Cuts has them carrying freely until their number is called, forcing a plant-and-cut in a new direction. Shrinking Grid Evade raises the challenge as the whole class carries inside a grid that shrinks every thirty seconds, rewarding quick cuts to keep finding space. The Big Game, End Zone Evasion, is 4v4 with the field split into thirds — carriers use footwork to beat defenders and run the ball into the opposition's end zone. Value focus: Pānga, recognising that a well-timed cut creates space that benefits the whole attacking play, not just the carrier. Curriculum focus: Strand B, managing self through footwork and change of direction."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: The Step",
+            "summary": "Closes the block by teaching a genuine sidestep to beat a defender one-on-one. Shadow Step has a carrier jogging down a channel with a defender staying 1.5 metres away and mirroring without touching, letting the carrier practise stepping past a real body. 1v1 Channel Step has an attacker trying to get past a defender who starts stationary and then moves, and King of the Grid (Evasion) has everyone carrying their own ball in a shared grid, trying to step past others without being touched below the shoulder. The Big Game, 1v1 Alley Challenge, is a narrow-pitch tournament first to three successful evasions or most in two minutes, then partners rotate. Value focus: Aroha, encouraging a partner through a tricky new skill that takes real practice to click. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, a genuine 1v1 evasion skill, closing Foundational Ball Skills before next week's support play."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Shadow & Shape",
+            "summary": "Opens Continuity, Support & Defence Basics by teaching support runners correct depth and width. Triangle Support Run has three players jogging in a triangle shape, the carrier passing to either support runner who becomes the new carrier, maintaining the triangle's shape as they go. Call for the Ball has a support player calling loudly and showing a target hand before receiving, and Depth & Width Gates has groups of three passing through marked support zones, scoring bonus points for staying in the correct position. The Big Game, 3v2 Support Rugby, gives the attacking team a spare player who must be found and used to keep each phase alive. Value focus: Mōhio, understanding exactly where to run relative to the ball carrier so a pass is genuinely useful. Curriculum focus: Strand B, relating to others through positioning and communication."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Quick Recycle",
+            "summary": "Introduces continuity — keeping the ball moving after a tag. Tag & Pass has a carrier jogging freely, stopping to pass immediately to a nearby support player the moment they're tagged by a shadow defender. Recycle Relay has small groups moving the ball down the field, placing or passing immediately at every 'tag' cone as a new carrier continues, and Quick Ball Grid treats every catch as a tag, forcing the receiver to pass again within three seconds. The Big Game, Continuity Rugby, introduces real tags for the first time — a tagged carrier must stop and pass within three steps, scoring points for keeping phases flowing without a stoppage. Value focus: Manaaki, passing the ball on quickly and generously rather than holding on to it. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand B, managing self through quick, rule-bound decision-making."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Rip It",
+            "summary": "Teaches the defending side of the tag — a safe, correct rip. Static Rip Practice has partners standing still while the defender practises reaching for the tag, gripping firmly and pulling in one motion. Jog & Rip has the carrier jogging slowly in a straight line while the defender times the rip on a moving target, and Rip Grid Game has carriers evading and defenders rotating through rip attempts in a shared grid. The Big Game, Rip & Recycle Rugby, is full 4v4 tag rules — defenders rip tags to stop the carrier, who must then pass within three steps, combining today's technique with Lesson 7's continuity skill. Value focus: Pānga, using the rip technique safely so it's fair and fun for the person being tagged, not just effective. Curriculum focus: Strand B, managing self through a correct, controlled defensive technique."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Line Up",
+            "summary": "Teaches defending as a connected, communicating line rather than as individuals. Mirror Line Shift has a line of four or five defenders shuffling sideways together, mirroring a caller's direction changes while staying evenly spaced. Call the Line has the defensive line jogging forward as attackers approach, calling out who they're 'on' before any tagging happens, and Gap Spot Game has a still defensive line practising shuffling to close any gap that opens as attackers walk past. The Big Game, Line Defence Rugby, keeps tags live while defenders focus explicitly on staying connected, spaced and vocal about who's marking whom. Value focus: Aroha, communicating clearly and generously with defensive teammates so nobody is left to cover a gap alone. Faith connection: Ecclesiastes 4:9-10, two are better than one, for they have a good return for their labour. Curriculum focus: Strands B and C, relating to others through team defence."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Step & Support",
+            "summary": "Closes the block by combining this fortnight's two skills — evasion and support. Step & Pop has an attacker stepping past a shadow defender then immediately popping a short pass to a trailing support player who continues the run. 3v2 Evade & Support has three attackers against two defenders in a channel, combining stepping and support running to reach the far line, and Continuous Small Game is a fast-paced 3v3 with tags on, rewarding whichever team keeps the ball alive through quick recycling. The Big Game, 4v3 Combination Rugby, gives attackers a numbers advantage that only pays off if they combine stepping to create a gap with support to finish the play. Value focus: Mōhio, understanding how two separate skills — stepping and supporting — genuinely combine into one effective team play. Curriculum focus: Strands B and C, relating to others by linking individual and team skills."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Spread the Line",
+            "summary": "Opens the Attacking, Reading the Game & Decision-Making block by teaching width in attack. Spread & Pass has a line of five attackers using the full width of a marked area, passing along the line while maintaining even spacing. Numbers Wide has attackers counting off and touching an assigned width position before receiving a pass, reinforcing where they fit spatially, and Find the Wide Gap is a 3v2 in a wide channel where attackers must move the ball to whichever side is outnumbered rather than crowding the middle. The Big Game, Width Rugby, is played on a wide pitch with bonus points for any score that comes after the ball has travelled through at least three pairs of hands. Value focus: Manaaki, spreading out to genuinely create room for teammates rather than clustering around the ball. Curriculum focus: Strand B, thinking — using space intentionally as a team."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Find the Gap",
+            "summary": "Teaches players to read a defensive line before running. Spot the Gap has attackers walking toward a set defensive line, calling out loudly where they see the biggest space before the whistle allows them to move. Overload Read is a 3v2 or 4v3 attack where the attacking team must identify and run at whichever side of the line has fewer defenders, and Shifting Line Read has the defensive line shuffling between reps so attackers must re-read a genuinely different gap each time. The Big Game, Read & Run Rugby, periodically freezes play for two seconds so attackers consciously scan the line and choose their run before continuing. Value focus: Pānga, recognising that a well-read gap creates an opportunity for the whole attacking team, not just personal glory. Faith connection: Proverbs 2:6, for the Lord gives wisdom. Curriculum focus: Strand B, thinking — reading and interpreting a live, moving picture."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Pass or Run?",
+            "summary": "Focuses on the classic rugby decision — pass or run. Green Light / Red Light Decision has a carrier running toward a shadow defender, running if there's clear space and passing if the defender is set and ready. 2v1 Decision Drill is the classic scenario where the ball carrier must read whether the defender commits to them or to the passer before deciding, and Quick Call Grid gives every recycled carrier three seconds to decide pass or run, building genuine speed of decision-making. The Big Game, Decision Rugby, has the coach specifically praising good pass-or-run reads in the moment, not just successful outcomes. Value focus: Aroha, trusting a teammate enough to pass when that's genuinely the better option for the team. Faith connection: Philippians 2:3-4, valuing others above yourselves. Curriculum focus: Strand B, thinking — quick, sound decision-making under pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Boot It",
+            "summary": "Introduces a basic grubber kick as an attacking option. Static Grubber Practice has students practising the technique individually into open space, focusing on contact point and follow-through rather than distance. Grubber to a Target has partners taking turns kicking toward a marked zone, scored on accuracy rather than power, and Chase the Kick has a kicker grubbering into space while a partner sprints to collect and control it before it goes dead. The Big Game, Kick & Chase Rugby, allows one grubber kick per possession alongside normal passing and running, introducing a new attacking tool into the full game. Value focus: Mōhio, understanding when a kick genuinely helps the team rather than kicking just because it's new and fun to try. Curriculum focus: Strand B, managing self through a new, more specialised technical skill."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Over the Line",
+            "summary": "Teaches how to finish an attacking play cleanly. Grounding Practice has students carrying at speed and grounding the ball correctly over a marked line, without diving or unnecessary contact. Draw & Pass Finish has an attacker running at a single defender near the line and deciding whether to draw them and pass to a support player or finish themselves, and 2-on-1 Finish Race has small groups racing to finish a 2v1 situation correctly as many times as possible in ninety seconds. The Big Game, Finish Line Rugby, awards extra points for a clean, correctly decided finish rather than just for scoring at all. Value focus: Manaaki, making the decision that serves the team's score, not just personal glory in the corner. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — finishing decisions under real pressure."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Drift & Shift",
+            "summary": "Opens the final block with team drift defence. Drift Shuffle has a defensive line shuffling sideways together as the ball is passed along an attacking line opposite them, with no live tags, practising staying connected. Push Up, Don't Rush trains defenders to step forward together only when the ball is passed, resisting the urge to rush individually, and 3v3 Drift Practice removes tagging entirely so the defending team's only job is to drift and contain as a unit. The Big Game, Drift Defence Rugby, coaches this technique explicitly in a live 4v4 or 5v5 game while attackers try to beat the drifting line. Value focus: Pānga, understanding that one defender rushing out of position affects the whole team's line. Curriculum focus: Strands B and C, relating to others through coordinated team defence."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Switch It",
+            "summary": "Introduces a simple switch play in attack. Switch Pass Walkthrough has pairs walking slowly through the play — Player A runs one way, Player B crosses behind to take a short pass, changing the attack's direction. Switch vs. Shadow Defender runs the same play against a single defender reacting to the apparent direction, and Switch Chain Relay has groups of four chaining two switch plays together down the field, racing another group. The Big Game, Switch Play Rugby, encourages attacking teams to call and run at least one switch per possession, aiming to catch a drifting defence moving the wrong way. Value focus: Aroha, trusting a teammate enough to hand the ball across mid-play rather than holding onto it. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strand B, thinking — executing a planned team pattern."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Know Your Role",
+            "summary": "Teaches that a rippa rugby team is built from different, complementary roles. Role Carousel has small groups rotating through first receiver, support runner and sweeper/cover defender every ninety seconds in a continuous game. Structure Walkthrough sets up a simple attacking structure and has the team walk through where each role should stand, and Find Your Space Game assigns each player a role for that game only, awarding points when they're found in the correct structural position. The Big Game, Structured Small-Sided Rugby, keeps simple assigned roles live, coaching players to recognise how their individual job contributes to the team's shape. Value focus: Mōhio, understanding your own role and how it fits into something bigger than yourself. Curriculum focus: Strands B and C, relating to others through team structure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Game Day",
+            "summary": "Brings everything together in full-rules small-sided games. Tactic Spotlight Rounds runs short game rounds, each with a called-out focus tactic such as 'use width today'. Coach's Freeze & Reset occasionally pauses live play to briefly discuss the decision just made before resuming from that exact point, and Mini League Round Robin has short round-robin games between groups of four, rotating opponents and applying whichever tactics suit the situation. The Big Game, Full-Rules Small-Sided Rippa Rugby, plays with tags, backward passing and the three-step recycle rule live, with teams encouraged to consciously apply tactics from across the whole unit. Value focus: Manaaki, playing generously and fairly as everything from the unit comes together in a real contest. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: all four NZC strands applied together in full-rules play."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Rippa Rugby Cup",
+            "summary": "Closes the unit with a culminating mini-tournament. The Skills Warm-In Circuit revisits carrying, catching, evading, ripping and supporting as a light, fun refresher before competition begins. Captain's Huddle gives each team two minutes with a rotating 'captain' to plan one simple tactic for their first game, and Fair Play Check-In gives teams a moment between games to acknowledge one good play from their opponent, building sportsmanship into the tournament structure itself. The Big Game, Rippa Rugby Cup — Round Robin, is a full-rules mini-tournament across several short games, with results tracked lightly and playfully rather than as high-stakes competition. Value focus: Pānga, recognising the impact this whole unit has had on skills, teammates and how you treat opponents in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Netball",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Landing Zone",
+            "summary": "Opens Foundational Ball & Footwork Skills with netball's landing rules. Footwork Freeze has students moving freely in a grid and landing on command — 'one foot!' or 'two feet!' — then freezing exactly as called. Catch & Land has partners tossing gently and the receiver calling out which foot (or both) they landed on, and Landing Line Race has small groups jumping through a line of hoops or cones, alternating one-foot and two-foot landings, racing another group. The Big Game, Freeze Catch Netball, is 4v4 with no defending pressure yet — every catch must be followed by a clear, controlled landing, called out by the coach, before the next pass. Value focus: Aroha, patience with feet that don't land cleanly yet, and encouragement for teammates whose footwork looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Target Chest",
+            "summary": "Teaches the chest pass and its accuracy. Wall of Targets has partners chest passing through a small cone gate at chest height from increasing distances, scoring a point for every clean pass through. Step & Push has partners exaggerating the forward step and weight transfer into the throw, and Triangle Chest Pass Race has groups of three racing to complete ten accurate passes around a triangle. The Big Game, Possession Chest Pass Netball, is 4v4 with no defenders — one point for every five consecutive accurate chest passes, rewarding technique over speed. Value focus: Mōhio, understanding exactly what your hands and body are doing to make a pass accurate. Curriculum focus: Strand B, managing self through refining a core passing technique."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Bounce & Loft",
+            "summary": "Adds two more pass types to the toolkit. Bounce to a Target has partners aiming their bounce pass to land roughly two-thirds of the way between them and rise to waist height, while Overhead Over the Rope has partners throwing over a raised rope to simulate passing over a tall defender, focused on height and control rather than power. Choose Your Pass alternates between chest, bounce and overhead on a called instruction, building quick recognition of when each suits the situation. The Big Game, Three-Pass-Type Netball, requires teams to use all three pass types at least once in a scoring sequence, encouraging genuine variety rather than one default pass. Value focus: Manaaki, choosing the pass type that actually helps a teammate catch it cleanly, not just whichever is easiest to throw. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through a wider technical toolkit."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Strong Hands",
+            "summary": "Focuses on receiving a pass cleanly. Target Hands Catch has the receiver showing clear target hands — fingers spread, hands up — before every throw, and Catch & Secure has them bringing the ball in close to the body into a pivot-ready position immediately after catching. Pressure Receive adds a light shadow defender nearby, not intercepting yet, just adding visual pressure on the catch. The Big Game, Secure Catch Netball, is 4v4 with light shadow defence only, scoring for clean, secure catches under mild pressure, building toward full defending in later lessons. Value focus: Pānga, understanding that a confident target and a secure catch make the whole passing sequence work for the team. Curriculum focus: Strand B, managing self through receiving technique under early pressure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Pivot Power",
+            "summary": "Closes the block by teaching the pivot that protects the ball after landing. Static Pivot Practice has students catching a gentle toss, landing, and turning 180 degrees on their landing foot without dragging it, then passing. Shield & Pivot adds a nearby shadow defender who doesn't touch, while the receiver catches, lands and pivots to shield the ball with their body, and Pivot Under Pressure Grid requires a clean pivot after every catch before a pass is allowed, with a light defender adding decision pressure. The Big Game, Pivot & Protect Netball, resets possession to the other team any time 'footwork!' is called for a dragged or lifted landing foot. Value focus: Aroha, staying patient with yourself when footwork doesn't come off first time — everyone's still learning. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, a genuine footwork rule, closing the foundational block before next week's movement focus."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: On the Move",
+            "summary": "Opens Combining Movement & Introducing Defence by teaching pass-and-move. Pass & Move Relay has Player A passing to Player B then immediately jogging to a new spot to receive the ball back, repeated down the court. Give and Regive Gates has trios combining pass-and-move sequences through marked gates, racing another trio, while 1-2 vs Shadow Defender lets a pair attempt the same combination against a defender who can only intercept once the first pass has been played. The Big Game, Continuous Movement Netball, awards extra points for a sequence where every player moves after their own pass, encouraging constant, purposeful movement across the whole court. Value focus: Mōhio, understanding your role and where you fit in the play, not just standing still after passing. Curriculum focus: Strand B, relating to others by combining passing and movement."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Dodge & Dash",
+            "summary": "Teaches dodging to lose a marking defender. Shadow Dodge has a player dodging freely around a grid while a shadow defender mirrors from 1.5 metres away without touching, getting used to a defender's presence. Cone Dodge Sprint races an individual dodge run through a zig-zag of cones against their own best time, and 1v1 to a Gap has an attacker trying to dodge past a single defender to reach a marked space. The Big Game, Dodge to Receive Netball, only allows a pass to be thrown to an attacker once they've used a genuine dodge to lose their defender. Value focus: Manaaki, using a dodge fairly and cleanly so it's a real contest, not just barging past. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand B, managing self through purposeful evasive movement."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Lead the Way",
+            "summary": "Teaches the timing of a lead into space. Call & Lead has a passer calling 'now!' as the cue for their partner to lead sharply into space, building the timing connection between passer and receiver. Read the Gap Lead removes the verbal cue, requiring the receiver to watch their defender and lead the moment they're out of position, and Triangle Lead Relay has groups of three rotating through leading, receiving and passing, racing other triangles for clean completions. The Big Game, Timed Lead Netball, has the coach specifically celebrating well-timed leads, reinforcing that arriving in space at the right moment is as valuable as the pass itself. Value focus: Pānga, recognising that a well-timed lead creates an opportunity for the whole team's attack, not just yourself. Curriculum focus: Strand B, thinking — reading a defender and choosing the right moment to move."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Triple Combo",
+            "summary": "Combines this fortnight's three skills — dodge, lead and receive — into one sequence. Dodge-Lead-Catch Drill walks a player slowly through dodging a shadow defender, leading into space, and catching a pass, before speeding it up. 2v1 Combo Challenge has the attacker without the ball combining a dodge and lead to get free and receive from their teammate, and Continuous Combo Game requires every reception in a small-sided game to be preceded by a visible dodge-and-lead sequence. The Big Game, 4v3 Combination Netball, gives attackers a numbers advantage that only pays off if dodging, leading and catching are genuinely combined. Value focus: Aroha, enjoying the game and encouraging teammates as everyone tries to link these skills together. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing multiple skills into one effective action."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Shadow the Pass",
+            "summary": "Closes the block by introducing defending — marking the pass at the correct distance. Distance Check has partners practising standing exactly 0.9 metres (about one long step) from a player holding the ball, checked with a cone marker. Read the Pass has a defender marking a player and trying to read which direction the pass will go, moving to intercept without contacting anyone, and Marking Grid Game has every player with the ball marked correctly in a continuous small game. The Big Game, Marked Pass Netball, requires every ball-holder to be marked at the correct distance before a pass can be thrown, introducing live defending pressure for the first time. Value focus: Mōhio, understanding the marking distance rule and reading a passer's intention within it. Curriculum focus: Strand B, managing self through a new defensive rule."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Read & Intercept",
+            "summary": "Opens Shooting, Space & Positional Play by extending defending toward shooters and passing lanes. Shooter Mark Practice has a defender marking a shooter at the correct distance without interfering with the shot itself, while Passing Lane Read has a defender stepping into the lane between two attackers, reading the passer's body language to attempt an interception. Intercept Relay rotates defenders through a series of passes, racing to reach a target number of clean interceptions. The Big Game, Read & Defend Netball, uses marked shooting circles, with defenders focused on fair shooter marking and reading passing lanes while attackers look for a clear passing option. Value focus: Manaaki, marking fairly and reading the game rather than simply crowding an attacker. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through fair, controlled defensive positioning."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Sweet Shot",
+            "summary": "Introduces shooting technique for the shooting positions. Balanced Stance Practice has students setting up the shooting stance — feet shoulder-width, ball held above the head, fingers spread — without shooting yet. Soft Arc Shooting has close-range shots focused on a high, soft arc rather than a flat, hard shot, and Shot Count Challenge tracks clean makes out of ten attempts, rewarding consistent technique over power. The Big Game, Shooting Circle Netball, restricts shooting to a marked circle, with the rest of the team focused on getting the ball there through good passing. Value focus: Pānga, thinking ahead about landing the ball in the circle for a genuine scoring chance, not just shooting from anywhere. Curriculum focus: Strand B, thinking — a deliberate, technical decision before acting."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Pressure Shooting",
+            "summary": "Adds real defensive pressure to shooting. Shadow Shot has a shooter practising technique with a nearby but non-intercepting defender, getting used to a presence without pressure on the shot itself. Shoot or Pass Decision requires a shooter near the circle to decide whether to shoot immediately or pass to a better-positioned teammate based on the defence, and Pressure Shot Count tracks clean makes against a live, correctly marking defender. The Big Game, Pressure Shooting Netball, coaches shooters to maintain technique and make good shoot-or-pass decisions under realistic pressure. Value focus: Aroha, enjoying the challenge and encouraging a shooter whose shot doesn't fall under pressure. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self and thinking under defensive pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Know Your Third",
+            "summary": "Introduces understanding the court's thirds as a first step into positional awareness. Third Spotter has students walking or jogging around a marked court, calling out which third they're standing in as different thirds are called. Positional Boundary Game assigns small groups simplified positions — defence third only, centre third only — while they practise passing within their zone, and Transition Third Relay passes the ball down the court through all three thirds in sequence, with players entering and leaving play as the ball crosses each line. The Big Game, Thirds-Aware Netball, gently reminds players of simplified positional boundaries ahead of full positions next lesson. Value focus: Mōhio, understanding where you're allowed and expected to be on the court and why. Curriculum focus: Strand B, thinking — spatial awareness within a structured game."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Find Your Spot",
+            "summary": "Builds on thirds by introducing simplified positional roles. Position Carousel rotates small groups through shooter, centre and defender roles every few minutes in a continuous game. Position Walkthrough sets up a simple team structure and has the team walk through where each position should stand as the ball moves, and Find Your Space Game assigns each player a position for that game only, awarding points when they're found in the correct area. The Big Game, Positional Small-Sided Netball, coaches players to recognise how their individual position contributes to the team's overall shape. Value focus: Manaaki, understanding that every position — not just shooter — genuinely serves the team. Faith connection: 1 Corinthians 12:12, the body has many parts, working together. Curriculum focus: Strands B and C, relating to others through positional structure."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Centre Stage",
+            "summary": "Closes the block by teaching a planned centre pass strategy. Centre Pass Walkthrough has the team slowly working through a simple pattern — centre passes to a leading attacker, others move to support — before any defence is added. Centre Pass vs Shadow Defence runs the same pattern against non-intercepting shadow defenders, and Centre Pass Race has groups executing their centre pass and first two passes as fast and cleanly as possible, racing another group. The Big Game, Centre Pass Netball, uses a real centre pass at every restart, encouraging teams to run their planned pattern each time and beat a disorganised defence early. Value focus: Pānga, understanding that a well-rehearsed centre pass benefits the whole team's first move, not just the centre. Curriculum focus: Strand B, thinking — planning and rehearsing a team pattern, closing Shooting, Space & Positional Play."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Attack Patterns",
+            "summary": "Opens the final block by teaching planned attacking patterns. Pattern Walkthrough has the team slowly working through a simple attacking pattern, such as pass-and-move into the circle, using cone markers before adding pace or defence. Pattern vs Shadow Defence runs the pattern against non-intercepting defenders to build confidence with a defensive presence nearby, and Read & Adjust requires the team to run the pattern but switch to a backup option if a defender blocks the first choice. The Big Game, Attacking Pattern Netball, encourages teams to run at least one planned pattern per possession, adjusting when the defence covers the first option. Value focus: Aroha, trusting teammates enough to run a planned pattern together rather than relying on one player. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strand B, thinking — executing and adapting a team plan."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Team Wall",
+            "summary": "Teaches defending as a coordinated team strategy. Call the Danger has the defensive team practising loud, clear calls whenever an attacker is dangerous — open, about to receive, or about to shoot — so teammates can help cover. Cover & Recover has one defender briefly leaving their direct mark to cover a bigger danger while a teammate calls out and helps recover the original mark, and Team Defence Grid has the whole defending team focused purely on communicating and covering for each other. The Big Game, Team Defence Netball, coaches communication and covering explicitly while attackers try to exploit any gaps. Value focus: Mōhio, understanding how one defender's movement affects the whole team's defensive shape. Curriculum focus: Strands B and C, relating to others through coordinated team defence."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Position Swap",
+            "summary": "Brings the unit together in full-rules games with rotating positions. Tactic Spotlight Rounds runs short game rounds with a called-out focus tactic, such as 'use your lead timing today'. Coach's Freeze & Reset occasionally pauses live play to briefly discuss the decision just made before resuming from that point, and Position Rotation Game has players swapping positions every few minutes, applying whichever tactics suit their current role. The Big Game, Full-Rules Small-Sided Netball, plays footwork, marking distance and thirds live, encouraging teams to consciously apply tactics from across the whole unit. Value focus: Manaaki, playing generously and fairly in every position, not just a favourite one. Faith connection: Philippians 2:3-4, valuing others above yourselves. Curriculum focus: all four NZC strands applied together in full-rules play."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Netball Cup",
+            "summary": "Closes the unit with a culminating mini-tournament. The Skills Warm-In Circuit revisits passing and catching, footwork, dodge and lead, shooting and defending as a light, fun refresher before competition begins. Captain's Huddle gives each team two minutes with a rotating 'captain' to plan one simple tactic for their first game, and Fair Play Check-In gives teams a moment between games to acknowledge one good play from their opponent. The Big Game, Netball Cup — Round Robin, is a full-rules mini-tournament across several short games, with results tracked lightly and playfully rather than as high-stakes competition. Value focus: Pānga, recognising the impact this whole unit has had on skills, teammates and how you treat opponents in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Basketball",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Home Base Dribble",
+            "summary": "Opens Foundational Ball Handling & Footwork with control on the spot. Fingertip Focus has students dribbling continuously in a personal space using only their fingertips, pushing rather than slapping the ball. Eyes Up Count has them holding up fingers on their non-dribbling hand when the teacher calls 'show me!', forcing eyes off the ball, and Freeze & Balance has a partner watching for a dead-stop freeze under full control with no travelling. The Big Game, Musical Dribble, has the whole class dribbling to music in a large grid, freezing under control the instant it stops, with anyone whose ball gets away needing a moment to recover it. Value focus: Aroha, patience with a ball that doesn't sit under control yet, and encouragement for classmates whose dribble looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Hand Swap",
+            "summary": "Adds movement and a change of hand to yesterday's control. Walking Dribble Lanes has students dribbling the length of a marked lane while walking, then racing back using the other hand. Cone Hand-Swap Slalom requires a hand swap every time they change direction around a cone, and Shrinking Grid Dribble has the whole class dribbling inside a grid that shrinks every thirty seconds, swapping hands on call while weaving to find space. The Big Game, Dribble Tag, has everyone dribbling their own ball while gently tapping others' balls away and protecting their own, with no grabbing or hand contact allowed. Value focus: Mōhio, understanding what each hand is doing and noticing which feels more natural as it starts to click. Curriculum focus: Strand B, managing self by reading and adjusting body movement."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Guard the Rock",
+            "summary": "Introduces real opposition to dribbling. Shadow Dribble has a defender staying an arm's length away and mirroring without reaching for the ball, just to get the dribbler used to a presence nearby. Shield & Switch has the dribbler turning slightly away from the defender and switching the ball to the far hand, using the non-dribbling arm to shield it, and 1v1 Protect the Rock gives a player ten seconds to protect the ball in a small square against a light-touch defender. The Big Game, Keep-Away Basketball, is 3v3 or 4v4 with no hoops — a team scores a point for every five consecutive dribbles or passes kept under real pressure. Value focus: Manaaki, giving an opponent a fair, honest challenge — competitive but not so hard it stops being fun. Faith connection: Philippians 2:4, looking not only to your own interests but also to those of others. Curriculum focus: Strand B, managing self and relating to others under pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Two-Way Passer",
+            "summary": "Shifts the week's focus to chest and bounce passing accuracy. Wall of Targets has partners chest passing through a small cone gate at chest height from increasing distances, and Bounce to a Target has them aiming their bounce pass to land roughly two-thirds of the way between them and rise to waist height. Choose Your Pass alternates between the two on a called instruction, building quick recognition of when each suits the situation. The Big Game, Two-Pass-Type Basketball, requires both a chest and a bounce pass at least once in a scoring sequence, encouraging a fuller passing toolkit rather than one default. Value focus: Pānga, recognising that the right pass at the right moment makes the game better for a teammate, not just yourself. Faith connection: Romans 12:10, honouring one another above yourselves. Curriculum focus: Strand B, relating to others through varied, intentional passing."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Catch & Turn",
+            "summary": "Closes the block by teaching receiving and pivoting together. Target Hands Catch has the receiver showing clear target hands before every throw, bringing the ball in close afterward. Static Pivot Practice has students catching a gentle pass, landing, and turning 180 degrees on their landing foot without dragging it, and Shield & Pivot adds a nearby non-touching shadow defender while the receiver catches, lands and pivots to shield the ball. The Big Game, Secure Catch Basketball, uses light shadow defence only, scoring for clean catches and legal pivots under mild pressure. Value focus: Aroha, staying patient and kind with yourself and teammates when a pivot doesn't go to plan. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through refined footwork, closing Foundational Ball Handling before next week's combination skills."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Give and Go",
+            "summary": "Opens Combining Skills & Shooting by teaching players to move after they pass. Wall Pass Relay has Player A passing to Player B then immediately jogging to a new cone to receive the ball back, repeated down a channel. Give and Go Gates has trios combining give-and-go passes through a series of gates, racing another trio, while 1-2 vs Shadow Defender lets a pair attempt the same combination against a defender who can only intercept once the first pass has been played. The Big Game, 3v3 + 1 Target Player Basketball, uses small hoops and a target player to create natural give-and-go opportunities. Value focus: Mōhio, understanding your role and where you fit in the play, not just reacting. Curriculum focus: Strand B, relating to others by combining passing and movement."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Perfect Form",
+            "summary": "Introduces shooting technique in isolation before adding pressure. Balanced Stance Practice sets up the set shot stance — feet shoulder-width, ball above the head, elbow tucked — without shooting yet. Step-Step-Shoot Walkthrough has students walking through basic lay-up footwork, two controlled steps toward the hoop then a gentle release, and Shot Streak Challenge rotates small groups through quick-fire set shots, tracking consecutive clean-technique attempts as a team streak. The Big Game, Small-Sided Shooting Basketball, keeps the emphasis on technique over outcome — the coach praises a well-formed shot even when it misses. Value focus: Manaaki, practising a skill faithfully with real effort even when it doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful skill practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Spot Shooter",
+            "summary": "Moves shooting from technique to accuracy across varied spots. Five Spot Shootout has students rotating through five marked positions around the hoop, varying angle and distance, taking one shot from each. Call Your Spot has a partner calling which spot to shoot from next, building quick adaptation, and Spot Streak Challenge has small groups competing for the most clean shots across all five spots within a time limit. The Big Game, Spot Value Basketball, marks shooting spots with different point values — further, harder angles worth more — so teams choose which spots to attack based on what's open. Value focus: Pānga, thinking ahead about where a shot will have the most impact rather than just reacting. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Triple Threat",
+            "summary": "Brings dribbling, passing and shooting together in one flowing sequence for the first time. The Dribble-Pass-Shoot Drill has a player dribbling toward the hoop, then reading whether to pass to a moving teammate or pull up and shoot. 2v1 Combo Challenge has two attackers combining a dribble with a pass-or-shoot decision against a single defender, and the Continuous Combo Game rewards any scoring attempt preceded by a visible dribble-then-decision sequence. The Big Game, 4v3 Combination Basketball, gives attackers a numbers advantage that only pays off by combining all three skills cleanly. Value focus: Aroha, enjoying the game and celebrating good combinations as a team, not just baskets scored. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing multiple skills into one effective action."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Pivot Escape",
+            "summary": "Closes the block by teaching pivoting under genuine pressure. Multi-Direction Pivot has students catching a pass and practising several pivot directions around their landing foot, scanning for an imaginary passing option each time. Pressure Pivot adds a shadow defender applying light, hands-off pressure while the receiver pivots to shield the ball and find a lane away from them, and Trapped Corner Escape places a player in a tight corner grid, needing to pivot to find any legal escape from real pressure. The Big Game, Pivot Under Pressure Basketball, requires every catch to be followed by a legal pivot before passing or shooting. Value focus: Mōhio, reading pressure and space before deciding which way to turn. Curriculum focus: Strand B, managing self through composed footwork under pressure, closing Combining Skills & Shooting."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Wall Up",
+            "summary": "Opens Defending, Attacking & Positional Play by teaching a solid defensive stance. Stance Check has students practising the low defensive stance — knees bent, feet shoulder-width, hands up and active — while a partner checks their form. Slide & Stay has an attacker moving side to side along a line while the defender slides to stay directly in front without crossing their feet, and 1v1 Stay in Front tests that stance live in a small grid, with the defender's only job being to stay in front fairly. The Big Game, Stance & Slide Basketball, has the coach highlighting good stance and sliding footwork as much as any steal attempt. Value focus: Manaaki, understanding that good defending — a role with no scoring — is still a genuine gift to the team. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through disciplined defensive positioning."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Close Out",
+            "summary": "Builds on defensive stance by teaching a controlled closeout on a shooter. Choppy Steps Approach has students closing out from a few metres away using short, choppy steps to slow down under control as they approach an imaginary shooter. Hand Up, No Touch has a partner holding a shooting stance while the defender closes out and raises one hand to contest without touching the ball or crowding too close, and Closeout Relay races small groups through controlled closeouts from different distances and angles without fouling. The Big Game, Closeout Basketball, gives bonus recognition for a well-controlled, fair contest on a shot rather than just a block. Value focus: Pānga, understanding that a fair, controlled closeout is good for the whole game, while a reckless one isn't. Faith connection: Proverbs 11:3, the integrity of the upright guides them. Curriculum focus: Strand B, managing self through timing and fair play."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Cut & Clear",
+            "summary": "Turns attention to attacking movement — cutting into space. Call & Cut has a passer calling 'now!' as the cue for their partner to cut sharply into space, building the timing connection between passer and cutter. Read the Gap Cut removes the verbal cue, requiring the cutter to watch their defender and cut the moment they're out of position, and Triangle Cut Relay rotates groups of three through cutting, receiving and passing, racing other triangles for clean completions. The Big Game, Timed Cut Basketball, has the coach specifically celebrating well-timed cuts, reinforcing that arriving in space at the right moment is as valuable as the pass itself. Value focus: Aroha, actively looking out for a teammate on the ball by making yourself a genuine option. Curriculum focus: Strand B, thinking — reading a defender and choosing the right moment to move."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Pick Me",
+            "summary": "Introduces screening — using a teammate to get free. Statue Screen has one student standing completely still in a marked spot while a partner practises cutting close by to lose an imaginary defender. Screen & Cut Combo has one player setting a legal, stationary screen for a shadowed teammate to use to get free, and Screen Rotation Game rotates roles — screener, cutter, defender — every couple of minutes so everyone practises each part. The Big Game, Pick & Roll Basketball, encourages at least one legal screen per possession, with the coach highlighting successful, legal screening plays. Value focus: Mōhio, understanding how a screen genuinely helps a teammate, not just standing in the way. Curriculum focus: Strands B and C, relating to others through a team-based technique."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Box Out",
+            "summary": "Teaches rebounding basics — positioning before the ball arrives. Turn and Box has partners practising gentle, balanced body contact to claim space in front of an opponent, holding a wide, low stance. Box Out & Collect has a partner tossing the ball off a wall or backboard while the student boxes out an imaginary or light-touch opponent before collecting the rebound, and Rebound Rumble has small groups competing to box out and collect the most rebounds off a series of tosses, tracked as a friendly tally. The Big Game, Box Out Basketball, treats every missed shot as a live rebound opportunity, coaching players to box out before chasing the ball. Value focus: Manaaki, using fair, safe positioning to earn a rebound rather than grabbing or pushing. Faith connection: Philippians 2:3, do nothing out of selfish ambition. Curriculum focus: Strand B, managing self through safe, fair body contact."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Fast Break",
+            "summary": "Opens the final block with fast break basics — outnumbering the defence. The Fast Break Walkthrough has the team slowly working through a simple pattern: after a rebound or steal, players sprint into lanes while one dribbles or passes ahead. 3v2 Numbers Up has three attackers pushing the ball against only two defenders, practising quick pass-or-hold decisions, and Fast Break Race has groups executing a clean fast break sequence and finish as fast as possible, racing another group. The Big Game, Fast Break Basketball, encourages teams to push the ball quickly and recognise any numbers advantage whenever they gain possession off a rebound or turnover. Value focus: Pānga, recognising a genuine numbers advantage and using it to benefit the whole team's attack. Curriculum focus: Strand B, thinking — reading and reacting to a fast-changing situation."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Keep Away",
+            "summary": "Brings the unit's passing and movement skills together under real pressure. Triangle Support has groups of three keeping the ball moving, with the two off-ball players always repositioning to form good passing angles. 4v2 Keep Away has four attackers keeping the ball from two defenders in a marked grid, focusing on movement and quick decisions, and the Possession Streak Challenge tracks a team's longest streak of consecutive passes, chasing their own best. The Big Game, Keep Away Basketball, scores a point for every six consecutive passes kept as a team, rewarding movement and communication over individual dribbling. Value focus: Aroha, enjoying the challenge together and celebrating a long team streak, not just individual skill. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strands B and C, relating to others through coordinated possession."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Team Flow",
+            "summary": "Teaches planned team offence patterns. Pattern Walkthrough has the team slowly working through a simple attacking pattern, such as pass-cut-screen toward the hoop, using cone markers before adding pace or defence. Pattern vs Shadow Defence runs the same pattern against non-intercepting defenders to build confidence with a presence nearby, and Read & Adjust requires the team to switch to a backup option if a defender blocks the first choice. The Big Game, Team Offence Basketball, encourages teams to run at least one planned pattern per possession, adjusting when the defence covers it. Value focus: Mōhio, understanding the team's overall plan and your part in making it work, not just your own touches. Curriculum focus: Strand B, thinking — executing and adapting a team plan."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Team Wall",
+            "summary": "Teaches defending as a coordinated team strategy. Call the Danger has the defensive team practising loud, clear calls whenever an attacker is dangerous — open, about to receive, or about to shoot — so teammates can help cover. Cover & Recover has one defender briefly leaving their direct mark to cover a bigger danger while a teammate calls out and helps recover the original mark, and Team Defence Grid has the whole defending team focused purely on communicating and covering for each other. The Big Game, Team Defence Basketball, coaches communication and covering explicitly while attackers try to exploit any gaps. Value focus: Manaaki, serving the team by covering for a teammate's gap, not just guarding your own player. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strands B and C, relating to others through coordinated team defence."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Hoops Cup",
+            "summary": "Closes the unit with a culminating mini-tournament. The Skills Warm-In Circuit revisits dribbling, passing and catching, shooting and defending as a light, fun refresher before competition begins. Captain's Huddle gives each team two minutes with a rotating 'captain' to plan one simple tactic for their first game, and Fair Play Check-In gives teams a moment between games to acknowledge one good play from their opponent. The Big Game, Hoops Cup — Round Robin, is a full simplified-rules mini-tournament across several short games, with results tracked lightly and playfully rather than as high-stakes competition. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, teammates and how you treat opponents in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hockey",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Glue Stick",
+            "summary": "Opens Foundational Stick & Ball Control with control on the spot. Tap Tap Control has students tapping the ball gently side to side with the flat face of the stick, keeping it within a small square. Eyes Up Taps has them holding up fingers on their non-stick hand when the teacher calls 'show me!', forcing their head up, and Freeze & Balance has a partner watching for a dead-stop freeze under the stick with no rolling away. The Big Game, Musical Dribble, has the whole class dribbling to music in a large grid, freezing under control the instant it stops. Value focus: Aroha, patience with a ball that doesn't sit under the stick yet, and encouragement for classmates whose control looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Indian Dribble",
+            "summary": "Adds side-to-side stick control on the move. Walking Indian Dribble Lanes has students dribbling the length of a marked lane while walking, tapping the ball across their body. Cone Weave Dribble uses the Indian dribble to move the ball side to side around each cone in a zig-zag, and Shrinking Grid Dribble has the whole class weaving to find space inside a grid that shrinks every thirty seconds. The Big Game, Dribble Tag, has everyone dribbling their own ball while gently tapping others' balls away with the flat of their stick, no reaching for sticks or bodies allowed. Value focus: Mōhio, understanding what the stick is doing on each side of the body and noticing what changes as it starts to click. Curriculum focus: Strand B, managing self by reading and adjusting body movement."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Shield the Ball",
+            "summary": "Introduces real opposition to dribbling. Shadow Dribble has a defender staying a stick's length away and mirroring without reaching for the ball, just to get the dribbler used to a presence nearby. Shield & Turn has the dribbler turning slightly away from the defender and rolling the ball to the far side of their body to shield it, staying low and balanced, and 1v1 Protect the Ball gives a player ten seconds to protect the ball against a light-touch defender attempting a fair tackle. The Big Game, Keep-Away Hockey, is 3v3 or 4v4 with no goals — a team scores a point for every five consecutive dribbles or passes kept under real pressure. Value focus: Manaaki, giving an opponent a fair, honest challenge — competitive but not so hard it stops being fun. Faith connection: Philippians 2:4, looking not only to your own interests but also to those of others. Curriculum focus: Strand B, managing self and relating to others under pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Push Pass Precision",
+            "summary": "Shifts the week's focus to push pass accuracy. Wall of Targets has partners push passing through a small cone gate from increasing distances, scoring a point when the ball rolls cleanly through and flat. Sweep to a Target introduces the wider sweep pass for balls slightly to the side, aiming for the ball to arrive flat at a partner's stick, and Choose Your Pass alternates between push and sweep on a called instruction. The Big Game, Two-Pass-Type Hockey, requires both a push and a sweep pass at least once in a scoring sequence, encouraging a fuller passing toolkit. Value focus: Pānga, recognising that the right pass at the right moment makes the game better for a teammate, not just yourself. Faith connection: Romans 12:10, honouring one another above yourselves. Curriculum focus: Strand B, relating to others through varied, intentional passing."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Receive & Turn",
+            "summary": "Closes the block by teaching first touch and turning. Soft Hands Receive has the receiver cushioning every pass to a dead stop under their stick before pushing it back. Receive & Open Up has students controlling a gentle pass while turning their body and stick to face a new direction, and Shield & Receive adds a nearby non-touching shadow defender while the receiver controls and turns to shield the ball. The Big Game, Secure Receive Hockey, uses light shadow defence only, scoring for clean receives and controlled turns under mild pressure. Value focus: Aroha, staying patient and kind with yourself and teammates when a first touch doesn't go to plan. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through refined first touch, closing Foundational Stick & Ball Control before next week's combination skills."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Give and Go",
+            "summary": "Opens Combining Skills & Shooting by teaching players to move after they pass. Wall Pass Relay has Player A passing to Player B then immediately jogging to a new cone to receive the ball back, repeated down a channel. Give and Go Gates has trios combining give-and-go passes through a series of gates, racing another trio, while 1-2 vs Shadow Defender lets a pair attempt the same combination against a defender who can only intercept once the first pass has been played. The Big Game, 3v3 + 1 Target Player Hockey, uses small or cone goals and a target player to create natural give-and-go opportunities. Value focus: Mōhio, understanding your role and where you fit in the play, not just reacting. Curriculum focus: Strand B, relating to others by combining passing and movement."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Perfect Push",
+            "summary": "Introduces the push shot in isolation before adding pressure. Balanced Stance Practice sets up a low stance with the stick close to the ball and weight moving forward, without shooting hard yet. Push Shot Walkthrough has students walking through the shot from a stationary ball at a target, focused on a low, flat strike that stays on the ground, and Shot Streak Challenge rotates small groups through quick-fire push shots, tracking consecutive clean-technique attempts. The Big Game, Small-Sided Shooting Hockey, keeps the emphasis on technique over outcome — the coach praises a well-struck shot even when it misses. Value focus: Manaaki, practising a skill faithfully with real effort even when it doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful skill practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Spot Shooter",
+            "summary": "Moves shooting from technique to accuracy across varied spots. Five Spot Shootout has students rotating through five marked positions around the goal, varying angle and distance, taking one shot from each. Call Your Spot has a partner calling which spot to shoot from next, building quick adaptation, and Spot Streak Challenge has small groups competing for the most clean shots across all five spots within a time limit. The Big Game, Spot Value Hockey, marks shooting spots with different point values — further, harder angles worth more — so teams choose which spots to attack based on what's open. Value focus: Pānga, thinking ahead about where a shot will have the most impact rather than just reacting. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Combo Play",
+            "summary": "Brings dribbling, passing and shooting together in one flowing sequence for the first time. The Dribble-Pass-Shoot Drill has a player dribbling toward the goal, then reading whether to pass to a moving teammate or pull up and shoot. 2v1 Combo Challenge has two attackers combining a dribble with a pass-or-shoot decision against a single defender, and the Continuous Combo Game rewards any scoring attempt preceded by a visible dribble-then-decision sequence. The Big Game, 4v3 Combination Hockey, gives attackers a numbers advantage that only pays off by combining all three skills cleanly. Value focus: Aroha, enjoying the game and celebrating good combinations as a team, not just goals scored. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing multiple skills into one effective action."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Reverse Stick Escape",
+            "summary": "Closes the block by teaching the reverse stick to escape pressure. Reverse Stick Rolls has students dribbling in a straight line and practising rolling the ball onto the reverse side of the stick and back again, scanning for an imaginary passing option. Pressure Reverse adds a shadow defender applying light, sticks-off pressure while the dribbler uses the reverse stick to shield the ball, and Trapped Corner Escape places a player in a tight corner grid, needing the reverse stick to find any legal escape from real pressure. The Big Game, Reverse Stick Under Pressure Hockey, encourages every player receiving the ball under pressure to use reverse stick control at least once before passing or shooting. Value focus: Mōhio, reading pressure and space before deciding which side of the stick to use. Curriculum focus: Strand B, managing self through advanced stickwork under pressure, closing Combining Skills & Shooting."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Jab Ready",
+            "summary": "Opens Defending, Attacking & Positional Play by teaching a solid defensive stance. Stance Check has students practising the low defensive stance — knees bent, feet shoulder-width, stick down and active in front of the body — while a partner checks their form. Slide & Stay has an attacker moving side to side along a line while the defender slides to stay directly in front, stick down and active, and 1v1 Stay in Front tests that stance live, with the defender's only job being to stay in front fairly using footwork, not tackling yet. The Big Game, Stance & Slide Hockey, has the coach highlighting good stance and sliding footwork as much as any tackle attempt. Value focus: Manaaki, understanding that good defending — a role with no scoring — is still a genuine gift to the team. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through disciplined defensive positioning."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Block Tackle",
+            "summary": "Builds on defensive stance by teaching a timed, clean block tackle. Block Tackle Practice has an attacker dribbling slowly in a straight line while the defender practises getting their stick down early and square to block the ball cleanly at controlled pace. Win It Clean 1v1 raises the stakes with a live grid game where the defender only scores for a genuinely clean, controlled block tackle, and Tackle & Transition rewards a good tackle immediately — the moment the defender wins it cleanly, they become the attacker and dribble to a target. The Big Game, Controlled Approach Hockey, has the coach specifically praising well-timed, clean tackles. Value focus: Pānga, understanding that a fair, well-timed tackle is good for the whole game, while a reckless one isn't. Faith connection: Proverbs 11:3, the integrity of the upright guides them. Curriculum focus: Strand B, managing self through timing and fair play."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Cut & Clear",
+            "summary": "Turns attention to attacking movement — cutting into space. Call & Cut has a passer calling 'now!' as the cue for their partner to cut sharply into space, building the timing connection between passer and cutter. Read the Gap Cut removes the verbal cue, requiring the cutter to watch their defender and cut the moment they're out of position, and Triangle Cut Relay rotates groups of three through cutting, receiving and passing, racing other triangles for clean completions. The Big Game, Timed Cut Hockey, has the coach specifically celebrating well-timed cuts, reinforcing that arriving in space at the right moment is as valuable as the pass itself. Value focus: Aroha, actively looking out for a teammate on the ball by making yourself a genuine option. Curriculum focus: Strand B, thinking — reading a defender and choosing the right moment to move."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Dummy Run",
+            "summary": "Introduces the decoy run — creating space for a teammate by running away from the ball. Committed Decoy has one student making a full-speed run into space away from the ball while a partner notices the space that opens up and moves into it instead. Decoy & Receive Combo has a shadowed player make the dummy run while a teammate reads the created space and receives the pass, and Role Rotation Game rotates roles — decoy, receiver, defender — every couple of minutes so everyone practises each part. The Big Game, Dummy Run Hockey, encourages at least one committed dummy run per possession, with the coach highlighting successful, well-timed decoys. Value focus: Mōhio, understanding that a run away from the ball can still be the most useful action on the field. Curriculum focus: Strands B and C, relating to others through unselfish movement."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Second Ball",
+            "summary": "Teaches reacting to and positioning for loose balls near the circle. Anticipate & React has partners practising a quick reaction to a rolled ball released without warning, positioning body and stick to get there first. Rebound & Collect has a partner pushing the ball off a wall or rebound board while the student reacts and moves to collect it ahead of an imaginary or light-touch opponent, and Loose Ball Rumble has small groups competing to win the most loose balls off a series of rolls or missed shots. The Big Game, Second Ball Hockey, treats every missed shot as a live loose-ball opportunity, coaching players to react and position first. Value focus: Manaaki, using fair, safe positioning to win a loose ball rather than reckless contact. Faith connection: Philippians 2:3, do nothing out of selfish ambition. Curriculum focus: Strand B, managing self through safe, alert positioning."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Fast Break",
+            "summary": "Opens the final block with fast break basics — outnumbering the defence. The Fast Break Walkthrough has the team slowly working through a simple pattern: after winning the ball, players sprint into lanes while one dribbles or passes ahead. 3v2 Numbers Up has three attackers pushing the ball against only two defenders, practising quick pass-or-hold decisions, and Fast Break Race has groups executing a clean fast break sequence and finish as fast as possible, racing another group. The Big Game, Fast Break Hockey, encourages teams to push the ball quickly and recognise any numbers advantage whenever they win possession. Value focus: Pānga, recognising a genuine numbers advantage and using it to benefit the whole team's attack. Curriculum focus: Strand B, thinking — reading and reacting to a fast-changing situation."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Keep Away",
+            "summary": "Brings the unit's passing and movement skills together under real pressure. Triangle Support has groups of three keeping the ball moving, with the two off-ball players always repositioning to form good passing angles. 4v2 Keep Away has four attackers keeping the ball from two defenders in a marked grid, focusing on movement and quick decisions, and the Possession Streak Challenge tracks a team's longest streak of consecutive passes, chasing their own best. The Big Game, Keep Away Hockey, scores a point for every six consecutive passes kept as a team, rewarding movement and communication over individual dribbling. Value focus: Aroha, enjoying the challenge together and celebrating a long team streak, not just individual skill. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strands B and C, relating to others through coordinated possession."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Team Flow",
+            "summary": "Teaches planned team offence patterns. Pattern Walkthrough has the team slowly working through a simple attacking pattern, such as pass-cut-dummy run toward the goal, using cone markers before adding pace or defence. Pattern vs Shadow Defence runs the same pattern against non-intercepting defenders to build confidence with a presence nearby, and Read & Adjust requires the team to switch to a backup option if a defender blocks the first choice. The Big Game, Team Offence Hockey, encourages teams to run at least one planned pattern per possession, adjusting when the defence covers it. Value focus: Mōhio, understanding the team's overall plan and your part in making it work, not just your own touches. Curriculum focus: Strand B, thinking — executing and adapting a team plan."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Team Wall",
+            "summary": "Teaches defending as a coordinated team strategy. Call the Danger has the defensive team practising loud, clear calls whenever an attacker is dangerous — open, about to receive, or about to shoot — so teammates can help cover. Cover & Recover has one defender briefly leaving their direct mark to cover a bigger danger while a teammate calls out and helps recover the original mark, and Team Defence Grid has the whole defending team focused purely on communicating and covering for each other. The Big Game, Team Defence Hockey, coaches communication and covering explicitly while attackers try to exploit any gaps. Value focus: Manaaki, serving the team by covering for a teammate's gap, not just guarding your own player. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strands B and C, relating to others through coordinated team defence."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Hockey Cup",
+            "summary": "Closes the unit with a culminating mini-tournament. The Skills Warm-In Circuit revisits dribbling, passing and receiving, shooting and defending as a light, fun refresher before competition begins. Captain's Huddle gives each team two minutes with a rotating 'captain' to plan one simple tactic for their first game, and Fair Play Check-In gives teams a moment between games to acknowledge one good play from their opponent. The Big Game, Hockey Cup — Round Robin, is a full simplified-rules mini-tournament across several short games, with results tracked lightly and playfully rather than as high-stakes competition. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, teammates and how you treat opponents in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Volleyball",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Bubble Control",
+            "summary": "Opens Foundational Ball Control with simple taps and catches. Catch & Tap has students tossing to themselves, catching softly above the forehead, tapping straight back up, and building reps. Keep It Up has individuals keeping the ball off the ground using taps only inside a small grid, and Circle Pop-Up has groups of four or five tapping to each other in a circle, calling the receiver's name before each tap. The Big Game, Circle Keep-It-Up Challenge, has larger groups counting consecutive taps kept off the ground as a team, racing other circles for the highest streak. Value focus: Aroha, patience with a ball that doesn't sit softly on the hands yet, and encouragement for classmates whose control looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Forearm Fundamentals",
+            "summary": "Teaches the forearm pass, or bump. Platform Freeze has students self-tossing a low, gentle ball and bumping it to themselves, freezing their platform — arms together, flat — after each contact so it can be checked. Bump to Self Streak tracks an individual personal best for consecutive bumps, and Partner Feed Bump has one partner gently tossing underarm while the other bumps it back, swapping roles regularly. The Big Game, Bump Battle Grids, has pairs gently tossing and bumping across a low rope, scoring a point if the ball lands in the opponent's grid after a legal bump. Value focus: Mōhio, understanding exactly what the arms and platform are doing to make a bump controlled. Curriculum focus: Strand B, managing self through refining a core technique."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Target Bump",
+            "summary": "Moves the bump from control to accuracy. Hoop Target Bump has a partner tossing while the bumper aims to land it inside a hoop or cone square a few metres away. Bump to a Moving Partner has the tosser jogging gently side to side so the bumper must track and adjust, and Triangle Bump Relay has trios bumping around a triangle in order as many times as possible without the ball touching the ground. The Big Game, Target Bump Rally Court, awards bonus points any time a bump lands inside a marked target zone during a rally over a low net. Value focus: Manaaki, aiming a bump so it genuinely helps a teammate's next touch, not just keeping the ball up. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through directed technique."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Platform Up",
+            "summary": "Introduces the overhead set. Window Shape Freeze has students holding their 'window' hand shape above the forehead, self-tossing a gentle ball into it, and freezing on catch to check finger position. Set to Self Streak tracks a personal best for consecutive sets using fingers only, and Partner Feed Set has one partner tossing slightly above head height while the other sets it back, swapping after six attempts. The Big Game, Set Battle Grids, has pairs tossing and setting across a low rope, scoring a point if the ball lands in the opponent's grid after a legal set. Value focus: Pānga, recognising that a clean set makes the next player's job much easier, not just your own touch. Faith connection: Romans 12:10, honouring one another above yourselves. Curriculum focus: Strand B, relating to others through a genuinely useful touch."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Set the Target",
+            "summary": "Closes the block by teaching set accuracy. Hoop Target Set has a partner tossing while the setter aims a clean finger-set into a hoop or cone square. Set to a Moving Partner has the tosser jogging gently side to side so the setter must track and adjust, and Triangle Set Relay has trios setting around a triangle as many times as possible without the ball touching the ground. The Big Game, Target Set Rally Court, awards bonus points any time a set lands inside a marked target zone during a rally. Value focus: Aroha, staying patient and kind with yourself and teammates when a set doesn't land where planned. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through a refined technical skill, closing Foundational Ball Control before next week's combination skills."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Bump to Set",
+            "summary": "Opens Combining Skills & Serving by linking the bump and the set. Bump-Set to Self has individuals self-tossing, bumping the ball up to themselves, then setting it, repeating the sequence as many times as possible. Partner Bump-Set Relay has Player A tossing while Player B bumps to themselves then sets back to A, and Trio Sequence Tag cycles bump, set, catch through three players continuously. The Big Game, 2-Touch Rally Court, requires each side to use exactly two touches — a bump then a set, in either order — before sending the ball over a low net. Value focus: Mōhio, understanding how two separate skills genuinely combine into one useful sequence. Curriculum focus: Strand B, thinking — sequencing skills into one effective action."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Serve It Up",
+            "summary": "Introduces underarm serving technique in isolation before adding pressure. Technique Target Serves has students serving from a stationary stance at a large target, focused purely on technique. Serve & Track has a partner calling out where the serve landed to build the server's sense of their own tendencies, and Serve Streak Challenge tracks consecutive clean, legal-technique serves as a team streak. The Big Game, Serve & Rally Mini-Games, begins every point with an underarm serve over a low net, with coaching feedback emphasising clean technique first and the rally as a bonus outcome. Value focus: Manaaki, practising a skill faithfully with real effort even when it doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful skill practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Ace Zone",
+            "summary": "Moves serving from technique to placement. Zone Serve Challenge divides the court into marked zones, with students calling their target zone before serving and scoring for hits inside it. Called Target Serves has a partner or coach calling the target zone just before each serve, forcing a quick adjustment, and the Serve Ladder has pairs moving up a ladder of increasingly small target zones as they succeed, stepping back down after a miss. The Big Game, Zone Ace Mini-Games, scores an immediate bonus point for any serve landing inside a marked 'ace zone' away from the receiver. Value focus: Pānga, thinking ahead about where a serve will have the most impact rather than just serving the same way each time. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: First Contact",
+            "summary": "Teaches receiving a serve. Serve & Receive Pairs has one partner serving gently underarm while the other receives with a bump aimed at a target zone, swapping roles regularly. Receive & Track scores the receiver's bump on both control and accuracy toward the target, tracked as a running tally, and Group Serve-Receive Rotation has small groups rotating through server and receiver roles, with receivers calling 'mine!' before contact. The Big Game, Serve-Receive Mini-Games, awards the receiving team a bonus point whenever their first touch is a controlled bump landing in a marked target zone. Value focus: Aroha, enjoying the game and encouraging a teammate whose first touch doesn't go to plan. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, managing self through a controlled first touch under pressure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Two-Touch Tango",
+            "summary": "Closes the block by building genuine rallies with a two-touch rule. 2-Touch Wall Rally has pairs rallying against a wall using exactly two touches — a bump then a set — before the ball must go over. Call Your Touch adds a spoken call of 'bump!' or 'set!' before each contact, building awareness of the choice being made, and 2-Touch Grid Battle has small teams playing short rallies across a low net with the same strict rule. The Big Game, 2-Touch Rally Tournament, plays small-sided games strictly limited to two touches per side, with simple rally scoring. Value focus: Mōhio, understanding how to keep a rally alive within a genuine rule, not just hitting the ball anywhere. Curriculum focus: Strand B, managing self through rule-bound decision-making, closing Combining Skills & Serving."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Bump-Set-Return",
+            "summary": "Opens Rally Building, Movement & Positioning by extending to a three-touch rally. Trio 3-Touch Circuit has three players passing in a fixed sequence — bump, set, return — trying to complete the full sequence as many times as possible. 3-Touch Wall Rally has pairs or trios rallying against a wall using all three touch types across three consecutive contacts, and 3-Touch Grid Battle has small teams playing short rallies across a low net using up to three touches per side. The Big Game, Full Rally Round-Robin, plays small-sided games with up to three touches per side and simple rally scoring, rotating opponents every few minutes. Value focus: Manaaki, using every touch generously to set a teammate up for the next one, not just to keep the ball alive. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand B, relating to others through a coordinated three-touch sequence."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Quick Feet",
+            "summary": "Teaches the footwork that gets players to the ball in time. Shuffle & Freeze has students shuffling in a low, ready position in response to called directions, freezing in a balanced stance each time. Move & Bump has a partner tossing the ball to different spots around the receiver, forcing footwork before every bump, and Footwork Relay Ladder races small groups through a shuffle-shuffle-sprint-recover pattern before receiving a tossed ball and bumping it. The Big Game, Move-to-Score Mini-Games, has the coach highlighting good footwork — arriving early, balanced and square to the ball — as the difference between a clean and a scrambled play. Value focus: Pānga, recognising that arriving early for a teammate's pass changes the whole rally, not just your own touch. Curriculum focus: Strand B, managing self through anticipatory movement."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Mine!",
+            "summary": "Teaches the communication that prevents collisions and dropped balls. Call & Catch has a ball tossed into a shared space, with whoever calls 'mine!' first and loudest taking it while others step back. Silent Freeze, Loud Call has pairs or trios standing still until a toss arrives, freezing the instant someone calls it so the caller has clear space, and 2-on-Ball Rally has pairs practising calling early and clearly across a full bump-set-return sequence. The Big Game, Communication Cup Mini-Games, has the coach specifically praising clear, early calling as part of the scoring feedback. Value focus: Aroha, calling generously and early so a teammate isn't left guessing or colliding with you. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strands B and C, relating to others through clear communication."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Cover the Court",
+            "summary": "Teaches positioning as a team rather than as individuals. Fill the Gap has small teams standing on a marked court with obvious gap zones, repositioning quickly on a call so every zone has someone in it. Shadow the Ball has teammates shifting position as a group to stay balanced and covered as a tosser moves the ball around without hitting it into play, and 3v3 Space-Finding Rally awards bonus points any time good spacing is noticed during a rally. The Big Game, Covered Court Mini-Games, coaches and praises team positioning alongside the usual rally scoring. Value focus: Mōhio, understanding how your position affects whether the whole team's court is covered. Curriculum focus: Strands B and C, relating to others through team spacing."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Directed Hit",
+            "summary": "Introduces a controlled attacking touch aimed at open space. Open Space Tap has students directing a controlled tap toward whichever half of a marked grid is currently open, marked by a mobile cone. Set-and-Direct has one player setting the ball up nicely for a partner, who directs a controlled attacking touch toward a called target zone, and Directed Hit Streak tracks a team streak of controlled, well-directed touches. The Big Game, Direct & Defend Mini-Games, scores a bonus point for a legal, controlled directed hit into open space, encouraging players to look for space rather than just returning the ball anywhere. Value focus: Manaaki, directing a hit to genuinely test the other side fairly, not to intimidate or show off. Faith connection: Philippians 2:3, do nothing out of selfish ambition. Curriculum focus: Strand B, thinking — reading space and making a deliberate attacking decision."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Read & React",
+            "summary": "Teaches anticipating an opponent's return. Guess the Return has a partner setting up to hit or direct a touch while the other calls out a guess for where it will go, then reacts. Shadow Defender Rally has a defending player anticipating and moving toward the likely return before it's hit, shadowing without a ball at first, then adding one. Read & Dig Streak tracks a team streak of successful early reads. The Big Game, Read the Game Mini-Tournament, specifically highlights and praises good anticipation and early movement as part of feedback. Value focus: Pānga, reading the game ahead of time so your movement genuinely helps the team's defence. Curriculum focus: Strand B, thinking — anticipating and reacting to a live situation."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Small Court Showdown",
+            "summary": "Brings the unit's skills together in small-sided rally games. 2v2 Skills Warm-In has pairs playing short, low-stakes rallies using all their skills so far — bump, set, serve, directed touch. Rotating Pairs Round-Robin has pairs playing quick mini-matches against several others to a low target score, and 3v3 Space & Cover Challenge focuses specifically on spacing, with bonus points for good positioning. The Big Game, Small-Sided Rally League, plays full 2v2/3v3 games across low nets with simple rally scoring, rotating opponents through several short matches. Value focus: Aroha, enjoying the contest and encouraging every partner as the unit's skills come together in real play. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, applying a range of skills together."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Rotation Station",
+            "summary": "Teaches the basics of positional rotation. Rotation Walk-Through has teams of six standing on marked position spots and physically walking through a clockwise rotation on each whistle, without a ball, until the pattern feels familiar. Rotate & Rally has teams playing a short rally and rotating one position each time they win the serve, and Position Awareness Quiz-Rally occasionally pauses play to ask a player to name their current position, awarding a bonus point for a correct, quick answer. The Big Game, Rotation League Mini-Games, plays small-sided games using rotation appropriate to team size alongside normal rally scoring. Value focus: Mōhio, understanding your position and how it changes as the team rotates together. Curriculum focus: Strands B and C, relating to others through structured team rotation."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Full Rally Ready",
+            "summary": "Brings everything together in full modified games using every touch. All-Skills Warm-In Circuit lightly revisits bump, set, serve, receive and directed touch as a refresher rather than new teaching. Mixed Skill Relay has teams completing a relay combining a serve, a bump-receive, a set and a directed touch in sequence, and Team Game Plan Huddle gives each team a few minutes to agree one simple focus for their upcoming game, such as calling the ball loudly. The Big Game, Full Modified Volleyball, uses serve, receive, bump, set and directed touches together in small-sided or full-sided games with net height and court size adjusted to suit the group. Value focus: Manaaki, playing generously and fairly as everything from the unit comes together in a real contest. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: all four NZC strands applied together in full modified play."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Volleyball Volley-Off",
+            "summary": "Closes the unit with a culminating mini-tournament. The Unit Skills Warm-Up Carousel gives a light refresher across ball control, bump, set and serve before the Mixed Skill Relay has teams combining ball control, a bump, a set and a serve in one competitive sequence. Captain's Challenge gives each team a rotating captain who sets one focus for the day, such as calling the ball. The Big Game is a Round-Robin Mini-Tournament, with small teams rotating through short games on two or three small courts, scored simply, where every skill from the unit is relevant somewhere on the court. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, teammates and how you treat others in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cricket",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Bullseye",
+            "summary": "Opens Fielding & Throwing Fundamentals with throwing accuracy. Underarm Target Toss has students throwing smoothly underarm at a hoop or cone target from short range. Overarm Line-Up has partners throwing overarm at a comfortable distance, focused on pointing the non-throwing shoulder at the target before release, and Target Rotation Challenge rotates small groups through three targets at different distances and heights, tallying accurate hits as a team. The Big Game, Target Cricket Relay, has small teams relay-racing to hit every target with their choice of underarm or overarm throw. Value focus: Aroha, patience with a throw that doesn't land true yet, and encouragement for classmates whose accuracy looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Safe Hands High",
+            "summary": "Teaches catching balls high overhead. Basket Hands Practice has partners gently lobbing the ball high while the receiver forms a soft 'basket' with fingers up and hands together above head height. Call & Catch has small circles lobbing high while calling a name, with that player calling 'mine!' and moving under the ball, and High Catch Streak tracks consecutive clean high catches between pairs. The Big Game, Around the Grid High Catch, has a feeder lobbing high catches to each player in turn while the group counts total clean catches, rotating the feeder role. Value focus: Mōhio, understanding where to position your body and hands well before the ball arrives. Curriculum focus: Strand B, managing self through a specific technical skill."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Down Low",
+            "summary": "Adds low and ground-level catching. Low Roller Scoop has partners rolling the ball along the ground while the receiver gets low and scoops it up with two hands. Low Bounce Catch has a gentle, low bouncing ball caught just after the bounce, and Ground Ball Relay has small teams relaying a low rolled ball down a line, each player fielding cleanly before passing on. The Big Game, Low & High Mixed Catch Game, feeds a mix of high and low balls to each player in rotation, testing the adaptability built across the two lessons. Value focus: Manaaki, giving a fielding partner a fair, catchable feed rather than a careless one. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through a wider catching range."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: First to the Ball",
+            "summary": "Teaches ground fielding technique. Approach & Gather has individuals practising approaching a slow-rolling ball from an angle, gathering it cleanly with two hands and stepping into a throwing position. Field & Fire has partners fielding a rolled ball and immediately throwing to a target, timed from gather to release, and Race to the Ball has two fielders starting equal distance from a ball rolled between them, first to field it cleanly and hit a target scoring a point. The Big Game, Fielding Circuit Game, is a pairs-cricket-style small-sided game where the fielding team scores for clean gathers and quick, accurate returns. Value focus: Pānga, recognising that a quick, accurate return benefits the whole fielding team, not just the fielder. Faith connection: Romans 12:10, honouring one another above yourselves. Curriculum focus: Strand B, relating to others through fielding technique."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Backing Up",
+            "summary": "Closes the block by teaching fielding as a team, not individuals. Call It Loud has small groups practising clear calls — 'mine!', 'yours!', 'back up!' — as a ball is fed toward two or more potential fielders. Backstop Positioning has trios rehearsing a throw to a target, a fielder, and a backstop positioned behind in case the throw is missed, and Team Field Communication rewards clear calling and correct backing-up positions specifically, not just stopping the ball. The Big Game, Backed-Up Fielding Game, earns bonus points any time a missed stop is cleanly backed up by a teammate. Value focus: Mōhio, understanding your role in the team's fielding shape, not just chasing every ball yourself. Curriculum focus: Strand B, relating to others through team fielding, closing Fielding & Throwing Fundamentals before next week's batting focus."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Ready Stance",
+            "summary": "Opens Batting Fundamentals with grip and stance. Grip Check Partners has students checking each other's grip — hands together, 'V' shapes lined up on the bat — and side-on stance, giving friendly feedback. Shadow Swing Freeze has students taking a stance and shadow-swinging on a call, freezing in a balanced follow-through, and Stance & Ready Relay races small teams to correctly demonstrate grip and stance before the next teammate can start. The Big Game, Tee Ball Stance Challenge, only counts a hit if the grip and stance were correct beforehand — technique earns the point, not just contact. Value focus: Aroha, staying patient with yourself and encouraging teammates whose stance still feels awkward on day one. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, foundational batting technique."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Middle It",
+            "summary": "Teaches hitting off a tee or soft toss. Tee Strike Technique has individuals hitting off a stationary tee, focused on watching the ball and a level swing rather than power. Soft Toss Timing has a partner gently underarm-tossing the ball, adding timing on top of technique, and Clean Contact Challenge rotates small groups through a hitting station, tallying clean, well-timed contacts. The Big Game, Tee & Toss Mini-Game, has batters choosing tee or soft toss depending on the station, while fielders practise the previous week's skills as they field the hits. Value focus: Manaaki, practising a skill faithfully with real effort even when contact doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful skill practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Run!",
+            "summary": "Teaches running between the wickets. Call & Run Practice has pairs calling 'yes,' 'no,' or 'wait' and responding correctly by running or staying, without a ball yet. Straight Line Sprint has individuals sprinting a set distance between two creases, touching down correctly each time, and Run Decision Relay has pairs deciding together, calling clearly, whether to run one, run two, or hold, with the coach varying fielding speed to test decisions. The Big Game, Pairs Cricket — Running Focus, has the coach specifically highlighting clear calling and safe, decisive running alongside runs scored. Value focus: Pānga, calling clearly so a running partner's safety and success depend on your decision too, not just your own. Curriculum focus: Strand B, thinking — quick, safe decision-making under pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Field It, Fire It",
+            "summary": "Closes the block by combining fielding and throwing to a target. Field-Turn-Throw Circuit has individuals fielding a rolled ball, turning, and throwing at a target stump, timed for personal best. Race the Runner has a fielder fielding and throwing at the stumps while a 'batter' runs between wickets, scoring if the throw beats the runner, and Combo Points Challenge awards bonus points any time a team completes a genuine field-then-accurate-throw sequence, even if the batter is safe. The Big Game, Small-Sided Pairs Cricket — Combo Bonus, gives bonus recognition for any clean gather-and-throw sequence in the same move. Value focus: Aroha, enjoying the game and celebrating a good fielding combination as a team, not just a dismissal. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing fielding skills into one effective action."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Let It Go",
+            "summary": "Opens Bowling, Decision-Making & Game Reading with safe basic bowling technique. Straight Arm Shadow Bowl has individuals practising the bowling arm action without a ball, focused on a straight arm from a short run-up. Short Run-Up Delivery has students bowling from a short, marked run-up at a simple target, focused on technique over speed, and Technique Check Rotation has a partner watching and giving one piece of feedback on the arm action each turn. The Big Game, Bowl to the Target Game, checks every delivery for safe, straight-arm technique before any accuracy is scored. Value focus: Mōhio, understanding what a safe, correct bowling action feels like from the inside. Curriculum focus: Strand B, managing self through a new, more specialised technical skill."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: On the Money",
+            "summary": "Builds bowling accuracy to a target. Target Zone Bowling has students bowling at a marked target zone around a good length, scoring a point for each ball landing inside it. Adjust & Aim has students noting where each ball landed and adjusting the next delivery with a partner's feedback, and Bowling Streak Challenge tracks consecutive accurate deliveries as a team streak. The Big Game, Bowl-Off Mini-Game, has bowlers taking turns at the stumps with a simple batter or fielder in place, coached on accuracy and consistency as much as wickets. Value focus: Manaaki, using bowling faithfully and fairly, aiming to challenge a batter well rather than just to intimidate. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through consistent, accurate technique."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Behind the Stumps",
+            "summary": "Introduces wicketkeeping basics. Ready Stance Practice has students practising a low, balanced wicketkeeping stance behind the stumps, receiving gentle underarm rolls or throws. Gather & Return has the keeper gathering a ball and quickly returning it to a target, practising the full sequence, and Keeper Rotation Circuit rotates small groups through the keeping role facing gentle deliveries so everyone experiences the position. The Big Game, Small-Sided Game — Everyone Keeps, rotates wicketkeepers every few minutes so every student experiences the role, with the coach reinforcing how the keeper supports the whole team. Value focus: Pānga, understanding how one role — the keeper — has a unique impact on everyone else's game. Curriculum focus: Strand B, managing self through a specialist role and its wider team impact."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Read the Gaps",
+            "summary": "Teaches reading the game — where to hit and where to field. Spot the Gap has batters looking at a set fielding formation and calling out the biggest gap before hitting off a tee. Field the Likely Hit has fielders reading a batter's stance and positioning themselves where a hit is likely to go, with the coach confirming good reads, and Gap-Hitting Challenge scores bonus points for placing a hit through a called gap rather than just making contact. The Big Game, Small-Sided Game — Placement Focus, celebrates batters who place a hit into space and fielders who correctly read and cover the likely hitting zone. Value focus: Mōhio, understanding the bigger picture of the field and where genuine opportunities are, beyond just making contact. Curriculum focus: Strand B, thinking — reading and interpreting a live, moving picture."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Run or Not?",
+            "summary": "Focuses on the classic batting decision — run or not. Fielded Well or Not? has batters hitting off a tee or toss and instantly judging, based on where and how quickly the ball is fielded, whether to call for a run. Quick Call Challenge has pairs practising their run decision within a very short time limit after the hit, and Decision Under Pressure occasionally asks a batter to explain their run/no-run decision straight after making it. The Big Game, Pairs Cricket — Decision Focus, has the coach highlighting good running decisions, even when the outcome wasn't perfect, as much as runs scored. Value focus: Pānga, understanding that a good decision is valuable for the team even when it doesn't come off. Faith connection: Proverbs 2:6, for the Lord gives wisdom. Curriculum focus: Strand B, thinking — quick, sound decision-making under pressure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Set the Field",
+            "summary": "Teaches fielding placements and team shape. Cover the Zones has small groups positioning themselves across marked field zones, adjusting as a coach or captain calls changes, without a ball yet. Captain's Field Set has a rotating captain setting the fielding positions for their team before each short segment, briefly explaining their thinking, and Gap Coverage Challenge earns bonus points for a fielding team with no obvious gap left uncovered when a hit goes through. The Big Game, Small-Sided Game — Team Shape Focus, highlights good fielding team shape and communication alongside any wickets or stops. Value focus: Manaaki, serving the team through a fielding position, even one that rarely gets the ball. Faith connection: 1 Corinthians 12:12, the body has many parts, working together. Curriculum focus: Strands B and C, relating to others through team fielding structure."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Pairs Play",
+            "summary": "Closes the block with a first full modified game format. Pairs Rules Walkthrough has students slowly working through the basic pairs cricket format — shared batting, both partners running, retiring after a set number of runs. Mini Pairs Match plays short matches of a few overs each between multiple pairs on small stations, and Skill Spotlight Rotation has the coach calling out a skill focus for a few balls at a time within the mini matches, such as placement or running. The Big Game, Full Pairs Cricket Match, is the complete modified format in action, with roles rotating through batting, bowling and fielding. Value focus: Aroha, enjoying the format together and encouraging a batting or bowling partner throughout the match. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: all four NZC strands applied together in a modified match, closing Bowling, Decision-Making & Game Reading."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Line & Length",
+            "summary": "Opens the final block with bowling tactics. Line Choice Practice has bowlers aiming deliveries at different lines — toward the stumps, wide of the stumps — using target zones and choosing deliberately. Length Ladder has bowlers aiming for short, good-length or full zones marked on the pitch, scoring for landing in the called zone, and Read the Batter, Adjust has bowlers facing a batter and adjusting line and length based on how they're playing, discussed afterward with the coach. The Big Game, Small-Sided Game — Bowling Tactics Focus, highlights good line and length choices and adjustments, not just wickets taken. Value focus: Mōhio, understanding how a deliberate bowling choice, not just effort, changes the contest. Curriculum focus: Strand B, thinking — planning and adjusting a tactical approach."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Find the Gap, Fill the Gap",
+            "summary": "Teaches batting placement tactics. Gap Spotting has batters looking at a set field and calling out the biggest gap before hitting off a tee or toss into it. Placement Points scores bonus points for placing hits into a called gap rather than just making clean contact, and Field Adjusts, Batter Reads shifts the field between hits so batters must re-read the gaps each time. The Big Game, Small-Sided Game — Placement Focus, celebrates batters who place hits into space to beat the field, alongside runs scored. Value focus: Pānga, thinking ahead about where a hit will have the most impact rather than just making contact. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Full Match",
+            "summary": "Brings everything together in full small-sided games with a tactics focus. Skills Reminder Circuit lightly revisits throwing, catching, batting and bowling from across the unit as a refresher, not new teaching. Tactics Call-Out periodically calls a tactical focus during small games, such as placement, line and length, or running, and Captain's Read has a rotating captain reading the game and calling one tactical focus for their team during a short segment. The Big Game, Full Small-Sided Cricket Match, is a timed modified match with all of the unit's skills and tactics live and relevant. Value focus: Manaaki, playing generously and fairly as everything from the unit comes together in a real contest. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: all four NZC Health & PE strands applied together."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Cricket Carnival",
+            "summary": "Closes the unit with a culminating mini-tournament. The Unit Skills Warm-Up Carousel gives a light refresher across throwing, catching, batting and bowling before the Mixed Skill Relay has teams combining a throw, a catch and a batting strike in one competitive sequence. Captain's Challenge gives each team a captain who sets one focus for the day, such as calling runs clearly. The Big Game, Round-Robin Mini-Tournament, has small teams rotating through short pairs or small-sided matches across two or three stations, scored simply, where every skill from the unit is relevant somewhere in these games. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, teammates and how you treat others in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Teeball",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Tee Time",
+            "summary": "Opens Batting & Fundamental Skills with stance and swing off the tee. Grip & Stance Check has partners checking each other's grip — hands together, 'V' shapes lined up — and side-on stance before any hitting. Shadow Swing Freeze has students shadow-swinging without a ball, freezing in a balanced position at the end of the swing on a call, and Tee Contact Count only counts hits where the stance and swing technique were correct beforehand. The Big Game, Tee Ball Technique Challenge, rotates small groups through batting-tee stations where technique, not just contact, earns the team point. Value focus: Aroha, patience with a swing that doesn't feel natural yet, and encouragement for classmates whose technique looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational batting technique."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Line Drive",
+            "summary": "Teaches contact quality and direction. Sweet Spot Search has batters experimenting with contact point on the bat, noticing how a hit off the middle feels and travels differently to one off the handle. Left, Right, Straight has batters aiming toward one of three marked zones called before each swing, and Direction Streak tallies how many hits in a row land in the called target zone. The Big Game, Target Zone Teeball, scores bonus points for placing a hit into a called or open target zone, rewarding controlled direction over just hitting hard. Value focus: Mōhio, understanding exactly what changes on contact when a hit travels where it's meant to. Curriculum focus: Strand B, managing self through refining a core technique."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Bullseye Throw",
+            "summary": "Shifts focus to throwing accuracy. Shoulder Point Practice has students standing side-on to a target, pointing their non-throwing shoulder at it and stepping through before any ball is thrown. Target Toss has partners throwing at a hoop or cone target from a set distance, and Moving Target Rotation rotates small groups through three targets at different distances and angles, tallying accurate throws as a team. The Big Game, Bullseye Base Relay, has small teams relay-throwing at a set of base targets, tagging the next teammate only after a clean hit. Value focus: Manaaki, giving a throwing partner a fair, genuine challenge — competitive but not so hard it stops being fun. Faith connection: Philippians 2:4, looking not only to your own interests but also to those of others. Curriculum focus: Strand B, managing self through a specific technical skill."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Two Safe Hands",
+            "summary": "Teaches two-handed catching. Basket Hands Practice has partners gently tossing while the receiver forms a soft two-handed basket shape and gives on contact. Call & Catch has small circles tossing while calling a name, with that player calling 'mine!' and catching cleanly, and Clean Catch Streak counts consecutive clean two-handed catches between pairs. The Big Game, Around the Diamond Catch, has a feeder throwing to each player in turn while the group counts total clean catches, rotating the feeder role. Value focus: Pānga, recognising that a confident catch keeps the whole game moving smoothly for everyone, not just yourself. Faith connection: Romans 12:10, honouring one another above yourselves. Curriculum focus: Strand B, managing self through receiving technique."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Down and Scoop",
+            "summary": "Closes the block by teaching ground ball fielding. Low Roller Scoop has partners rolling the ball along the ground while the receiver gets low and scoops it up with two hands. In Line & Down rolls the ball slightly to one side so the fielder must move to get in line before getting low, and Ground Ball Relay has small teams relaying a rolled ball down a line, each player fielding cleanly before passing on. The Big Game, Diamond Ground Ball Game, rewards the full technique — getting in line, getting low, scooping softly — not just stopping the ball. Value focus: Aroha, staying patient with yourself when a ground ball doesn't come off cleanly at first. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through a genuine fielding skill, closing Batting & Fundamental Skills before next week's base running focus."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Call It & Cover",
+            "summary": "Opens Base Running & Fielding Combinations by teaching fielding communication. Call It Loud has small groups practising clear calls as a ball is fed toward two or more potential fielders. Backstop Positioning has trios rehearsing a throw to a base, a fielder, and a backstop positioned behind in case the throw is missed, and Team Field Communication rewards clear calling and correct backing-up positions specifically. The Big Game, Backed-Up Fielding Teeball, earns bonus points any time a missed stop is cleanly backed up by a teammate. Value focus: Mōhio, understanding your role in the team's fielding shape, not just chasing every ball yourself. Curriculum focus: Strand B, relating to others through team fielding."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Running Form",
+            "summary": "Teaches base running technique and speed. Sprint to the Bag has students sprinting a full straight line from home to first base, running through the base rather than stopping on it. Explosive Start Practice focuses on the first few explosive steps out of a ready position, and Timed Base Sprint has partners timing each other's sprint to first base, trying to beat their own personal best. The Big Game, Sprint & Score Teeball, requires a full sprint through first base on every hit, coached on running technique and effort over the outcome. Value focus: Manaaki, putting in genuine effort on every sprint as a gift to the team, not just when it feels important. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Go or No-Go",
+            "summary": "Teaches reading when to run between bases. Watch & Decide has runners watching a fielder gather a ball and deciding out loud whether it's a 'go' or 'no-go' situation, without running yet. Hold or Go Base Runs has runners deciding, based on a fielder's actions, whether to hold at a base or continue, and Read the Field Relay scores bonus points for good hold/go decisions regardless of the outcome. The Big Game, Decision Diamond Teeball, has the coach specifically praising good hold/go decisions on the bases, separate from whether the runner was safe. Value focus: Pānga, understanding that a good decision benefits the team even when the outcome isn't perfect. Faith connection: Proverbs 2:6, for the Lord gives wisdom. Curriculum focus: Strand B, thinking — quick, sound decision-making under pressure."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Field, Turn, Throw",
+            "summary": "Combines fielding and throwing to a base. Gather & Turn has individuals fielding a rolled ball, gathering it cleanly with two hands, and turning toward a base before throwing. Field & Fire to Base has partners fielding and immediately throwing to a base target, timed from gather to release, and Race to the Base has two fielders starting equal distance from a ball rolled between them, racing to field and throw cleanly. The Big Game, Fielding Circuit Teeball, rewards the whole fielding sequence — gather, turn, accurate throw — not just stopping the ball. Value focus: Aroha, enjoying the game and celebrating a good fielding combination as a team, not just an out. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing fielding skills into one effective action."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Diamond Duty",
+            "summary": "Closes the block by teaching infield positioning basics. Find Your Spot has students walking through each infield position and practising the ready stance at each. Position Job Match has small groups matching a simple 'job' card to the correct infield position and demonstrating standing there, and Live Ball Positioning is a gentle live-hit game where infielders move to and hold their correct position readiness before each hit. The Big Game, Positioned Infield Teeball, earns bonus points for every player in a correct, ready infield position before the ball is hit. Value focus: Mōhio, understanding where you're meant to be on the diamond and why. Curriculum focus: Strand B, thinking — spatial awareness within a structured game, closing Base Running & Fielding Combinations."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Deep Ground Basics",
+            "summary": "Opens Positioning, Decisions & Tactics with outfield positioning. Depth & Angle Practice has students standing at an appropriate outfield depth and adjusting their angle based on where a coach points, without a ball yet. Track & Call has a coach or partner hitting or throwing into the outfield while the fielder calls 'mine!' and tracks it into a clean gather, and Outfield Coverage Game has small groups practising covering the ground between them, calling and adjusting position as balls are hit to different areas. The Big Game, Deep Field Teeball, specifically coaches and rewards good positioning, clear calling, and clean tracking. Value focus: Manaaki, understanding that a well-positioned outfielder serves the whole team, even far from the action. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand B, managing self through spatial positioning."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Force or Tag",
+            "summary": "Introduces the force play and tag play concept. Force Play Walkthrough has the coach walking students through simple force-play scenarios — a runner must run because the base behind them is occupied — practising a fielder simply touching the base. Force or Not? shows quick scenarios that small groups must judge as a force being on or not before acting it out, and Live Force Play Reps has fielders practising clean, safe force-play attempts at a controlled pace. The Big Game, Force Play Teeball, is coached explicitly on safe, correct technique at the base rather than just the outcome of the play. Value focus: Pānga, understanding a rule well enough to apply it correctly and safely under pressure. Curriculum focus: Strand B, managing self by applying a game rule correctly."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Find the Gap",
+            "summary": "Teaches batting placement — hitting into gaps. Scan Before You Swing has batters pausing to look at where fielders are standing before each hit, calling out loud which gap looks open. Called Gap Challenge has a partner calling a specific gap for the batter to aim for, and Gap Finder Streak tallies hits that successfully find an open or called gap in a row. The Big Game, Small-Sided Gap Teeball, celebrates batters who place hits into open space to beat the field, alongside runs scored. Value focus: Aroha, thinking ahead about where a hit genuinely helps the team's chances, not just hitting hard. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Team Diamond Shape",
+            "summary": "Teaches team fielding shape and communication. Shape Check has the fielding team freezing on a coach's call and checking as a group whether their overall shape has any obvious gaps or overlaps. Communicate & Cover has teammates calling out to cover for each other as hits are placed around the field, and Whole Team Shape Game has the coach specifically highlighting and rewarding good team shape and communication, separate from individual plays. The Big Game, Connected Diamond Teeball, earns bonus points for maintaining good overall shape and clear communication across the whole field. Value focus: Mōhio, understanding how one player's position affects the whole team's fielding shape. Curriculum focus: Strands B and C, relating to others through team fielding structure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Where's the Play",
+            "summary": "Teaches decision-making about where to throw. Look Up & Decide has students pausing briefly after fielding a ball to look up and call out loud which base they would throw to before actually throwing. Best Play Call shows quick scenarios with runners on different bases and asks small groups to call the base that gives the best chance of an out, and Live Decision Fielding has fielders practising a quick, correct throw decision under mild game pressure. The Big Game, Decision Diamond Teeball, specifically highlights good decision-making about where to throw, separate from whether the throw itself was perfectly accurate. Value focus: Manaaki, making the decision that serves the team's best chance, not just the easiest throw. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — quick, sound decision-making under pressure."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Mini Diamond Games",
+            "summary": "Opens the final block with small-sided modified games. Skills Reminder Circuit lightly revisits throwing, catching, batting and fielding from across the unit as a refresher, not new teaching. Small Team Set-Up has teams of four or five organising themselves into simple fielding positions and a batting order before a short practice game, and Mini Game Rounds rotates several short games so every team gets several quick reps at batting, fielding and running. The Big Game, Small-Sided Diamond Teeball, is a full modified game on a smaller diamond using all the unit's core skills. Value focus: Pānga, recognising how every skill from the unit contributes somewhere in a real game. Curriculum focus: Strand B, applying a range of skills together."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Full Rotation",
+            "summary": "Teaches full-team fielding rotations. Position Rotation Walkthrough has the whole fielding team walking through a full rotation cycle without live batting, practising moving smoothly between positions on a signal. Quick Switch Fielding has a light live game where the whole team rotates positions every few plays, and Rotation Under Pressure has rotations happening mid-game at unpredictable moments, testing how smoothly the team adapts. The Big Game, Full Rotation Teeball, rewards smooth, confident transitions between positions as much as individual plays. Value focus: Aroha, adjusting cheerfully to a new position for the good of the team's overall shape. Faith connection: 1 Corinthians 12:12, the body has many parts, working together. Curriculum focus: Strands B and C, relating to others through flexible team roles."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Batting Order Tactics",
+            "summary": "Introduces batting order and team strategy. Team Strategy Huddle has small teams discussing and deciding a simple batting order, giving a reason for at least one placement decision. Order Try-Out has teams running a short practice batting sequence in their chosen order and discussing whether they'd change anything, and Captain's Call gives each team a rotating captain who leads a two-minute discussion on one simple tactic to try next. The Big Game, Strategic Small-Sided Teeball, has teams playing after choosing their own batting order and one team tactic, with the coach highlighting moments where the plan paid off. Value focus: Mōhio, understanding that a thoughtful team plan is worth as much as individual skill. Curriculum focus: Strand B, thinking — planning and rehearsing a team strategy."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Full Diamond Match",
+            "summary": "Brings everything together in full modified games. Skills Reminder Circuit lightly revisits throwing, catching, batting, fielding and base running from across the unit as a refresher, not new teaching. Tactics Call-Out periodically calls a tactical focus during small games, such as placement, communication or running, and Captain's Read has a rotating captain reading the game and calling one tactical focus for a short segment. The Big Game, Full Small-Sided Teeball Match, is a timed modified match with all of the unit's skills and tactics live and relevant. Value focus: Manaaki, playing generously and fairly as everything from the unit comes together in a real contest. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: all four NZC Health & PE strands applied together."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Diamond Cup",
+            "summary": "Closes the unit with a culminating mini-tournament. The Unit Skills Warm-Up Carousel gives a light refresher across batting, throwing, catching, fielding and running before the Mixed Skill Relay has teams combining a throw, a catch and a batting strike in one competitive sequence. Captain's Challenge gives each team a captain who sets one focus for the day, such as calling bases clearly. The Big Game, Round-Robin Mini-Tournament, has small teams rotating through short matches across two or three diamonds, scored simply, where every skill from the unit is relevant somewhere in these games. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, teammates and how you treat others in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tennis",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Shake Hands With Your Racquet",
+            "summary": "Opens Foundational Racquet & Ball Control with grip familiarisation. Racquet Freeze Parade has students jogging with their racquet and freezing to show whichever grip — forehand or backhand — the teacher calls. Racquet Face Balance Walk has them balancing a ball on the strings while walking a pathway of cones on both racquet sides, and Grip Swap Tag has partners jogging together and swapping grip as fast as possible on a signal, checking each other's form. The Big Game, Grip & Go Relay, has small teams sprinting to a spot, showing the named grip correctly for a teammate 'coach' to check, then balancing the ball back to the team. Value focus: Aroha, patience with a grip that feels awkward at first, and encouragement for classmates whose racquet control looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational motor skill development."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Bounce Boss",
+            "summary": "Teaches bouncing and balancing the ball on the racquet. Up-Bounce Count has individuals bouncing the ball up off the racquet face as many times in a row as possible, tracking a personal best. Down-Bounce Dribble has students dribbling the ball down onto the ground and back up like a basketball while walking a pathway of cones, and Balance & Freeze has partners bouncing the ball up while walking, freezing it still on the racquet face on command. The Big Game, Bounce Relay Challenge, has small teams relaying a set distance while keeping the ball under control with up-bounces. Value focus: Mōhio, understanding exactly what the racquet face is doing to keep the ball under control. Curriculum focus: Strand B, managing self through refining a core technique."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Perfect Swing",
+            "summary": "Introduces forehand groundstroke technique off a self-drop. Self-Drop Target has each student self-dropping and forehanding toward a large marked zone, counting clean hits. Feeder & Hitter has one partner gently underarm feeding while the other forehands back toward a target, and Shadow Swing Mirror has partners mirroring a slow-motion forehand — no ball — checking each other's side-on turn and low-to-high path. The Big Game, Forehand Target Battle, scores self-dropped forehands into zones worth different points, rewarding technique over just power. Value focus: Manaaki, practising a skill faithfully with real effort even when it doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful skill practice."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Target Ace",
+            "summary": "Moves the forehand from technique to accuracy. Zone Target Forehand has self-drop forehands aimed at three marked zones worth different points, called before hitting. Hoop Hunter has a partner placing or moving a hoop for the hitter to land a self-dropped forehand in or near, and Streak Target Challenge tracks consecutive successful hits to the same called target before a miss resets the streak. The Big Game, Forehand Precision Cup, rotates small groups through a mini target course of escalating-value zones, rewarding precision over power. Value focus: Pānga, thinking ahead about where a shot will have the most impact rather than just reacting. Curriculum focus: Strand B, thinking — reading space and making a deliberate decision before acting."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Flip Side",
+            "summary": "Closes the block by introducing backhand groundstroke technique. Backhand Self-Drop Target mirrors the forehand version, self-dropping and hitting a backhand toward a large marked zone. Feeder & Hitter — Backhand has a partner feeding gently to the backhand side, and Forehand or Backhand? has the feeder placing the ball to one side or the other so the hitter must read it and choose the correct grip and turn. The Big Game, Backhand Target Battle, scores self-dropped backhands at zones worth different points, rewarding a growing, controlled backhand turn. Value focus: Aroha, staying patient and kind with yourself and teammates when the trickier side doesn't come off first time. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through a second technical stroke, closing Foundational Racquet & Ball Control."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Backhand Bullseye",
+            "summary": "Opens Combining Strokes, Footwork & Rallying by building backhand accuracy. Zone Target Backhand has self-drop backhands aimed at three marked zones worth different points, called before hitting. Hoop Hunter — Backhand has a partner placing or moving a hoop for a backhand target, and Streak Target Challenge — Backhand tracks consecutive successful backhand hits to the same called target. The Big Game, Backhand Precision Cup, rotates small groups through a mini target course, building team totals across rounds on the trickier side. Value focus: Mōhio, noticing exactly what's different about the backhand turn as it starts to click. Curriculum focus: Strand B, managing self through continued technical refinement."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Switch Hitter",
+            "summary": "Combines forehand and backhand within a genuine rally. Left-Right Feed Choice has a partner feeding alternately or randomly to either side so the hitter must choose and use the correct stroke each time. Cooperative Rally Count has partners rallying over a low net, counting consecutive controlled hits that combine both sides, and Mirror Ready Position has a partner calling or pointing forehand or backhand without a ball, testing how fast the student snaps into the correct ready turn. The Big Game, Combo Rally Challenge, has pairs building the longest cooperative rally combining both strokes over a mini net. Value focus: Manaaki, rallying cooperatively with a partner so both of you improve together, not just winning the point. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand B, thinking — choosing the right stroke in the moment."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Quick Feet",
+            "summary": "Teaches the footwork that gets a player into position — the split step. Split-Step Echo has a partner clapping or miming a hit while students split-step in response, checking for a small hop rather than a big jump. Cone Scatter Sprint has the teacher calling a cone to move to in a balanced hitting position after a split-step, and Shadow Rally Movement has a partner pointing a direction so the student split-steps and mimes a stroke there, resetting between calls. The Big Game, Movement Mini-Rally, is a real rally over a low net judged purely on split-step and movement quality rather than stroke power. Value focus: Pānga, recognising that good footwork sets up every stroke that follows, benefiting the whole rally. Curriculum focus: Strand B, managing self through anticipatory movement."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Keep It Alive",
+            "summary": "Closes the block by teaching cooperative rallying. Count the Rally has pairs counting consecutive controlled hits over a low net or marked boundary, trying to beat their own best. Target Zone Rally has pairs alternating aim to a marked left or right zone on their partner's side, and Shrinking Court Rally gradually narrows the marked area as a pair's consecutive count increases. The Big Game, Class Rally League, has all pairs rallying simultaneously for a set time, tracking their best consecutive count and swapping partners once during the session. Value focus: Aroha, enjoying a cooperative rally and encouraging a partner as the count grows, not just chasing a personal record. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strand B, relating to others through cooperative play, closing Combining Strokes, Footwork & Rallying."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: First Strike",
+            "summary": "Opens Net Play, Reading the Ball & Decision-Making with serving technique. Toss & Catch isolates the toss or drop by catching the ball instead of hitting it first, checking consistency. Underarm Serve Target has students serving underarm into a marked service box, counting clean serves, and Serve & Rally Starter turns the serve into the start of a short rally with a partner, rather than needing to be a winner. The Big Game, Serve Ladder Challenge, has small groups serving into progressively smaller or further zones for increasing points. Value focus: Mōhio, understanding what a consistent toss does for the whole serve that follows. Curriculum focus: Strand B, managing self through a new, more specialised technical skill."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Corner Server",
+            "summary": "Builds serving accuracy and placement. Zone Serve Challenge has students serving into one of several marked zones inside the service box, worth different points by difficulty. Serve & Call has a partner calling a target zone just before the serve so the server must aim there rather than choosing themselves, and Streak Serve Target tracks consecutive successful serves into the same called zone. The Big Game, Serve Placement Showdown, has small groups competing across rounds of escalating-value zones, with encouragement for effort on the hardest, smallest targets. Value focus: Manaaki, using serve placement fairly to genuinely test a partner, not just to catch them out. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through consistent, accurate technique."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Net Ninja",
+            "summary": "Introduces volley technique at the net. Volley Prep Reps has students returning a close, gentle feed with a short punch volley and no backswing. Volley Target Zone has fed balls volleyed toward a marked zone on the other side of the net, and Two-Touch Volley Rally has partners volleying to each other at the net without letting the ball bounce, counting consecutive volleys. The Big Game, Net Point Finisher, has small-sided points starting with a gentle feed and finishing at the net with a volley. Value focus: Pānga, thinking ahead about finishing a point cleanly at the net rather than just reacting to the ball. Curriculum focus: Strand B, thinking — a deliberate, technical decision at speed."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Full Point Player",
+            "summary": "Combines groundstrokes and volley within one point. Approach & Finish has a feed starting a short groundstroke exchange before the student moves forward to finish the point with a volley. Baseline to Net Relay has students hitting a groundstroke from the baseline, sprinting forward, then volleying a second feed to finish, and Point Construction Mini-Games requires at least one groundstroke and one volley to score. The Big Game, Construct the Point, specifically celebrates points that combine a baseline rally with a net finish. Value focus: Aroha, enjoying the challenge of building a whole point together with a partner, not just staying on the baseline. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, thinking — sequencing multiple skills into one effective point."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Ball Reader",
+            "summary": "Teaches reading a ball's bounce and trajectory. Call the Bounce has a feeder sending varied trajectories, with students calling 'high,' 'low,' 'short,' or 'deep' as a prediction before it bounces. Early Move Challenge requires students to move to the predicted contact spot before the bounce, then play the shot from a balanced position, and Trajectory Tag has a feeder deliberately varying trajectory so students react with correct positioning and stroke choice. The Big Game, Read & React Mini-Games, has the teacher highlighting good early reading as a key reason points are won. Value focus: Mōhio, understanding the bigger picture of a shot's flight before it even arrives. Curriculum focus: Strand B, thinking — anticipating and reacting to a live situation."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Smart Shot",
+            "summary": "Focuses on the decision of where to place a shot. Spot the Space has a cone or partner marking an 'opponent' position, with hitters aiming away from it into open space. Pressure Decision Rally adds a light, gentle chaser applying mild pressure during a rally, forcing quicker placement decisions, and Safe or Risky? has students choosing between a safe central shot or a risky angled shot before each attempt. The Big Game, Decision Point Games, is scored partly on smart shot selection, with a peer observer calling out genuinely smart shot moments. Value focus: Manaaki, choosing a shot that serves the point well, not just the boldest option available. Faith connection: Proverbs 2:6, for the Lord gives wisdom. Curriculum focus: Strand B, thinking — quick, sound decision-making under pressure."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Singles Showcase",
+            "summary": "Opens the final block with small-sided singles mini-tennis. Mini-Match Warm Points has short practice points — serve, rally, finish — played to a low target score without formal scoring pressure. Serve-Rally-Finish Circuit rotates students through the full sequence of a point, and Scoring Practice Points introduces simple, modified scoring so skills are applied under light real game conditions. The Big Game, Round-Robin Singles Mini-Tennis, has students rotating through short 1v1 matches on modified courts, applying serving, rallying, movement and placement together. Value focus: Pānga, recognising how every skill from the unit contributes somewhere in a real singles point. Curriculum focus: Strand B, applying a range of skills together in genuine competition."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Dynamic Duos",
+            "summary": "Introduces doubles play, focused on communication and positioning. Call It! has pairs practising calling 'mine' or 'yours' loudly and early as balls are fed toward the middle of their side. Court Coverage Shuffle has pairs practising a simple movement pattern — one up, one back, or side-by-side — to cover the court as a feeder varies shot direction, and Doubles Feed Points plays short doubles points focused on communication and positioning rather than winning outright. The Big Game, Doubles Mini-Tennis Round Robin, has pairs rotating through short doubles matches applying communication and court coverage. Value focus: Aroha, communicating clearly and generously with a doubles partner so nobody is left to cover space alone. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strands B and C, relating to others through team positioning."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Game, Set, Smart",
+            "summary": "Teaches scoring and basic game strategy. Scoring Practice has students playing short points and keeping score aloud using a simple modified system. Strategy Card Points has pairs drawing a simple strategy idea, such as aiming to an opponent's backhand, and trying to apply it before a short game, and Consistency Wins ends points only on a clear unforced error or a genuine winner, discouraging wild swings for winners. The Big Game, Scored Mini-Matches, uses today's scoring system with each pair naming and trying one strategy idea during the match. Value focus: Mōhio, understanding a simple strategy well enough to apply it under real scoring pressure. Curriculum focus: Strand B, thinking — planning and applying a game strategy."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Match Day",
+            "summary": "Brings everything together in full modified games with scoring. Warm-Up Rally Points is a short rally-based warm-up where students settle into rhythm and remind themselves of key technique points. Skill Focus Choice has each student picking one skill from the unit to focus on today, receiving brief feedback during play, and Practice Match Sets plays short practice sets with full scoring as a run-through before the tournament. The Big Game, Full Modified Matches, has students playing complete self-officiated singles or doubles matches drawing on every skill from the unit. Value focus: Manaaki, officiating and playing fairly and generously in a self-run match, trusting your opponent's calls as they trust yours. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: all four NZC Health & PE strands applied together in full match play."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Tennis Tournament Day",
+            "summary": "Closes the unit with a culminating mini-tournament. The Skill Circuit Warm-Up gives a whistle-stop reminder combining grip, bounce control, groundstrokes and volleys before matches begin. Partner Encouragement Challenge has each student nominating one specific way they'll encourage their opponent or partner during play, and Focus Pick has each player choosing one skill from the unit they most want to show off today. The Big Game, Round-Robin Mini-Tournament, has students rotating through short singles or doubles matches across multiple courts using simple scoring or a fair-play points system. Value focus: Pānga, reflecting on the impact this whole unit has had on skills, opponents and how you treat others in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Team Play / Working Together",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Talk It Out",
+            "summary": "Opens Communication, Space & Trust with clear, purposeful calling. Name Pass Circle has students standing in a circle passing a soft ball underarm, calling the receiver's name clearly before every pass. Call & Catch has moving pairs practising the receiver calling their own name and 'here' before the passer throws, and Silent Minute has teams playing a short keep-away game with no talking allowed, then immediately replaying it with talking, comparing the difference. The Big Game, Call It, Catch It, is a 4v4 keep-away game where every pass must be preceded by a clear name call, with a bonus point for an encouraging call after a mistake. Value focus: Aroha, patience with a call that doesn't come out clearly yet, and encouragement for classmates whose communication looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand C, relating to others through clear communication."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Find Your Space",
+            "summary": "Teaches spatial awareness and support positioning. Grid Spread has students jogging freely in a marked grid, keeping as much distance as possible from every other player, with periodic freezes to check spacing. Shadow Space has one student carrying a ball while teammates constantly reposition to stay open and visible, and 3v1 Keep-Away rewards attackers specifically for spreading into good triangle shapes rather than bunching. The Big Game, Spread & Score, awards bonus points for visibly good spacing, not just completed passes. Value focus: Mōhio, understanding where your own body needs to be for the team's space to work. Curriculum focus: Strand C, relating to others through spatial awareness."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Same Team, Same Job",
+            "summary": "Teaches understanding and communicating roles. Role Call has small groups rotating through attacker, defender and supporter roles, with the teacher freezing play to check each student understands their current job. Colour-Coded Roles has students wearing different coloured bibs so only the correct role can perform a certain action, and 3-Role Rotation Game triggers an immediate role rotation after every successful action, forcing quick adjustment. The Big Game, Triangle Ball, is built around three rotating roles, earning points both for game success and for clearly communicating which role you're in. Value focus: Manaaki, understanding that every role — not just the exciting one — genuinely serves the team. Faith connection: 1 Corinthians 12:12, the body has many parts, working together. Curriculum focus: Strand C, relating to others through role clarity."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Trust the Pass",
+            "summary": "Teaches trust and cooperative movement. Guide & Go has one partner closing their eyes while the other guides them verbally along a safe pathway of cones. Follow the Leader Formation Jog has small groups jogging in formation, trusting and mirroring a change of direction immediately without being told why, and Trust Toss has partners catching a softly thrown ball relying on a verbal 'ready' call rather than watching the whole throw. The Big Game, Blind Trust Relay, has a blindfolded runner guided safely to a marker and back using only teammates' voices. Value focus: Pānga, understanding that trusting a teammate's call genuinely changes what the team can achieve together. Faith connection: Proverbs 3:5, trust with all your heart. Curriculum focus: Strand C, relating to others through cooperative trust."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Cheer Squad",
+            "summary": "Closes the block by teaching encouragement under pressure. Compliment Circuit has students rotating through short partner activities, giving one specific, genuine piece of praise after each. Bench Cheer Challenge has the resting team actively and specifically encouraging the playing team from the side, tracked by the teacher, and Mistake Reset Game requires a specific encouragement before play restarts after any dropped ball or missed pass. The Big Game, Team Challenge Carousel, revisits the whole block's focus — clear calls, good spacing, role clarity, trusting a teammate — with genuine encouragement woven through every station. Value focus: Aroha, choosing words that genuinely lift a teammate up after a mistake, not just after a success. Faith connection: 1 Thessalonians 5:11, encourage one another and build each other up. Curriculum focus: Strand C, relating to others through positive communication, closing Communication, Space & Trust."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Give and Go",
+            "summary": "Opens Supporting Teammates & Cooperative Play by teaching movement after a pass. Give & Go Grid has pairs passing and immediately jogging to a new open spot before receiving the ball back, repeating continuously. Angle Finder has students moving to an angled position rather than directly behind or in front of the passer, so the return pass isn't blocked, and the 2-Touch Support Game limits players to two touches, forcing quick decisions and immediate supporting movement. The Big Game, Overlap Ball, awards bonus points specifically for completed give-and-go sequences. Value focus: Mōhio, understanding your role and where you fit in the play immediately after passing, not just before. Curriculum focus: Strand C, relating to others by combining passing and movement."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Numbers Up",
+            "summary": "Teaches creating and using an overload as a team. 2v1 Rondo has two attackers keeping the ball from one defender, focused on recognising and using the extra player rather than crowding together. Overload Alley is a 3v2 possession game in a narrow grid where the attacking team must spot and use their extra player, and Spot the Extra Player freezes a small-sided game so students can correctly point out which team currently has the numbers advantage. The Big Game, Numbers Game, is 5v3, with the larger team recognising and exploiting their advantage while the smaller team focuses on compact defending. Value focus: Manaaki, using a numbers advantage generously — finding the free teammate rather than trying to do it all yourself. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand C, thinking and relating to others through recognising a team advantage."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Cover Your Mate",
+            "summary": "Teaches defensive cooperation. Cover Shadow has pairs practising defensive cover — one defender pressures an attacker while the second shadows just behind, ready to step in. Recovery Run Race has a beaten defender racing to recover into a useful covering position rather than chasing the ball directly, and 2v2 Cover Game rewards defenders who communicate and cover for each other whenever one is beaten. The Big Game, Last Line Ball, specifically rewards cooperative cover rather than individual defending. Value focus: Pānga, understanding that covering for a teammate's mistake protects the whole team, not just fixes one moment. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: Strand C, relating to others through defensive cooperation."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Switch It Up",
+            "summary": "Teaches fluidly rotating positions and roles during play. Position Swap Tag has small groups holding set positions and practising calling and swapping cleanly with a teammate on a signal. Rolling Rotation Game continuously rotates players through two or three positions after set triggers, such as every successful pass, and Call & Switch has partners switching roles mid-activity purely by calling out clearly, with no other signal. The Big Game, Fluid Formation Game, requires students to rotate positions on a clear signal, keeping team shape balanced throughout. Value focus: Aroha, adjusting cheerfully to a new role for the team's benefit, not just staying in a comfortable spot. Faith connection: 1 Corinthians 12:12, the body has many parts, working together. Curriculum focus: Strand C, relating to others through flexible team roles."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Team Huddle",
+            "summary": "Closes the block by teaching mid-game review and adjustment. The 60-Second Huddle Challenge gives teams exactly one minute mid-game to review one thing that's working and one thing to change before restarting. Plan & Adjust Game pauses a small game at the halfway point specifically for a huddle and adjustment, and Coach for a Minute has one student per team lead the huddle, practising clear, positive, useful input. The Big Game, Adjust & Win, is a round-robin tournament where every match includes a compulsory halfway huddle. Value focus: Mōhio, understanding what's genuinely working or not working well enough to say it clearly to the team. Curriculum focus: Strand C, thinking — reviewing and adjusting a team plan, closing Supporting Teammates & Cooperative Play."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Read the Game",
+            "summary": "Opens Team Problem-Solving & Tactics by teaching reading teammates' and opponents' movement. Eyes On has students practising regular glances up during simple ball activities to spot developing space or movement. Space Spotter has students calling out loud the moment they spot space opening up nearby, building the habit of noticing early, and React & Read Game specifically coaches reacting to a teammate's body shape or eye direction as an early signal. The Big Game, Read & React Ball, awards bonus points for visibly reading space or a teammate's movement and reacting before the obvious moment. Value focus: Manaaki, using early reading to serve a teammate's play, not just to help yourself. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand C, thinking — reading a live, shared situation."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Pick a Plan",
+            "summary": "Teaches choosing a simple attacking tactic together before play. Plan of the Day has each team picking one simple attacking idea from a small set of options and briefly discussing how they'll use it. Target Player Game practises a 'get the ball to the target player' plan with one nominated player as the consistent target, and Fast Start Challenge practises a quick-start plan, moving the ball forward fast in the first few seconds of a restart, then reflecting on execution. The Big Game, Plan & Play, is a series of short mini-matches where each team selects a tactic beforehand and is reviewed afterward on how well they committed to it. Value focus: Pānga, thinking ahead as a team about a shared plan rather than everyone deciding individually. Faith connection: Proverbs 2:6, for the Lord gives wisdom. Curriculum focus: Strand C, thinking — planning a team tactic together."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Hold the Line",
+            "summary": "Teaches simple defensive shape and shared responsibility. Shape Shuffle has a small defending group shuffling sideways together as a connected line in response to the ball's movement, without any player drifting alone. Zone Hold gives each defender a simple zone to hold rather than a specific player to chase, staying compact as the ball moves, and Connected Defence Game rewards the defending team specifically for staying connected and compact as a shape. The Big Game, Hold the Line, earns bonus points for maintaining a compact, connected defensive shape and clear coverage communication. Value focus: Aroha, staying connected to defending teammates rather than drifting off to chase the ball alone. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strand C, relating to others through coordinated team defence."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Change of Plan",
+            "summary": "Teaches adapting tactics mid-game when the first plan isn't working. Plan B Practice has teams starting with one plan, then quickly agreeing and switching to a different one when the teacher signals it isn't working. Adapt or Repeat has teams reflecting honestly after each round on whether their plan worked, then adapting or repeating it deliberately, and Signal to Switch practises a simple, agreed team signal any player can use mid-game to suggest trying something different. The Big Game, Adapt & Overcome, deliberately changes a condition partway through, forcing teams to notice their plan isn't working and calmly adjust. Value focus: Mōhio, being honest with yourself and the team about what's actually working, not just sticking with the first idea. Curriculum focus: Strand C, thinking — problem-solving and adapting under pressure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Team Captain for a Day",
+            "summary": "Closes the block by teaching shared leadership and decision-making. Captain's Call has each student taking a brief turn as captain, making one simple tactical call for the team. Leadership Carousel rotates students through short leadership tasks — calling a huddle, suggesting a plan, organising a positional switch — and Decide Together gives small teams a scenario and a short time limit to decide on one shared response, practising quick, inclusive decision-making. The Big Game, Captain's Cup, is a small tournament where a rotating student captain on each team makes the key tactical calls. Value focus: Manaaki, leading a team gently and inclusively, listening to teammates rather than deciding alone. Faith connection: Mark 10:43-44, whoever wants to become great must be a servant. Curriculum focus: Strand C, relating to others through shared leadership, closing Team Problem-Solving & Tactics."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Mixed-Up Teams",
+            "summary": "Opens the final block by teaching how to work effectively with new or unfamiliar teammates. Quick Team Quiz gives newly mixed teams sixty seconds to find out one strength from every teammate before their first game together. New Faces Rondo plays small possession games entirely in freshly mixed groups, quickly re-establishing calls, spacing and support, and Fast Bonding Challenge has newly mixed teams completing a short cooperative challenge that requires quick communication and trust. The Big Game, Shuffle Cup, is a mini-tournament where teams are re-mixed between rounds, requiring students to rebuild working communication and trust each time. Value focus: Pānga, making a genuine effort to include and connect with teammates you don't usually play with. Faith connection: Romans 15:7, accept one another. Curriculum focus: Strand C, relating to others across a changing group."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Under Pressure",
+            "summary": "Teaches team composure and communication under competitive pressure. Pressure Cooker Game has short, closely scored games with a visible scoreboard, specifically coaching students to keep communicating clearly even as pressure builds. Calm Call Challenge has teams agreeing on one simple 'reset phrase' to use immediately after any mistake, and Comeback Game starts teams behind on an artificial scoring handicap, requiring communication and support to work back into it. The Big Game, High Stakes Ball, is a competitive small-sided game specifically reviewed on how well teams maintained communication and composure under real pressure. Value focus: Aroha, staying kind and encouraging toward teammates even when the scoreboard gets tense. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand C, managing self and relating to others under competitive pressure."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Everyone Plays a Part",
+            "summary": "Teaches inclusive team play that values every teammate's contribution. Everyone Touches Game only allows a team to score after the ball has been touched by every teammate at least once in that possession. Value Spotter has students identifying one teammate's valuable contribution that wasn't a score — a good call, a smart cover, a great pass — after a short game, and Inclusive Rotation Game ensures every player takes a turn in a key role regardless of confidence level. The Big Game, All In, is played under an everyone-touches-before-scoring rule, with the teacher specifically highlighting non-scoring contributions. Value focus: Mōhio, noticing and naming a teammate's contribution that isn't the obvious, flashy one. Curriculum focus: Strand C, relating to others through genuinely inclusive play."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Practice Team Day",
+            "summary": "Brings the whole unit's team-play skills together in full run-throughs. Warm-Up Team Points is a short warm-up game where students settle into rhythm and remind themselves of key teamwork points from across the unit. Skill Focus Choice has each student picking one team-play skill from the unit — clear calls, covering a teammate, reading the game — to focus on today, and Practice Match Sets plays short games with full rules and scoring as a run-through before the culminating tournament. The Big Game, Full Team Trial Games, has students playing complete, self-officiated small-sided matches drawing on communication, support, tactics, cover and inclusion from across the whole unit. Value focus: Manaaki, playing generously and fairly as everything from the unit comes together in a real contest. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: all four NZC Health & PE strands applied together."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Team Play Games Day",
+            "summary": "Closes the unit with a culminating multi-game tournament celebrating teamwork. The Skill Circuit Warm-Up combines calls, spacing, roles and support play as a whistle-stop reminder of the whole unit. Team Encouragement Challenge has each student nominating one specific way they'll encourage a teammate or opponent during play, and Focus Pick has each team choosing one team-play skill from the unit they most want to show off today. The Big Game, Round-Robin Team Games Day, has students rotating through short team games across multiple areas, with every skill from the unit — communication, space, roles, trust, cover, tactics and inclusion — relevant somewhere on the field. Value focus: Pānga, reflecting on the impact this whole unit has had on how you play with and treat every teammate. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strategy & Decision-Making",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Eyes Up",
+            "summary": "Opens Reading the Game & Making a Choice by teaching scanning before acting. Head Up Circle has students passing in a circle, required to lift their head and look at two other players before receiving. Scan & Point has ball carriers dribbling while teammates without the ball silently point at open space they've spotted, and What Did You See? randomly freezes a small game to ask a non-ball-carrier what options they'd scanned. The Big Game, Scan & Score, awards a bonus point in a 4v2 keep-away for passing to an option the player had clearly scanned beforehand. Value focus: Aroha, patience with a scan that misses something at first, and encouragement for classmates whose awareness looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, thinking — noticing before deciding."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Spot the Gap",
+            "summary": "Teaches recognising space as a decision cue. Gap Hunters has students jogging through a grid of cones representing defenders, calling out 'gap!' as they move through the space between two cones. Best Option Pass has a passer in a 3v1 keep-away game briefly naming two options aloud before passing to whichever is more open, and Race to the Gap has small teams competing to be first into a marked open gap when it's called. The Big Game, Gap Attack, awards a bonus point for a pass or run into a clearly identified gap in the defence. Value focus: Mōhio, understanding what an open gap actually looks like before it's pointed out. Curriculum focus: Strand B, thinking — recognising space as it develops."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Quick or Safe?",
+            "summary": "Teaches a simple binary decision — safe or risky. Safe or Send It has the receiver calling 'safe' or 'go' as the ball approaches, with the passer reacting instantly with a slower controlled pass or a faster driven one. Traffic Light Decisions has a coloured card signalling green (go for it) or red (play safe) mid-play, and Why Did You Choose That? asks a player right after a key moment to explain in one sentence why they went safe or risky. The Big Game, Risk or Rest, flips a coloured cone mid-game to signal whether the round rewards safe or risky play. Value focus: Manaaki, choosing the option that genuinely serves the team in that moment, not just the flashiest one. Faith connection: Proverbs 2:6, for the Lord gives wisdom. Curriculum focus: Strand B, thinking — quick, sound decision-making."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: Read the Defender",
+            "summary": "Teaches reading an opponent's position and body language. Shadow Read has one student mirroring a slow-moving 'defender' while trying to read and call out which side is more open. 1v1 Gap Read has an attacker choosing the side a defender is showing them, scoring a bonus point for reading it correctly, and 2v1 Decision has the ball carrier reading the single defender's position to decide whether to pass or carry themselves. The Big Game, Read & React, awards a bonus point for attacking moves that visibly used a defender's position to make the decision. Value focus: Pānga, thinking ahead about what a defender's body is telling you before you commit. Curriculum focus: Strand B, thinking — reading an opponent's cues."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Decide and Commit",
+            "summary": "Closes the block by teaching committing fully to a decision. Commit Challenge has the teacher calling 'commit!' the instant a player begins an action, rewarding full, committed execution over hesitant half-attempts. Decision Carousel rotates teams through short stations revisiting scanning, spotting gaps, safe-versus-risky choices, and reading a defender, and No Regrets Round has a player briefly say what they saw and why they chose it after every decision, with no criticism allowed. The Big Game, Commit & Reflect Games, rewards full commitment to decisions and quick, judgement-free feedback between teammates. Value focus: Aroha, supporting a teammate's decision kindly, win or lose, rather than second-guessing it afterward. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, thinking — decisive action, closing Reading the Game & Making a Choice."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Worth the Risk?",
+            "summary": "Opens Weighing Risk & Reward by teaching genuine cost-benefit thinking. Risk Points has a possession game where a risky pass or move scores double if it works but costs a turnover-style penalty if it doesn't, alongside safer options. Worth It? Card Call has one partner quickly saying 'worth it' or 'not worth it' and why before each attempt, and Cost of the Fail has small games briefly discussing what a failed risky attempt actually cost the team. The Big Game, High Stakes Possession, uses a genuine risk/reward scoring system to push teams to weigh decisions rather than guess. Value focus: Mōhio, understanding the real cost and reward of a choice before making it, not just afterward. Curriculum focus: Strand B, thinking — weighing risk and reward."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Numbers Game",
+            "summary": "Teaches reading attacker-versus-defender numbers to decide when to go. Count and Call has students moving through a grid of scattered defenders, calling out the number of attackers versus defenders before every action. 2v1, 3v2 Rotation cycles through overload games where the attacking side must recognise and use their numbers advantage directly, and Numbers Up Call awards a bonus point for correctly calling 'numbers up!' in a genuinely favourable moment. The Big Game, Overload Game, regularly shifts the numbers situation, rewarding teams who recognise and attack genuine advantages. Value focus: Manaaki, using a numbers advantage to create a chance for a teammate, not just yourself. Faith connection: Philippians 2:4, looking to the interests of others. Curriculum focus: Strand B, thinking — reading numerical advantage."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Plan B",
+            "summary": "Teaches having a backup option ready. Plan A, Plan B has a passer quietly naming two options to their partner before each attempt, switching to Plan B if the defender blocks Plan A. 'Blocked!' Reaction Game has a defender calling 'blocked!' on a player's intended option, forcing an instant, smooth switch, and Call the Switch has players verbally calling out when they're switching plans so teammates can adjust too. The Big Game, Backup Ball, awards a bonus point for smoothly executing a backup plan after the first option is genuinely blocked. Value focus: Pānga, thinking ahead well enough to have a second option ready, not just hoping the first one works. Curriculum focus: Strand B, thinking — planning ahead with a genuine backup."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Under the Pump",
+            "summary": "Teaches decision-making under time and defensive pressure. Beat the Clock Decisions has simple passing drills with a shrinking time limit to decide before a defender or timer catches up. Closing Down has one or two defenders actively closing space quickly, forcing the ball carrier to decide fast, and Calm Under Pressure has one player applying light pressure — shadowing, noise, time pressure — while the other practises staying physically relaxed while still deciding well. The Big Game, Pressure Cooker Possession, rewards teams who keep making clear, calm decisions rather than rushing or freezing. Value focus: Aroha, staying encouraging toward a teammate whose decision-making rushes under pressure, not critical of it. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through composed decision-making under pressure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Team Choice",
+            "summary": "Closes the block by teaching group decision-making. Quick Team Call has small groups making a fast shared decision using only a few seconds of quiet discussion before acting. Risk/Reward Vote has teams briefly weighing up a risky versus safe team option and agreeing together before playing it out, and Backup Team Plan has teams planning a shared Plan A and Plan B, switching smoothly if Plan A is blocked. The Big Game, Team Decision Cup, has teams huddling briefly before each game to agree a shared plan combining risk/reward thinking, numbers-reading and backup plans. Value focus: Mōhio, valuing the whole team's input on a decision, not just your own read of the situation. Curriculum focus: Strand C, relating to others through shared decision-making, closing Weighing Risk & Reward."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Read the Pattern",
+            "summary": "Opens Adapting Tactics & Team Plans by teaching pattern recognition in an opponent's play. Pattern Watch has students playing repeated short rounds against the same partner, trying to notice and use a pattern in their choices. Predict & Play has students briefly predicting aloud what an opponent is likely to do next based on what they've noticed, and Break the Pattern has one player deliberately playing a genuine pattern for a few rounds before breaking it, testing whether the other notices. The Big Game, Scout & Score, awards a bonus point for decisions that clearly used a pattern spotted from the same opponent over multiple rounds. Value focus: Manaaki, using a spotted pattern fairly to compete well, not to embarrass an opponent. Faith connection: Proverbs 11:3, the integrity of the upright guides them. Curriculum focus: Strand B, thinking — recognising patterns over time."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Change It Up",
+            "summary": "Teaches adapting a plan mid-game when it isn't working. Plan Fail Spot has the teacher periodically pausing play to ask teams to honestly rate whether their current plan is working. Switch Signal has teams agreeing a simple word or hand action any player can use to suggest changing the plan, and New Idea, Old Idea has small groups proposing a specific new plan after the first one clearly isn't working, trying it out immediately. The Big Game, Adapt or Lose, awards a bonus point to teams that visibly notice a failing plan and adapt within the same game. Value focus: Pānga, being honest enough to say a plan isn't working rather than sticking with it out of habit. Curriculum focus: Strand B, thinking — problem-solving and adapting mid-game."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Set Plays",
+            "summary": "Teaches using a simple pre-planned team strategy. Walk the Play has teams slowly walking through a simple three-player set play — a decoy run, a pass, a run into space — without pressure. Signal & Execute practises the set play at game speed, triggered only by a clear agreed signal, and Read the Play has one team running their set play while an opposing pair tries to read and defend it after seeing it once or twice. The Big Game, Set Play Showdown, awards a bonus point for successfully executing a learned set play, and an extra bonus for adapting it once an opponent starts to read it. Value focus: Aroha, trusting teammates enough to rehearse and rely on a shared plan. Faith connection: Ecclesiastes 4:9-10, two are better than one. Curriculum focus: Strand B, thinking — planning and rehearsing a team pattern."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Change of Plan",
+            "summary": "Teaches reading an opponent's tactics and adjusting in response. Spot Their Tactic has short rounds against the same opponent, pausing afterward to name one specific tactic they used. Counter It has teams proposing and trying one specific counter-adjustment in the next round, and Give It a Fair Go commits teams to trying their adjustment for a full round before deciding whether to keep it, tweak it, or try something else. The Big Game, Tactical Chess, awards a bonus point for identifying an opponent's tactic and successfully adjusting to counter it. Value focus: Mōhio, understanding an opponent's tactic well enough to respond thoughtfully, not just react. Curriculum focus: Strand B, thinking — reading and countering an opponent's approach."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Captain's Call",
+            "summary": "Closes the block by combining reading, adapting and set plays in a captain-style role. Captain Carousel rotates the captain role every few minutes, with each captain responsible for calling one tactical decision. Call and Commit requires whoever is captain that round to make one clear tactical call, with the team committing to it fully, and Leadership Feedback has teammates briefly and kindly sharing one thing that worked well about each captain's call. The Big Game, Captain's Cup, rotates the captain role through every player, rewarding confident tactical calls and team commitment. Value focus: Manaaki, leading a tactical call generously and listening to feedback afterward. Faith connection: Mark 10:43-44, whoever wants to become great must be a servant. Curriculum focus: Strand C, relating to others through shared tactical leadership, closing Adapting Tactics & Team Plans."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Game Plan Huddle",
+            "summary": "Opens the final block by teaching how to build and communicate a team game plan. Huddle Up gives teams one minute before a game to agree a simple plan — one tactic to try, and one role each. Explain the Plan has the teacher randomly asking one player from each team to explain the plan in one or two sentences right after huddling, and Plan in Action has teams playing a short game trying specifically to use their huddled plan, discussing afterward how closely they followed it. The Big Game, Huddle & Play, has every team huddling briefly before each game across a round-robin. Value focus: Pānga, communicating a plan clearly enough that every teammate genuinely understands their part. Curriculum focus: Strand C, relating to others through a clearly communicated plan."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Clutch Calls",
+            "summary": "Teaches decision-making in high-pressure, late-game moments. Final Minute has short games with a visible countdown or a 'final minute' call requiring a clear decision before time runs out. Composure Check deliberately raises pressure — noise, a countdown, an audience — checking whether decisions stay clear, and Support After a Slip requires genuine, specific encouragement from teammates immediately after any high-pressure mistake before play restarts. The Big Game, Clutch Cup, has genuine late-game pressure moments rewarding clear decisions and supportive communication. Value focus: Aroha, staying warm and supportive toward a teammate in the tensest moments of a game, not just the easy ones. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self under genuine pressure."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Scout the Opposition",
+            "summary": "Teaches reading and adapting to an unfamiliar opponent's style. First Five Minutes has teams rotating through short games against unfamiliar opponents, focused specifically on identifying one thing about their style early. Report Back has each team quickly reporting one specific observation to the teacher or another team right after the observation window, and Adjust and Play has teams using that observation to make one specific adjustment for the rest of the game. The Big Game, Scout & Adapt Tournament, rewards specific, accurate observations and effective tactical adjustment against rotating unfamiliar opponents. Value focus: Mōhio, understanding a new opponent well enough to genuinely adjust your approach, not just guessing. Curriculum focus: Strand B, thinking — observing and adapting to something unfamiliar."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Strategy Trial Day",
+            "summary": "Brings the whole unit's skills together in a practice run ahead of the culminating games day. Warm-Up Strategy Points is a short warm-up game where students settle into rhythm and remind themselves of key decision-making points from across the unit. Skill Focus Choice has each student picking one strategy skill — scanning, reading numbers, staying composed — to focus on today, and Practice Match Sets plays short games with full rules and scoring as a run-through before the tournament. The Big Game, Full Strategy Trial Games, has students playing complete, self-officiated matches drawing on scanning, risk/reward thinking, reading opponents, adapting plans, and composure under pressure. Value focus: Manaaki, playing generously and fairly as everything from the unit comes together in a real contest. Faith connection: Galatians 6:2, carry each other's burdens. Curriculum focus: all four NZC Health & PE strands applied together."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Strategy & Decision-Making Games Day",
+            "summary": "Closes the unit with a culminating multi-game tournament celebrating strategic thinking. The Skill Circuit Warm-Up combines scanning, numbers-reading and composure under pressure as a whistle-stop reminder of the whole unit. Team Strategy Challenge has each team huddling briefly to agree one specific strategic focus they'll try to show off today, and Decision Spotlight has the teacher noticing and briefly highlighting one sharp decision from each team throughout the day. The Big Game, Round-Robin Strategy Games Day, has students rotating through short strategic games across multiple areas, with every skill from the unit — scanning, risk/reward, numbers-reading, adapting, set plays and composure — relevant somewhere in these games. Value focus: Pānga, reflecting on the impact this whole unit has had on how you think and decide in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hand-Eye Coordination",
+    "weeks": [
+      {
+        "name": "Week 1",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 1: Eyes On It",
+            "summary": "Opens Tracking & Catching by teaching eyes-on tracking all the way into the hands. Watch It In has one partner gently underarm throwing while the other calls out the colour or pattern on the ball just before it lands in their hands. Eyes Stay On has a passing circle checked for eyes staying on the ball right up until it's caught, not on the thrower, and Catch & Freeze has players catching on the move, freezing in a strong catching position the instant the ball is secured. The Big Game, Track & Catch Tag, is a 4v4 keep-away game where a clean tracked catch earns a bonus point on top of standard possession scoring. Value focus: Aroha, patience with eyes that lose the ball at first, and encouragement for classmates whose tracking looks different on day one. Faith connection: 1 Corinthians 13:4, love is patient and kind. Curriculum focus: Strand B, foundational visual tracking skill."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 2: Soft Hands",
+            "summary": "Teaches cushioning the ball on catching rather than catching rigid. Give and Catch has one partner throwing softly while the other practises pulling their hands back slightly on contact, exaggerating the 'give'. Cup It has students catching different sized balls, focused on shaping their hands into a cup before each catch, and Bounce-Out Battle counts consecutive catches without the ball bouncing out of the hands, resetting on a drop. The Big Game, Soft Hands Showdown, is a 4v2 keep-away where every clean, secure catch scores a bonus point. Value focus: Mōhio, understanding exactly what the hands are doing to absorb the ball rather than fight it. Curriculum focus: Strand B, managing self through refining a core technique."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 3: Two Hands or One?",
+            "summary": "Teaches choosing the right catching technique for the situation. Two Hands First has receivers getting their whole body in line and using two hands whenever a throw is within easy reach. Just Out of Reach has a partner throwing slightly wide so the receiver must judge whether to stretch with one hand or step to use two, and Call It has the receiver calling 'two' or 'one' based on where they think the ball will arrive, then attempting the catch. The Big Game, Catch Call, awards a bonus point for correctly judging and executing either technique based on the ball's position. Value focus: Manaaki, choosing the technique that genuinely gives a fair, honest attempt at the catch. Faith connection: Philippians 2:4, looking not only to your own interests but also to those of others. Curriculum focus: Strand B, thinking — a deliberate technical decision before acting."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 4: High and Low",
+            "summary": "Teaches adjusting to different flight heights. High or Low has a partner throwing a mix of high, chest-height and low balls, with the receiver adjusting hand shape each time. Bounce Read has one partner bouncing the ball to the other, who must track it all the way through the bounce before catching, and Body Behind It has receivers moving their feet to get their whole body behind the ball's line rather than reaching sideways. The Big Game, All Heights, is a 4v4 game with a mix of high, low and bounced passes, awarding a bonus point for a clean, well-adjusted catch at any height. Value focus: Pānga, thinking ahead about where your body needs to be before a ball arrives, not just reacting. Curriculum focus: Strand B, thinking — reading flight and adjusting position."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 5: Catch It All",
+            "summary": "Closes the block by combining tracking, soft hands, catch-type choice and height adjustment. Coordination Carousel rotates teams through short stations revisiting each of this week's focuses. Mixed Bag Catching has throws varying randomly in height, speed and distance so every catch combines the week's skills, and Streak Catch counts a small group's longest run of clean, confident catches mixing heights and speeds. The Big Game, Catch It All Games, awards bonus points for clean, confident catches across a range of heights and speeds. Value focus: Aroha, staying patient and kind with yourself and teammates when a tricky combined catch doesn't come off. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through a combined catching skill, closing Tracking & Catching before next week's striking focus."
+          }
+        ]
+      },
+      {
+        "name": "Week 2",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 6: Meet the Ball",
+            "summary": "Opens Striking & Contact by teaching watching the ball onto the striking surface. Watch It Meet has one partner gently feeding a soft ball for the other to strike with an open hand or soft paddle, calling out the ball's colour just before contact. Early Swing has students starting their swing early so it's already in motion before the ball arrives, and Middle of the Ball has small groups aiming to strike the centre of a stationary or gently rolling ball, getting feedback on contact point. The Big Game, Clean Contact Challenge, awards a bonus point for clean, centred contact in a simple striking format. Value focus: Mōhio, understanding exactly where and when contact needs to happen for a clean strike. Curriculum focus: Strand B, managing self through a new technical skill."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 7: Sweet Spot",
+            "summary": "Teaches finding the centre of the striking surface. Find the Spot has students experimenting where a slow, gently fed ball is struck on their bat, paddle or hand, noticing where it feels and sounds cleanest. Move to the Spot has a feeder varying where the ball arrives slightly so the striker must move their feet to meet it with the sweet spot, and Sound Check has students calling 'clean' or 'edge' based on sound and feel, checked against what the feeder saw. The Big Game, Sweet Spot Scoring, awards bonus points for clean, sweet-spot contact spotted by the teacher or partner. Value focus: Manaaki, practising a skill faithfully with real effort even when contact doesn't come off first time. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through repeated, effortful practice."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 8: Set Up Early",
+            "summary": "Teaches getting body and hands into position before contact. Ready Early has the striker required to be in a set, ready stance before the feeder releases the ball, checked by the feeder. Adjust and Strike has the feeder varying the ball's path slightly after release, requiring a small last-moment adjustment, and Balanced and Ready has students returning to a balanced, ready stance between drills each time before the next feed. The Big Game, Set-Up Success, awards a bonus point for being visibly set up and ready before each ball arrives. Value focus: Pānga, thinking ahead about your own readiness rather than waiting until the ball arrives. Curriculum focus: Strand B, managing self through preparation and stance."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 9: Follow Through",
+            "summary": "Teaches completing a strike with a full follow-through. Swing It Through has students shadow-swinging without a ball first, exaggerating a full, smooth follow-through, then adding a gentle feed. Point the Target has the striker aiming their follow-through toward a cone target and checking whether the ball actually travelled that way, and Smooth Not Stopped has a partner watching for a smooth, complete motion versus a stopped, chopped one. The Big Game, Follow-Through Focus, awards a bonus point for a visibly smooth, complete follow-through toward the intended direction. Value focus: Aroha, enjoying the process of a smooth strike and encouraging a teammate whose swing still stops short. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, managing self through a complete technical motion."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 10: Strike It Clean",
+            "summary": "Closes the block by combining watching the ball in, sweet-spot contact, early set-up and follow-through. Strike Carousel rotates teams through short stations revisiting each of this week's focuses. Clean Strike Streak counts a pair's longest run of clean, confident strikes combining all the week's focuses, and Self-Check Strike has students briefly naming out loud which part of their strike felt strongest each turn. The Big Game, Strike It Clean Games, awards bonus points for clean, well-combined strikes. Value focus: Mōhio, understanding which part of your own technique is strongest and which still needs work. Curriculum focus: Strand B, managing self through a combined striking skill, closing Striking & Contact."
+          }
+        ]
+      },
+      {
+        "name": "Week 3",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 11: Quick Hands",
+            "summary": "Opens Reaction & Timing by teaching fast reaction catching. Drop Catch has one partner holding a ball at shoulder height and dropping it without warning for the other to catch before it bounces twice. Reaction Ball Rally uses a small reaction ball tossed low and short with unpredictable bounces, and Quick Hands Circle has a ball passed rapidly and randomly around a small circle, rewarding fast, clean reactions. The Big Game, Reaction Relay, has small teams racing through a series of quick-reaction catching challenges in relay format. Value focus: Manaaki, giving a partner a fair, genuine reaction challenge rather than an impossible one. Faith connection: Philippians 2:4, looking not only to your own interests but also to those of others. Curriculum focus: Strand B, managing self through fast reflex response."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 12: Read the Bounce",
+            "summary": "Teaches predicting where a bouncing or deflecting object will arrive. Bounce Predictor has one partner bouncing the ball at varying angles while the other calls out and moves to where they predict it will arrive. Beat the Bounce has small groups racing to reach and control a bounced ball first, and Bad Bounce Recovery deliberately introduces an occasional unpredictable bounce, requiring the receiver to adjust mid-read. The Big Game, Read & React Bounce Game, awards a bonus point for correctly predicting and reaching a bounce first. Value focus: Pānga, thinking ahead about where a bounce is likely to go rather than just reacting once it happens. Curriculum focus: Strand B, thinking — predicting a moving object's path."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 13: Time It Right",
+            "summary": "Teaches timing a jump, swing or reach to meet a moving object exactly. Meet It There has one partner throwing at varying speeds while the other times a jump or reach to meet the ball at its highest or furthest point. Timed Strike has students timing a swing with a soft bat or paddle to meet a gently rolled or tossed ball exactly right, and Speed Change Read has a partner varying the ball's speed unpredictably, requiring real-time timing adjustment. The Big Game, Perfect Timing Game, awards a bonus point for a well-timed jump, reach or strike arriving exactly with the ball. Value focus: Aroha, staying patient with timing that's a beat early or late, and encouraging a partner in the same boat. Faith connection: 1 John 4:19, we love because he first loved us. Curriculum focus: Strand B, managing self through precise timing."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 14: Under Pressure",
+            "summary": "Teaches coordinating hand-eye skills while moving or under time pressure. Catch on the Move has one partner throwing while the other jogs or moves laterally, catching without stopping their movement. Defended Catch adds a light passive defender waving their arms nearby without touching, adding visual distraction, and Beat the Clock has small groups attempting a set number of clean catches or strikes within a time limit. The Big Game, Pressure Game, combines light defensive pressure and quick tempo, rewarding accurate hand-eye actions under this pressure. Value focus: Mōhio, understanding how your own coordination changes under pressure and adjusting for it. Curriculum focus: Strand B, managing self through coordination under pressure."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 15: Fast & Focused",
+            "summary": "Closes the block by combining quick reactions, reading bounces, timing and composure under pressure. Fast & Focused Carousel rotates teams through short stations revisiting each of the block's focuses. Combined Pressure Challenge has students completing a fast sequence combining a reaction catch, a bounce read, and a timed strike or reach, one after another, and Composure Check has students briefly naming out loud how they stayed focused after each pressure challenge. The Big Game, Fast & Focused Games, rewards teams for staying accurate and composed throughout. Value focus: Manaaki, staying composed and encouraging under pressure, for your own sake and a teammate's. Faith connection: Galatians 6:9, not growing weary in doing good. Curriculum focus: Strand B, managing self through composure under real pressure, closing Reaction & Timing."
+          }
+        ]
+      },
+      {
+        "name": "Week 4",
+        "days": [
+          {
+            "day": "Monday",
+            "title": "Lesson 16: Hands & Feet Together",
+            "summary": "Opens Combining Skills & Culmination by linking hand-eye coordination with footwork. Footwork First requires receivers to take at least two small adjusting steps into position before every catch. Shuffle & Catch has students shuffling sideways along a line of cones, catching a ball thrown at random points along the line, and Move to Strike has students moving their feet to get in line with a rolled or tossed ball before striking it with a soft bat or paddle. The Big Game, Whole-Body Game, awards a bonus point for clean catches or strikes that clearly used good footwork to get into position. Value focus: Pānga, recognising that good footwork sets up the whole hand-eye action that follows. Curriculum focus: Strand B, managing self through combined footwork and coordination."
+          },
+          {
+            "day": "Tuesday",
+            "title": "Lesson 17: Multi-Skill Circuit",
+            "summary": "Combines catching, striking and reaction across a rotating circuit. Station Rotation Warm-Up is a quick rotation through catching, striking and reaction stations to warm into the circuit format. Full Circuit Round 1 has students completing a full rotation at a steady, controlled pace, and Full Circuit Round 2 repeats it with students aiming to beat their own personal result or streak from Round 1. The Big Game, Circuit Challenge Game, combines circuit results into a team score, then plays a short small-sided game applying whichever circuit skills come up naturally. Value focus: Aroha, enjoying the challenge and celebrating a personal or team improvement across the two rounds. Faith connection: 1 Corinthians 12:26, if one part is honoured, every part rejoices with it. Curriculum focus: Strand B, applying a range of coordination skills together."
+          },
+          {
+            "day": "Wednesday",
+            "title": "Lesson 18: Game Ready",
+            "summary": "Applies hand-eye coordination skills inside a live, game-like context. Warm Into the Game is a shortened, simplified version of today's game format, letting players find their rhythm and reacquaint their hand-eye skills with live play. Call and Catch requires players to call for the ball clearly before receiving it, reinforcing communication alongside coordination, and Bonus Skill Game awards a bonus point any time a player clearly demonstrates a specific hand-eye skill from earlier in the unit. The Big Game, Full Flowing Game, is a complete small-sided game applying the whole range of hand-eye skills from across the unit. Value focus: Mōhio, understanding which skill from the unit you're using in the moment, not just playing on instinct. Curriculum focus: Strand B, applying coordination skills inside genuine, fast-flowing play."
+          },
+          {
+            "day": "Thursday",
+            "title": "Lesson 19: Coordination Challenge",
+            "summary": "Brings the unit together as a team-based trial run before the culminating games day. Team Relay Challenge has teams completing a relay combining a catch, a strike and a reaction challenge in sequence. Shared Streak Challenge has teams working together to build the longest combined streak of clean catches or strikes across the whole team, and Skill Spotlight has each team nominating one member to demonstrate their strongest hand-eye skill to the group, with brief peer feedback. The Big Game, Trial Challenge Games, combines relay, streak and small-sided game elements drawing on the whole unit. Value focus: Manaaki, celebrating a teammate's strongest skill genuinely, not comparing it to your own. Faith connection: 1 Corinthians 12:12, the body has many parts, working together. Curriculum focus: all four NZC Health & PE strands applied together."
+          },
+          {
+            "day": "Friday",
+            "title": "Lesson 20: Hand-Eye Coordination Games Day",
+            "summary": "Closes the unit with a culminating multi-game challenge day. The Skill Circuit Warm-Up combines catching, striking and reaction as a whistle-stop reminder of the whole unit. Team Coordination Challenge has each team huddling briefly to agree one hand-eye skill they'll try to show off today, and Coordination Spotlight has the teacher noticing and briefly highlighting one sharp piece of coordination from each team throughout the day. The Big Game, Round-Robin Coordination Games Day, has students rotating through short games and challenges across multiple areas, with every skill from the unit — tracking, catching, striking, reacting and timing — relevant somewhere in these games. Value focus: Pānga, reflecting on the impact this whole unit has had on your coordination, your teammates and how you treat others in a game. Curriculum focus: all four NZC Health & PE strands and all five key competencies, culminating the unit."
+          }
+        ]
+      }
+    ]
+  }
+]
     }
   ]
 };
