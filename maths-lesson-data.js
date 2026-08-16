@@ -552,6 +552,478 @@ const MATH_LESSON_DATA = {
           "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. Students explore the concept in small groups using hands-on resources. The teacher then models the method with hands-on resources. Students finish with independent guided practice and a workbook task to consolidate the skill."
         }
       ]
+    },
+    {
+      "name": "Decimals",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Writing Decimals",
+          "title": "Writing Decimals",
+          "objective": "To be able to write decimal numbers.",
+          "summary": "This lesson develops students' ability to write decimal numbers. Key vocabulary: tenths, hundredths, thousandths, decimal and decimal point. Students explore the concept in small groups using base 10 materials. The teacher then models the method, addressing the common misconception that students struggle to use the 10 × 10 × 10 block to represent 1, when they previously used it to represent 1000. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "2",
+          "label": "2. Reading and Writing Decimals",
+          "title": "Reading and Writing Decimals",
+          "objective": "To be able to read and write decimals.",
+          "summary": "This lesson develops students' ability to read and write decimals. Key vocabulary: hundredths, thousandths, decimal and decimal point. Students explore the concept in small groups using base 10 materials. The teacher then models the method, addressing the common misconception that students struggle to use the 10 × 10 × 10 block to represent 1, when they previously used it to represent 1000. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "3",
+          "label": "3. Reading and Writing Decimals",
+          "title": "Reading and Writing Decimals",
+          "objective": "To be able to read and write decimals.",
+          "summary": "This lesson develops students' ability to read and write decimals. Key vocabulary: tenths, hundredths, thousandths, decimal and decimal point. Students explore the concept in small groups using base 10 materials. The teacher then models the method, addressing the common misconception that students struggle to use the 10 × 10 × 10 block to represent 1, when they previously used it to represent 1000. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "4",
+          "label": "4. Comparing Decimals",
+          "title": "Comparing Decimals",
+          "objective": "To be able to compare tenths and hundredths written as decimals.",
+          "summary": "This lesson develops students' ability to compare tenths and hundredths written as decimals. Key vocabulary: tenths, hundredths, decimal, decimal point and greater than. Students explore the concept in small groups using base 10 materials. The teacher then models the method, addressing the common misconception that students do not understand how the different base 10 blocks relate to one another. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "5",
+          "label": "5. Writing Fraction and Decimal Equivalents",
+          "title": "Writing Fraction and Decimal Equivalents",
+          "objective": "To be able to write fractions as decimals.",
+          "summary": "This lesson develops students' ability to write fractions as decimals. Key vocabulary: tenths, hundredths, thousandths, fraction and numerator. Students explore the concept in small groups using fraction cards for Activity Time - 3/5, 18/20, 9/10, 2/10, 17/25, 4/20, 37/50, 11/25, 1/5, 31/50 (between two). The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "6",
+          "label": "6. Adding and Subtracting Decimals",
+          "title": "Adding and Subtracting Decimals",
+          "objective": "To be able to add and subtract decimals with one decimal place.",
+          "summary": "This lesson develops students' ability to add and subtract decimals with one decimal place. Key vocabulary: tenths, decimal, decimal point, total and difference. Students explore the concept in small groups using place-value counters - 1 and 0.1. The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system, including decimals. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "7",
+          "label": "7. Adding and Subtracting Decimals",
+          "title": "Adding and Subtracting Decimals",
+          "objective": "To be able to add and subtract decimals with up to 2 decimal places. To be able to add and subtract amounts in dollars and cents.",
+          "summary": "This lesson develops students' ability to add and subtract decimals with up to 2 decimal places. To be able to add and subtract amounts in dollars and cents. Key vocabulary: ones, tenths, decimal, decimal point and total. Students explore the concept in small groups using place-value counters - 1 and 0.1. The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system, including decimals. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "8",
+          "label": "8. Adding and Subtracting Decimals",
+          "title": "Adding and Subtracting Decimals",
+          "objective": "To be able to add and subtract amounts in dollars and cents when no renaming is required.",
+          "summary": "This lesson develops students' ability to add and subtract amounts in dollars and cents when no renaming is required. Key vocabulary: ones, tenths, hundredths, decimal and decimal point. Students explore the concept in small groups using place-value counters - 1 and 0.1. The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system, including decimals. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "9",
+          "label": "9. Adding and Subtracting Decimals",
+          "title": "Adding and Subtracting Decimals",
+          "objective": "To be able to add and subtract decimals with up to 2 decimal places. To be able to add and subtract amounts in dollars and cents.",
+          "summary": "This lesson develops students' ability to add and subtract decimals with up to 2 decimal places. To be able to add and subtract amounts in dollars and cents. Key vocabulary: ones, tenths, hundredths, decimal and decimal point. Students explore the concept in small groups using place-value counters - 1 and 0.1. The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system, including decimals. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "10",
+          "label": "10. Adding and Subtracting Decimals",
+          "title": "Adding and Subtracting Decimals",
+          "objective": "To be able to add and subtract decimals. To find number pairs that add up to 1.",
+          "summary": "This lesson develops students' ability to add and subtract decimals. To find number pairs that add up to 1. Key vocabulary: tenths, hundredths, thousandths, decimal and decimal point. Students explore the concept in small groups using place-value counters - 1, 0.1, 0.01 and 0.001. The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system, including decimals. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "11",
+          "label": "11. Adding and Subtracting Decimals",
+          "title": "Adding and Subtracting Decimals",
+          "objective": "To apply knowledge of decimals in real-world problems, such as the perimeter of shapes.",
+          "summary": "This lesson develops students' ability to to apply knowledge of decimals in real-world problems, such as the perimeter of shapes. Key vocabulary: tenths, decimal, decimal point, decimal place and perimeter. Students explore the concept in small groups using place-value counters - 1, 0.1, 0.01 and 0.001. The teacher then models the method, addressing the common misconception that students do not have a secure understanding of the base-10 number system, including decimals. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "12",
+          "label": "12. Rounding Decimals",
+          "title": "Rounding Decimals",
+          "objective": "To be able to round decimals to the nearest whole number. To be able to round numbers to the nearest tenth.",
+          "summary": "This lesson develops students' ability to round decimals to the nearest whole number. To be able to round numbers to the nearest tenth. Key vocabulary: tenths, hundredths, thousandths, decimal and decimal point. Students explore the concept in small groups using number lines. The teacher then models the method, addressing the common misconception that students struggle to identify the key digits in rounding. Students finish with independent guided practice and a workbook task to consolidate the skill."
+        },
+        {
+          "id": "13",
+          "label": "13. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "To be able to apply knowledge of decimals to solve problems.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students solve a logic puzzle, which uses the language learnt in the chapter, to determine what decimal number Elliott is thinking of. In My Maths Journal, students write about when it is better to round to the nearest whole number or nearest tenth, giving examples of both situations. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Percentages",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Writing Percentages",
+          "title": "Writing Percentages",
+          "objective": "Students will understand that a percentage expresses a quantity as a proportion out of 100, and will be able to move flexibly between fraction, decimal and percentage representations of the same value.",
+          "summary": "This lesson develops the understanding that a percentage expresses a quantity as a proportion out of 100. Key vocabulary: per cent, percentage, fraction and hundredth. Students revisit a 100-square grid task with two fruit types, recalling how to count parts to find a numerator over a known denominator of 100. The teacher then formalises the term \"percentage\" as a fraction out of 100, modelling the fraction-decimal-percentage relationship and discussing benchmark percentages. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Equivalent Fractions, Percentages and Decimals",
+          "title": "Equivalent Fractions, Percentages and Decimals",
+          "objective": "Students will understand that fractions with denominators that are factors of 100 can be converted into equivalent hundredths, decimals and percentages.",
+          "summary": "This lesson develops the understanding that fractions with denominators that are factors of 100 can be converted into equivalent hundredths, decimals and percentages. Key vocabulary: per cent, percentage, fraction and decimal. Students explore a grid that is one-quarter shaded, counting squares to find the equivalent hundredths fraction. The teacher then formalises the equivalence between one-quarter, 25 hundredths and 25 percent. The lesson addresses the common misconception of confusing a raw count with the percentage itself. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Comparing Proportions Using Percentages",
+          "title": "Comparing Proportions Using Percentages",
+          "objective": "Students will understand that converting fractions to percentages allows more precise comparison of proportions than comparing fractions alone.",
+          "summary": "This lesson develops the understanding that converting fractions to percentages allows more precise comparison of proportions than comparing fractions alone. Key vocabulary: per cent, percentage and fraction. The teacher then models converting each proportion to a percentage to compare precisely, then extends practice with further fraction-to-percentage and fraction-to-decimal conversions. The lesson addresses the common misconception of confusing a raw count with the percentage itself. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of percentages developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, a comparison task requiring students to apply percentage reasoning to a novel context. In My Maths Journal, students independently solve a problem requiring conversion between fractions and percentages, then write an explanation of their method. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Geometry",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Types of Angles",
+          "title": "Types of Angles",
+          "objective": "Students will understand that angles can be classified as acute, right, obtuse or reflex by comparing them to benchmark angles such as a right angle and a straight line.",
+          "summary": "This lesson develops the understanding that angles can be classified as acute, right, obtuse or reflex by comparing them to benchmark angles such as a right angle and a straight line. Key vocabulary: acute angle, right angle, obtuse angle and reflex angle. Students compare a set of angles by eye and discuss which look larger, smaller or similar. The lesson addresses the common misconception that students may only recognise a right angle when its lines are horizontal and vertical. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Measuring Angles",
+          "title": "Measuring Angles",
+          "objective": "Students will understand that angles can be measured precisely in degrees using a protractor, rather than only judged by eye.",
+          "summary": "This lesson develops the understanding that angles can be measured precisely in degrees using a protractor, rather than only judged by eye. Key vocabulary: acute angle, right angle, obtuse angle, reflex angle and degrees. Students compare three similar-looking acute angles in a scalene triangle and discuss how they might order or rank them precisely. The lesson addresses the common misconception that students may only recognise a right angle when its lines are horizontal and vertical. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Measuring Angles at a Point",
+          "title": "Measuring Angles at a Point",
+          "objective": "Students will understand that angles meeting at a point on a straight line always add up to 180 degrees, and that a protractor's two scales can be used to measure two angles at once.",
+          "summary": "This lesson develops the understanding that angles meeting at a point on a straight line always add up to 180 degrees, and that a protractor's two scales can be used to measure two angles at once. Key vocabulary: acute angle, right angle, obtuse angle, reflex angle and vertex. Students examine a protractor and notice that its two scales always sum to 180 at any given mark. The lesson addresses the common misconception that students may confuse the two scales on a protractor. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Turns and Compass Points",
+          "title": "Turns and Compass Points",
+          "objective": "Students will understand that turns can be described both using compass points and using angles measured in degrees.",
+          "summary": "This lesson develops the understanding that turns can be described both using compass points and using angles measured in degrees. Key vocabulary: compass, compass points (north through to south), full turn, half turn and quarter turn. Students consider a scenario of a person facing a particular direction and discuss how compass points could describe the direction faced. The lesson addresses the common misconception that students may believe the compass points move together with the object that is turning. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5",
+          "label": "5. Drawing Lines and Acute Angles",
+          "title": "Drawing Lines and Acute Angles",
+          "objective": "Students will understand how to use a ruler and protractor together to draw lines and acute angles accurately.",
+          "summary": "In this lesson, students will understand how to use a ruler and protractor together to draw lines and acute angles accurately. Key vocabulary: acute angle, right angle, obtuse angle, reflex angle and vertex. Students discuss the difference between acute and obtuse angles and the range of degree values for each. The lesson addresses the common misconception that students may struggle to line up a protractor accurately. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "6",
+          "label": "6. Drawing Lines and Obtuse Angles",
+          "title": "Drawing Lines and Obtuse Angles",
+          "objective": "Students will understand how to use a ruler and protractor together to draw lines and obtuse angles accurately, and consider how a reflex angle could be constructed indirectly.",
+          "summary": "In this lesson, students will understand how to use a ruler and protractor together to draw lines and obtuse angles accurately, and consider how a reflex angle could be constructed indirectly. Key vocabulary: acute angle, right angle, obtuse angle, reflex angle and vertex. The teacher then models the steps for constructing an obtuse angle, discusses whether alternative construction methods are equally valid. The lesson addresses the common misconception that students may struggle to line up a protractor accurately. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "7",
+          "label": "7. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of angles, angle measurement and turns developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students apply their knowledge of geometry to identify equal sides of a shape and justify their answer. In My Maths Journal, students write about the properties of a square when one diagonal is drawn, applying angle vocabulary. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Position and Movement",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Naming and Plotting Points",
+          "title": "Naming and Plotting Points",
+          "objective": "Students will understand that a point on a grid can be named and plotted using an x-coordinate and a y-coordinate, written and read in that order.",
+          "summary": "This lesson develops the understanding that a point on a grid can be named and plotted using an x-coordinate and a y-coordinate, written and read in that order. Key vocabulary: x-axis, y-axis, coordinates, x-coordinate and y-coordinate. Students find the coordinates of three plotted points, recapping that a coordinate is a horizontal measurement followed by a vertical one. The lesson addresses the common misconception that students may write coordinates the wrong way around. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Describing Translations",
+          "title": "Describing Translations",
+          "objective": "Students will understand that a translation moves a shape a given distance horizontally and vertically without rotating, stretching or otherwise changing it.",
+          "summary": "This lesson develops the understanding that a translation moves a shape a given distance horizontally and vertically without rotating, stretching or otherwise changing it. Key vocabulary: x-axis, y-axis, coordinates, x-coordinate and y-coordinate. The teacher demonstrates sliding an object on a desk to show what is and isn't a translation. The lesson addresses the common misconception that students may write coordinates the wrong way around. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Describing Reflections",
+          "title": "Describing Reflections",
+          "objective": "Students will understand that a reflection creates a mirror image of a shape, where every point stays the same distance from the mirror line as its original position.",
+          "summary": "This lesson develops the understanding that a reflection creates a mirror image of a shape, where every point stays the same distance from the mirror line as its original position. Key vocabulary: axis, y-axis, coordinates, x-coordinate and y-coordinate. The teacher then models checking a reflection using a small mirror placed along the mirror line. The lesson addresses the common misconception that students may read from the wrong axis when plotting points. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Describing Reflections (Coordinate Grids)",
+          "title": "Describing Reflections (Coordinate Grids)",
+          "objective": "Students will understand that reflecting a shape on a coordinate grid keeps every vertex the same distance from the mirror line, and that the shape's properties do not change.",
+          "summary": "This lesson develops the understanding that reflecting a shape on a coordinate grid keeps every vertex the same distance from the mirror line, and that the shape's properties do not change. Key vocabulary: x-axis, y-axis, coordinates, x-coordinate and y-coordinate. Students predict whether a reflected trapezium will still be a trapezium and discuss which way its acute angle will point. The lesson addresses the common misconception that students may read from the wrong axis when plotting points. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5",
+          "label": "5. Describing Successive Reflections",
+          "title": "Describing Successive Reflections",
+          "objective": "Students will understand that a shape can be moved to a new position using two successive reflections in different mirror lines.",
+          "summary": "This lesson develops the understanding that a shape can be moved to a new position using two successive reflections in different mirror lines. Key vocabulary: x-axis, y-axis, coordinates, x-coordinate and y-coordinate. Students describe how a shape appears to move between two positions, considering reflection, translation and rotation as possibilities. The lesson addresses the common misconception that students may read from the wrong axis when plotting points. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "6",
+          "label": "6. Describing Rotations",
+          "title": "Describing Rotations",
+          "objective": "Students will understand that a rotation turns a shape a given angle, in a given direction, around a fixed centre of rotation, without changing its size or shape.",
+          "summary": "This lesson develops the understanding that a rotation turns a shape a given angle, in a given direction, around a fixed centre of rotation, without changing its size or shape. Key vocabulary: rotation, angles, full turn, half turn and three-quarter turn. The teacher then introduces the term rotation and centre of rotation, and models describing rotations using angles and their relationship to full and part turns. The lesson addresses the common misconception that students may think the shape slides rather than rotates. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "7",
+          "label": "7. Describing Enlargement and Reduction",
+          "title": "Describing Enlargement and Reduction",
+          "objective": "Students will understand that an enlargement or reduction changes the size of a shape by multiplying or dividing every side length by the same scale factor.",
+          "summary": "This lesson develops the understanding that an enlargement or reduction changes the size of a shape by multiplying or dividing every side length by the same scale factor. Key vocabulary: enlargement, reduction, enlarge, reduce and original. Students compare an original shape with an enlarged version and use grid measurements to describe how the side lengths have changed. The lesson addresses the common misconception that students may not enlarge or reduce all sides of a shape by the same factor. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "8",
+          "label": "8. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of coordinates, translations, reflections, rotations and enlargement/reduction developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students construct a polygon from four given shapes on a coordinate grid using only reflections, then construct the same polygon using only translations. In My Maths Journal, students describe what happens to the reflection of a triangle on a square grid as the mirror line moves nearer to or further from the triangle. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Measurements",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Converting Units of Length — Centimetres and Millimetres",
+          "title": "Converting Units of Length — Centimetres and Millimetres",
+          "objective": "Students will understand that centimetres and millimetres can be converted between each other by multiplying or dividing by 10, and will select the most appropriate unit for measuring a given object.",
+          "summary": "This lesson develops the understanding that centimetres and millimetres can be converted between each other by multiplying or dividing by 10. Key vocabulary: centimetre and millimetre. Students estimate the height of a small seedling using their hands. The teacher then introduces millimetres as a unit suited to measuring small objects, and establishes that converting between centimetres and millimetres involves multiplying or dividing by 10. The lesson addresses the common misconception that students may not see the connection between millimetres and centimetres. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Converting Units of Length — Metres and Centimetres",
+          "title": "Converting Units of Length — Metres and Centimetres",
+          "objective": "Students will understand that 1 metre is equivalent to 100 centimetres, and that the same length can be expressed in different but equivalent ways.",
+          "summary": "This lesson develops the understanding that 1 metre is equivalent to 100 centimetres, and that the same length can be expressed in different but equivalent ways. Key vocabulary: centimetre and metre. Students share their own height in different formats and discuss why this can make lengths difficult to compare. The teacher then models converting lengths between metres and centimetres, establishing that 1 m equals 100 cm, and measures classroom objects using a metre ruler. The lesson addresses the common misconception that students may not see the connection between centimetres and metres. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Converting Units of Length — Kilometres and Metres",
+          "title": "Converting Units of Length — Kilometres and Metres",
+          "objective": "Students will understand that 1 kilometre is equivalent to 1000 metres, and will use this to convert and compare distances.",
+          "summary": "This lesson develops the understanding that 1 kilometre is equivalent to 1000 metres. Key vocabulary: kilometre and metre. Students compare a set of jogging distances given in different formats and discuss which represents the shortest distance. The teacher then establishes that 1 km equals 1000 m and models converting distances between the two units, including decimal conversions. The lesson addresses the common misconception that students may not see the connection between kilometres and metres. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Converting Units of Mass — Kilograms and Grams",
+          "title": "Converting Units of Mass — Kilograms and Grams",
+          "objective": "Students will understand that mass is measured in kilograms for larger objects and grams for smaller objects, and that 1 kilogram is equivalent to 1000 grams.",
+          "summary": "This lesson develops the understanding that mass is measured in kilograms for larger objects and grams for smaller objects, and that 1 kilogram is equivalent to 1000 grams. Key vocabulary: mass, gram and kilogram. Students discuss which units are appropriate for measuring the mass of a person compared with the mass of an insect. The teacher then establishes that 1 kg equals 1000 g, using the fact that 100 g equals 0.1 kg. The lesson addresses the common misconception that students may not see the connection between grams and kilograms. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5",
+          "label": "5. Converting Units of Volume — Litres and Millilitres",
+          "title": "Converting Units of Volume — Litres and Millilitres",
+          "objective": "Students will understand that volume is measured in litres for large containers and millilitres for small containers, and that 1 litre is equivalent to 1000 millilitres.",
+          "summary": "This lesson develops the understanding that volume is measured in litres for large containers and millilitres for small containers, and that 1 litre is equivalent to 1000 millilitres. Key vocabulary: volume, litre and millilitre. Students discuss which units are appropriate for measuring the volume of liquid in containers of different sizes. The lesson addresses the common misconception that students may not see the connection between litres and millilitres. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "6",
+          "label": "6. Solving Word Problems — Length, Mass and Volume",
+          "title": "Solving Word Problems — Length, Mass and Volume",
+          "objective": "Students will apply their unit conversion knowledge to solve word problems involving length, mass and volume, including some simple conversions between metric and imperial units.",
+          "summary": "In this lesson, students will apply their unit conversion knowledge to solve word problems involving length, mass and volume, including some simple conversions between metric and imperial units. Key vocabulary: kilometre, metre, centimetre, litre and millilitre. Students consider why a delivery company might charge a special parcel rate and discuss what calculation this would require. The lesson addresses the common misconception that students may struggle to remember all the different measurement units and how they are connected. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "7",
+          "label": "7. Solving Word Problems — Time",
+          "title": "Solving Word Problems — Time",
+          "objective": "Students will apply their knowledge of units of time to solve word problems involving seconds, minutes, hours and days.",
+          "summary": "In this lesson, students will apply their knowledge of units of time to solve word problems involving seconds, minutes, hours and days. Key vocabulary: day, hour, minutes and second. The teacher tests students' recall of time facts, such as the number of minutes in an hour and seconds in seven minutes. The teacher then models solving a word problem by converting everything to a common unit such as minutes. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "8",
+          "label": "8. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of length, mass, volume and time measurement developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students solve a challenging word problem involving simultaneous relationships and a conversion between kilograms and pounds. In My Maths Journal, students write about the relationship between imperial and metric units for length, mass and volume. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Area and Perimeter",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Perimeter of Rectangles and Squares",
+          "title": "Perimeter of Rectangles and Squares",
+          "objective": "Students will understand that the perimeter of a rectangle is the total distance around its sides, and can be calculated as 2 times the sum of its length and breadth.",
+          "summary": "This lesson develops the understanding that the perimeter of a rectangle is the total distance around its sides, and can be calculated as 2 times the sum of its length and breadth. Key vocabulary: rectangle, square, perimeter, length and breadth. Students discuss the properties of a rectangle and how a square differs from a rectangle. The lesson addresses the common misconception that students may add only the length and breadth once, forgetting to double the total. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Area of Rectangles and Squares",
+          "title": "Area of Rectangles and Squares",
+          "objective": "Students will understand that the area of a rectangle can be found by counting unit squares, or by multiplying its length and breadth, and is measured in square centimetres or square metres.",
+          "summary": "This lesson develops the understanding that the area of a rectangle can be found by counting unit squares, or by multiplying its length and breadth, and is measured in square centimetres or square metres. Key vocabulary: rectangle, square, area, length and breadth. Students compare two similarly-sized panels, one a square and one a longer, thinner rectangle, and discuss how to compare their areas. The lesson addresses the common misconception that students may confuse perimeter and area. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Perimeter of Composite Shapes",
+          "title": "Perimeter of Composite Shapes",
+          "objective": "Students will understand that the perimeter of an irregular rectilinear shape can be found by working out any missing side lengths and adding all the sides together.",
+          "summary": "This lesson develops the understanding that the perimeter of an irregular rectilinear shape can be found by working out any missing side lengths and adding all the sides together. Key vocabulary: perimeter, length, breadth, right angle and parallel. Students recall how to find the perimeter of a rectangle, then consider how this could extend to a six-sided rectilinear shape. The lesson addresses the common misconception that students may confuse perimeter and area. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Area of Composite Shapes",
+          "title": "Area of Composite Shapes",
+          "objective": "Students will understand that the area of an irregular rectilinear shape can be found by splitting it into two or more rectangles and adding their areas.",
+          "summary": "This lesson develops the understanding that the area of an irregular rectilinear shape can be found by splitting it into two or more rectangles and adding their areas. Key vocabulary: area, length, breadth, right angle and parallel. Students consider how they could find the area of an irregular shape by placing it on squared paper and counting squares. The teacher then models splitting a rectilinear shape into two rectangles, calculating any missing lengths, and finding the total area. The lesson addresses the common misconception that students may confuse perimeter and area. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5",
+          "label": "5. Estimating Area and Drawing to Scale",
+          "title": "Estimating Area and Drawing to Scale",
+          "objective": "Students will understand that the area of an irregular shape can be estimated by counting whole and part squares on a grid, and that scale drawings represent real-life areas at a reduced size.",
+          "summary": "This lesson develops the understanding that the area of an irregular shape can be estimated by counting whole and part squares on a grid, and that scale drawings represent real-life areas at a reduced size. Key vocabulary: area, estimate, square unit, square centimetre and square metre. Students discuss how they might find the area of a shape with curved or irregular edges. The teacher then models a systematic method for estimating area by counting complete squares and judging partially covered squares. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "6",
+          "label": "6. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of perimeter, area and scale drawings developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students use a scaled drawing of a room to find its actual measurements. In My Maths Journal, students find and discuss real-life examples of scale drawings, considering why they are useful and how their scale might be chosen. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Volume",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Volume of Solids",
+          "title": "Volume of Solids",
+          "objective": "Students will understand that volume describes how much space a solid takes up, and can be measured by counting unit cubes.",
+          "summary": "This lesson develops the understanding that volume describes how much space a solid takes up, and can be measured by counting unit cubes. Key vocabulary: volume and cubic units. Students discuss statements about which objects have a large volume, considering objects that are tall or wide but do not have a large volume. The lesson addresses the common misconception that students may confuse volume with height or length. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Volume of Solids in Cubic Units",
+          "title": "Volume of Solids in Cubic Units",
+          "objective": "Students will understand that volume can be measured formally using cubic centimetres and cubic metres, and that hidden cubes must still be counted.",
+          "summary": "This lesson develops the understanding that volume can be measured formally using cubic centimetres and cubic metres, and that hidden cubes must still be counted. Key vocabulary: volume, cubic centimetre and cubic metre. Students estimate the size of a cubic centimetre and a cubic metre using everyday objects as reference points. The teacher then models finding the volume of solids built from 1-cm cubes, including solids where some cubes are hidden from view. The lesson addresses the common misconception that students may confuse volume with height or length. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Finding the Volume of Cuboids",
+          "title": "Finding the Volume of Cuboids",
+          "objective": "Students will understand that the volume of a cuboid can be calculated directly using the formula volume equals length times breadth times height, without needing to count individual cubes.",
+          "summary": "This lesson develops the understanding that the volume of a cuboid can be calculated directly using the formula volume equals length times breadth times height, without needing to count individual cubes. Key vocabulary: volume, cuboid, cubic centimetre, cubic metre and length. Students discuss how a piece of clay could be reshaped into a cuboid made of 1-cm cubes without its volume changing. The lesson addresses the common misconception that students may think the arrangement of cubes affects the total volume. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Finding the Volume of Liquids",
+          "title": "Finding the Volume of Liquids",
+          "objective": "Students will understand that the capacity of a container can be measured in litres and millilitres, and relates to the volume of a cuboid-shaped container.",
+          "summary": "This lesson develops the understanding that the capacity of a container can be measured in litres and millilitres, and relates to the volume of a cuboid-shaped container. Key vocabulary: volume, cuboid, litre, millilitre and length. The teacher then introduces litres and millilitres as units of capacity, links these to cubic centimetres, and models converting between litres and millilitres. The lesson addresses the common misconception that students may think that volume and capacity are unrelated. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5",
+          "label": "5. Solving Word Problems Involving Volume",
+          "title": "Solving Word Problems Involving Volume",
+          "objective": "Students will apply their knowledge of volume and capacity to solve word problems, including problems where a container is not completely full.",
+          "summary": "In this lesson, students will apply their knowledge of volume and capacity to solve word problems, including problems where a container is not completely full. Key vocabulary: volume, cuboid, cubic centimetre, cubic metre and litre. Students calculate the capacity of a tank and discuss why the amount of water in it may be less than its full capacity. The teacher then models a full worked solution to a volume word problem. The lesson addresses the common misconception that students may think that volume and capacity are unrelated. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5.1",
+          "label": "5.1. Identifying Prisms (Supplementary Online Lesson)",
+          "title": "Identifying Prisms (Supplementary Online Lesson)",
+          "objective": "Students will understand that a prism is a 3D shape with two identical bases at opposite ends, flat faces and straight edges, and will use these properties to identify prisms.",
+          "summary": "This lesson develops the understanding that a prism is a 3D shape with two identical bases at opposite ends, flat faces and straight edges. Key vocabulary: 3D shape, 3 dimensional shape, prism, square-based prism and rectangular prism. Students find a set of 3D shapes matching examples shown, and record what they notice about each one. The lesson addresses the common misconception that students may think that all 3D shapes are prisms. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "6",
+          "label": "6. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of volume, capacity and prisms developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students are shown an irregular stack of cubes, some hidden, and find the smallest number of cubes that must be added to form a complete cuboid. In My Maths Journal, students explain why doubling the side length of a cube makes its capacity more than double, leading to the idea that it becomes eight times larger. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Algebra",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Describing a Pattern — Using a Letter to Stand for a Number",
+          "title": "Describing a Pattern — Using a Letter to Stand for a Number",
+          "objective": "Students will understand that a growing pattern can be described using a rule in words, and that a letter can be used to represent an unknown position or value in the pattern.",
+          "summary": "This lesson develops the understanding that a growing pattern can be described using a rule in words, and that a letter can be used to represent an unknown position or value in the pattern. Key vocabulary: to stand for. Students look for a pattern in an arrangement of squares and describe it in their own words. The lesson addresses the common misconception that students may struggle to identify the relationship between one term and the next. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Describing a Pattern — Simple Algebraic Expressions",
+          "title": "Describing a Pattern — Simple Algebraic Expressions",
+          "objective": "Students will understand that a relationship between two changing quantities in a pattern can be expressed as a simple algebraic expression using any letter.",
+          "summary": "This lesson develops the understanding that a relationship between two changing quantities in a pattern can be expressed as a simple algebraic expression using any letter. Key vocabulary: to stand for. Students describe the next terms of a pattern involving two colours of squares, using words, drawings or concrete materials. The lesson addresses the common misconception that students may struggle to identify the relationship between one term and the next. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Describing a Pattern — Consecutive Numbers",
+          "title": "Describing a Pattern — Consecutive Numbers",
+          "objective": "Students will understand that consecutive numbers follow one another in order, and that an unknown consecutive number can be expressed algebraically in relation to a given letter.",
+          "summary": "This lesson develops the understanding that consecutive numbers follow one another in order, and that an unknown consecutive number can be expressed algebraically in relation to a given letter. Key vocabulary: consecutive. The teacher introduces the term consecutive and its Latin root meaning to follow, then asks students to decide whether given sets of numbers are consecutive. The lesson addresses the common misconception that students may struggle to identify the relationship between one term and the next. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "4",
+          "label": "4. Describing a Pattern — Expressing with Multiplication",
+          "title": "Describing a Pattern — Expressing with Multiplication",
+          "objective": "Students will understand that the general term of a pattern can involve multiplication, and that an expression such as 3 times n is conventionally written as 3n.",
+          "summary": "This lesson develops the understanding that the general term of a pattern can involve multiplication, and that an expression such as 3 times n is conventionally written as 3n. Key vocabulary: to stand for. Students look at a pattern and consider that its general term could be found by multiplying the term position by 3. The lesson addresses the common misconception that students may be unable to describe the rule in a pattern using words. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "5",
+          "label": "5. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of algebraic expressions and formulae developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students solve a word problem by writing an expression, forming an equation, and solving it. In My Maths Journal, students write a formula for a simple geometry problem, focusing on expressing the general relationship rather than only calculating the perimeter of specific rectangles. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
+    },
+    {
+      "name": "Probability",
+      "chapters": [
+        {
+          "id": "1",
+          "label": "1. Expressing Likelihood of an Event Using Percentage",
+          "title": "Expressing Likelihood of an Event Using Percentage",
+          "objective": "Students will understand that the likelihood of an event can be described using the language of chance and also expressed as a fraction or a percentage, from 0 percent (impossible) to 100 percent (certain).",
+          "summary": "This lesson develops the understanding that the likelihood of an event can be described using the language of chance and also expressed as a fraction or a percentage, from 0 percent (impossible) to 100 percent (certain). Key vocabulary: likelihood, certain, impossible, equally likely and likely. Students consider what a set of given percentages might be describing, and are introduced to the term likelihood. The lesson addresses the common misconception that students may believe that all events have an equal likelihood. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "2",
+          "label": "2. Finding Probability of an Event in Percentage",
+          "title": "Finding Probability of an Event in Percentage",
+          "objective": "Students will understand that the probability of an event can be calculated as a fraction of possible outcomes and then converted to a percentage using equivalent fractions.",
+          "summary": "This lesson develops the understanding that the probability of an event can be calculated as a fraction of possible outcomes and then converted to a percentage using equivalent fractions. Key vocabulary: likelihood, certain, impossible, equally likely and likely. Students consider how likely it is that a particular coloured item would be picked from a bag. The lesson addresses the common misconception that students may believe that all events have an equal likelihood. Students finish with independent practice and a plenary discussion."
+        },
+        {
+          "id": "3",
+          "label": "3. Chapter Consolidation",
+          "title": "Chapter Consolidation",
+          "objective": "Students will consolidate and apply their understanding of likelihood and probability developed across the chapter.",
+          "summary": "This lesson consolidates and reviews the key skills taught throughout the chapter. For the Mind Challenge, students apply their knowledge of likelihood and percentages to a novel comparison problem, ordering several events from least to most likely. In My Maths Journal, students explain, in writing, why the results of a real trial do not always exactly match a predicted probability. The Review is completed as a chapter summary to identify any students needing extra support."
+        }
+      ]
     }
   ]
 };
