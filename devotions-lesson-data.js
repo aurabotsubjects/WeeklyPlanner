@@ -2,8 +2,8 @@
 // Structure: subject -> terms -> weeks -> days (Monday-Thursday), each with a title and a
 // ~90-110 word lesson summary built from the Passage / Big Idea / Learning Intentions / Key
 // question content in the source lesson plans.
-// NOTE: only Terms 1-3 are built so far (Term 3 currently has Weeks 1-6 only). Add more
-// terms/weeks later the same way, following this same term -> weeks -> days shape (see
+// NOTE: Terms 1-4 are built, each with Weeks 1-10. Add more terms/weeks later the same
+// way, following this same term -> weeks -> days shape (see
 // writing-lesson-data.js for the identical pattern already wired up in weeklyplanner.html).
 // Keep this file next to weeklyplanner.html (see the <script> tag in <head>).
 window.DEVOTIONS_LESSON_DATA = {
@@ -669,6 +669,361 @@ window.DEVOTIONS_LESSON_DATA = {
               "day": "Thursday",
               "title": "No more tabernacle needed",
               "summary": "No more tabernacle needed (Revelation 21:1–4), part of the week’s study \"The Tabernacle.\" Big idea: God chose to live among his people in the tabernacle — but because God is holy and his people are sinful, he… Learning intention: We are learning that Revelation promises a future where God will live with his people forever, face to face. Key question: What do you think it will be like to live with God face to face, with no more… Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 7",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Back on the move",
+              "summary": "Back on the move (Numbers 10:11–13), part of the week’s study \"The exploration.\" Big idea: God's promises are good promises and he is faithful to them — but when God's people refused to trust and obey him… Learning intention: We are learning that God's people left Mount Sinai after two years and camped at the edge of the Promised… Key question: God had fed them, given them water and protected them every single day for two years? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Twelve explorers",
+              "summary": "Twelve explorers (Numbers 13:1–33), part of the week’s study \"The exploration.\" Big idea: God's promises are good promises and he is faithful to them — but when God's people refused to trust and obey him… Learning intention: We are learning that God sent twelve explorers into the land he was giving his people. Key question: The twelve explorers all walked the same land and saw exactly the same things? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "The night they said no",
+              "summary": "The night they said no (Numbers 14:1–25), part of the week’s study \"The exploration.\" Big idea: God's promises are good promises and he is faithful to them — but when God's people refused to trust and obey him… Learning intention: We are learning that God's people believed the ten explorers and refused to go into the land. Key question: Who remembers what God's people had promised God at Mount Sinai? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "God is still trustworthy",
+              "summary": "God is still trustworthy (John 3:16), part of the week’s study \"The exploration.\" Big idea: God's promises are good promises and he is faithful to them — but when God's people refused to trust and obey him… Learning intention: We are learning that God is trustworthy and always keeps his promises. Key question: How could God's people have shown that they trusted God? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 8",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Forty years later",
+              "summary": "Forty years later (Deuteronomy 4 (introduction); Numbers 20:1–13), part of the week’s study \"The people's response.\" Big idea: God is faithful to his promises and will give his people what he promised — but he wants his people to trust… Learning intention: We are learning that after forty years God brought a new generation to the edge of the Promised Land. Key question: To finish that challenge, what two things did the blindfolded person have to do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "The choice",
+              "summary": "The choice (Deuteronomy 4; 6:4–9; 11), part of the week’s study \"The people's response.\" Big idea: God is faithful to his promises and will give his people what he promised — but he wants his people to trust… Learning intention: We are learning that Moses called Israel to love God with all their heart, soul and strength. Key question: What was the one thing God most wanted his people not to do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "God never gives up",
+              "summary": "God never gives up (Deuteronomy 4:25–31), part of the week’s study \"The people's response.\" Big idea: God is faithful to his promises and will give his people what he promised — but he wants his people to trust… Learning intention: We are learning what Israel agreed to at Mount Sinai. Key question: What did Israel agree to do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "A place prepared",
+              "summary": "A place prepared (John 14:1–7), part of the week’s study \"The people's response.\" Big idea: God is faithful to his promises and will give his people what he promised — but he wants his people to trust… Learning intention: We are learning that God saves people today through Jesus' death in their place. Key question: How does God save people today? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 9",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Be strong and brave",
+              "summary": "Be strong and brave (Joshua 1:6–9; Joshua 2), part of the week’s study \"The land.\" Big idea: God brought his people into the land, exactly as he had promised — and his promises to Abraham were always pointing to… Learning intention: We are learning that God chose Joshua to lead his people into the land, and told him to be strong… Key question: What exactly was Joshua told to do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Crossing the Jordan",
+              "summary": "Crossing the Jordan (Joshua 3), part of the week’s study \"The land.\" Big idea: God brought his people into the land, exactly as he had promised — and his promises to Abraham were always pointing to… Learning intention: We are learning that God stopped the Jordan River so his people could cross on dry ground. Key question: Where had God's people seen water stop like this before? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "The walls fall",
+              "summary": "The walls fall (Joshua 6), part of the week’s study \"The land.\" Big idea: God brought his people into the land, exactly as he had promised — and his promises to Abraham were always pointing to… Learning intention: We are learning that God gave Israel Jericho after they obeyed his unusual instructions. Key question: Marching quietly around a city for a week is a very strange way to win a battle? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "What the promise was always about",
+              "summary": "What the promise was always about (Hebrews 11:8–10; Joshua 24), part of the week’s study \"The land.\" Big idea: God brought his people into the land, exactly as he had promised — and his promises to Abraham were always pointing to… Learning intention: We are learning that Israel did not keep their promise to worship God alone and eventually lost the land. Key question: Do you think the Israelites managed to keep that promise? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 10",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "They made it — and there was still a problem",
+              "summary": "They made it — and there was still a problem (Jeremiah 31:31–32), part of the week’s study \"The new covenant.\" Big idea: The old agreement God made through Moses was only ever a shadow pointing forward. In Jesus, God made a new agreement —… Learning intention: We are learning that God kept his promise and brought his people into the land. Key question: The agreement God made at Mount Sinai had two sides — God's side and the people's side? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Old agreement, new agreement",
+              "summary": "Old agreement, new agreement (Genesis 12:5b–7; Exodus 3:7–10; 19:1–6; 25:8–9; John 1:29; Hebrews 12:18–25; 1 Corinthians 3:16; 1 Peter 2:9; Revelation 21:1–3), part of the week’s study \"The new covenant.\" Big idea: The old agreement God made through Moses was only ever a shadow pointing forward. In Jesus, God made a new agreement —… Learning intention: We are learning how each part of the old agreement matches a part of the new agreement. Key question: What do you notice, comparing the two? What is the same, and what is different? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "A shadow of the good things to come",
+              "summary": "A shadow of the good things to come (Hebrews 10:1; John 1:29), part of the week’s study \"The new covenant.\" Big idea: The old agreement God made through Moses was only ever a shadow pointing forward. In Jesus, God made a new agreement —… Learning intention: We are learning that the Law of Moses is described as a shadow of the good things to come. Key question: Picture a shadow stretched out on the ground in front of you? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "Written on hearts",
+              "summary": "Written on hearts (Jeremiah 31:33–34; Luke 24:27; 2 Corinthians 5:17), part of the week’s study \"The new covenant.\" Big idea: The old agreement God made through Moses was only ever a shadow pointing forward. In Jesus, God made a new agreement —… Learning intention: We are learning that in the new agreement God writes his law on people's hearts and minds. Key question: How would that fix the problem the old agreement had? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Term 4",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Part one and the sequel",
+              "summary": "Part one and the sequel (Genesis 12:1–3 (review); Romans 1:1–2), part of the week’s study \"The gospel: then and now.\" Big idea: God kept his promises to Abraham in Jesus. That is the good news — the gospel — and Paul was so certain… Learning intention: We are learning to recall God's three promises to Abraham and how we saw him keep them. Key question: Over the last two terms, did we discover that God was a promise-keeper or a promise-breaker? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "A letter to Rome",
+              "summary": "A letter to Rome (Romans 1:1–7), part of the week’s study \"The gospel: then and now.\" Big idea: God kept his promises to Abraham in Jesus. That is the good news — the gospel — and Paul was so certain… Learning intention: We are learning who Paul was and why he wrote letters. Key question: If you had some really important news, how would you tell people? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "Not ashamed",
+              "summary": "Not ashamed (2 Corinthians 11:25b–28; Romans 1:16–17), part of the week’s study \"The gospel: then and now.\" Big idea: God kept his promises to Abraham in Jesus. That is the good news — the gospel — and Paul was so certain… Learning intention: We are learning what Paul suffered while telling people about Jesus. Key question: What was life like for Paul as he spoke about Jesus? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "The gospel is ...",
+              "summary": "The gospel is ... (Romans 1:16–17 (review)), part of the week’s study \"The gospel: then and now.\" Big idea: God kept his promises to Abraham in Jesus. That is the good news — the gospel — and Paul was so certain… Learning intention: We are learning to explain the gospel in our own words. Key question: Who would like to read out what they wrote? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 2",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Consequences",
+              "summary": "Consequences (Romans 1:18—2:1 (introduction)), part of the week’s study \"The need for the gospel.\" Big idea: Every single person has sinned and ignored God, and God's standard is perfection — so nobody measures up. But because of God's… Learning intention: We are learning that wrong actions have consequences, and that justice is a good thing. Key question: How would you feel if the people who did the things on the Consequences side didn't get in… Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Media briefing: guilty",
+              "summary": "Media briefing: guilty (Romans 1:29–30; Romans 2:1), part of the week’s study \"The need for the gospel.\" Big idea: Every single person has sinned and ignored God, and God's standard is perfection — so nobody measures up. But because of God's… Learning intention: We are learning what a hypocrite is and why hypocrisy provokes such a strong reaction. Key question: Alfred Woodcock attacked his neighbour and was found guilty? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "God's standard",
+              "summary": "God's standard (Romans 3:23), part of the week’s study \"The need for the gospel.\" Big idea: Every single person has sinned and ignored God, and God's standard is perfection — so nobody measures up. But because of God's… Learning intention: We are learning that God's standard is perfection. Key question: What do you think God's standard is? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "But the verse doesn't finish there",
+              "summary": "But the verse doesn't finish there (Romans 3:24–25a), part of the week’s study \"The need for the gospel.\" Big idea: Every single person has sinned and ignored God, and God's standard is perfection — so nobody measures up. But because of God's… Learning intention: We are learning that God freely accepts his people because of Jesus. Key question: So what does God do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 3",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Wages and gifts",
+              "summary": "Wages and gifts (Romans 4:4–5 (introduction)), part of the week’s study \"The good news of the gospel!.\" Big idea: Nobody deserves eternal life — it is God's gift, given because Jesus took the consequence in our place. And like any gift… Learning intention: We are learning the difference between wages and a gift. Key question: Who knows what wages are? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Media briefing: the pardon",
+              "summary": "Media briefing: the pardon (Romans 3:23–25a), part of the week’s study \"The good news of the gospel!.\" Big idea: Nobody deserves eternal life — it is God's gift, given because Jesus took the consequence in our place. And like any gift… Learning intention: We are learning that God's people are guilty but are declared innocent. Key question: So what should have happened to him, and what happened instead? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "The forty million dollar gift",
+              "summary": "The forty million dollar gift (Romans 6:23), part of the week’s study \"The good news of the gospel!.\" Big idea: Nobody deserves eternal life — it is God's gift, given because Jesus took the consequence in our place. And like any gift… Learning intention: We are learning that eternal life is a free gift, not wages. Key question: There's a huge difference between a gift and a wage. In your own words — what is it? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "Just like Abraham",
+              "summary": "Just like Abraham (Romans 4:3), part of the week’s study \"The good news of the gospel!.\" Big idea: Nobody deserves eternal life — it is God's gift, given because Jesus took the consequence in our place. And like any gift… Learning intention: We are learning that Abraham was declared innocent because he trusted God's promises. Key question: What do you remember about Abraham? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 4",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Coke and Pepsi",
+              "summary": "Coke and Pepsi (Romans 6:1–2 (introduction)), part of the week’s study \"The fruit of the gospel.\" Big idea: People are declared innocent by trusting in Jesus — and once that happens, their old life and their new life simply don't… Learning intention: We are learning that a Christian's old life and new life do not go together. Key question: As the marketing manager for Coke or Pepsi, what is something you would never do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "One month later",
+              "summary": "One month later (Romans 6:6–7), part of the week’s study \"The fruit of the gospel.\" Big idea: People are declared innocent by trusting in Jesus — and once that happens, their old life and their new life simply don't… Learning intention: We are learning that we would expect a pardoned person's life to change. Key question: What should have happened to Robert Stanford — and what happened instead? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "Slaves to sin, free in Christ",
+              "summary": "Slaves to sin, free in Christ (Romans 6:8–10; 6:12–14), part of the week’s study \"The fruit of the gospel.\" Big idea: People are declared innocent by trusting in Jesus — and once that happens, their old life and their new life simply don't… Learning intention: We are learning what it means to be a slave to sin. Key question: What do you think it means to be a slave to sin? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "Because, not in order to",
+              "summary": "Because, not in order to (Romans 6:23; Ephesians 2:8–10), part of the week’s study \"The fruit of the gospel.\" Big idea: People are declared innocent by trusting in Jesus — and once that happens, their old life and their new life simply don't… Learning intention: We are learning that God's people are not saved by the good things they do. Key question: And what does the Bible say someone has to do to be declared innocent and have eternal life? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 5",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Goals change today",
+              "summary": "Goals change today (Romans 8:1–13 (introduction)), part of the week’s study \"The goal of the gospel.\" Big idea: Knowing you have been declared innocent and are heading for heaven changes the way you live right now — and God gives… Learning intention: We are learning that a future goal changes the way a person lives now. Key question: Did you achieve your goal? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Media briefing: the marathon",
+              "summary": "Media briefing: the marathon (Romans 8:11; Romans 8:2–4), part of the week’s study \"The goal of the gospel.\" Big idea: Knowing you have been declared innocent and are heading for heaven changes the way you live right now — and God gives… Learning intention: We are learning that those who belong to Jesus will be raised to life. Key question: Ten minutes ahead of the silver medallist. What does that tell you about Stavros Massoud? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "What you think about shows your goal",
+              "summary": "What you think about shows your goal (Romans 8:5–6), part of the week’s study \"The goal of the gospel.\" Big idea: Knowing you have been declared innocent and are heading for heaven changes the way you live right now — and God gives… Learning intention: We are learning that what people think about reveals what their goal is. Key question: And what does the person ruled by the Spirit think about? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "Saying no, saying yes",
+              "summary": "Saying no, saying yes (Romans 8:13b), part of the week’s study \"The goal of the gospel.\" Big idea: Knowing you have been declared innocent and are heading for heaven changes the way you live right now — and God gives… Learning intention: We are learning that God's people say no to sinful desires with the Spirit's help. Key question: What does Paul tell the Romans to do? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 6",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Worth suffering for",
+              "summary": "Worth suffering for (Romans 8:18 (introduction)), part of the week’s study \"The hope of the gospel.\" Big idea: Living as a Christian can be genuinely hard — but God's people don't suffer alone, they have a hope that is certain… Learning intention: We are learning that some goals are worth suffering for. Key question: Is there anything you could imagine that would be worth suffering pain for? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Children of God",
+              "summary": "Children of God (Romans 8:14–17), part of the week’s study \"The hope of the gospel.\" Big idea: Living as a Christian can be genuinely hard — but God's people don't suffer alone, they have a hope that is certain… Learning intention: We are learning that those led by God's Spirit are children of God. Key question: And whose name do Christians bear? What family have they become part of? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "The path to glory",
+              "summary": "The path to glory (Hebrews 12:2; Romans 8:17b–18), part of the week’s study \"The hope of the gospel.\" Big idea: Living as a Christian can be genuinely hard — but God's people don't suffer alone, they have a hope that is certain… Learning intention: We are learning that Jesus' path to glory was the cross. Key question: And what does Paul say is a Christian's path to glory? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "A hope you can be certain of",
+              "summary": "A hope you can be certain of (Romans 8:24–27; 8:26a; 8:38–39), part of the week’s study \"The hope of the gospel.\" Big idea: Living as a Christian can be genuinely hard — but God's people don't suffer alone, they have a hope that is certain… Learning intention: We are learning that biblical hope is certainty, not a wish. Key question: What is something you hope for that you know will definitely happen? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 7",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Pass the ball",
+              "summary": "Pass the ball (Romans 12:4–5 (introduction)), part of the week’s study \"The body of the gospel.\" Big idea: When people trust Jesus they become part of his body, the Church. God has made every person different and given them different… Learning intention: We are learning that a body works best when every part does its job. Key question: Was it easier to pass the ball when you could use your whole body? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Media briefing: Ricky Hong",
+              "summary": "Media briefing: Ricky Hong (Romans 12:4–5), part of the week’s study \"The body of the gospel.\" Big idea: When people trust Jesus they become part of his body, the Church. God has made every person different and given them different… Learning intention: We are learning that there are real consequences when a part of the body can't do its job. Key question: What kinds of things do you think would have to change for Ricky? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "Different on purpose",
+              "summary": "Different on purpose (Romans 12:6–8), part of the week’s study \"The body of the gospel.\" Big idea: When people trust Jesus they become part of his body, the Church. God has made every person different and given them different… Learning intention: We are learning that God has made each person unique, by him and for him. Key question: So what does Paul tell us to do with the gifts God has given us? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "What the Church actually is",
+              "summary": "What the Church actually is (Romans 12:1–8 (review)), part of the week’s study \"The body of the gospel.\" Big idea: When people trust Jesus they become part of his body, the Church. God has made every person different and given them different… Learning intention: We are learning that the Church is people, not a building. Key question: So apart from a church building, where else can people meet to learn more about God from the… Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 8",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "The growing plant",
+              "summary": "The growing plant (Romans 16:25–27), part of the week’s study \"The love of the gospel.\" Big idea: The good news about Jesus has God's power to establish and strengthen his people — like a seed planted in rich soil… Learning intention: We are learning the stages a plant goes through as it grows. Key question: Picture a plant growing, right from the very start. What happens to a plant as it grows? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Planted in the gospel",
+              "summary": "Planted in the gospel (Romans 16:25–26), part of the week’s study \"The love of the gospel.\" Big idea: The good news about Jesus has God's power to establish and strengthen his people — like a seed planted in rich soil… Learning intention: We are learning that the good news was kept secret and has now been made known. Key question: Why do you think God commanded that the good news about Jesus be written down? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "Bearing fruit",
+              "summary": "Bearing fruit (Romans 16:25–27 (continued)), part of the week’s study \"The love of the gospel.\" Big idea: The good news about Jesus has God's power to establish and strengthen his people — like a seed planted in rich soil… Learning intention: We are learning what fruit looks like in a Christian's life. Key question: What is some of the fruit that Christians will bear? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "The seeds drop",
+              "summary": "The seeds drop (Romans 16:26–27), part of the week’s study \"The love of the gospel.\" Big idea: The good news about Jesus has God's power to establish and strengthen his people — like a seed planted in rich soil… Learning intention: We are learning that God's people tell others about Jesus so they too can be planted in the gospel. Key question: Why do you think God wants his people to do this? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 9",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Christmas is about promises",
+              "summary": "Christmas is about promises (Genesis 12:1–3; 2 Samuel 7:12–16; Isaiah 53 (overview)), part of the week’s study \"The Christmas promise.\" Big idea: Christmas is not really about presents — it is about promises, and about God keeping them. Every promise God made to Abraham… Learning intention: We are learning that Christmas is about God keeping his promises. Key question: And what do you think is the most important thing at Christmas? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Promise one: blessing for the whole world",
+              "summary": "Promise one: blessing for the whole world (Matthew 1:1–17; Revelation 7:9–10), part of the week’s study \"The Christmas promise.\" Big idea: Christmas is not really about presents — it is about promises, and about God keeping them. Every promise God made to Abraham… Learning intention: We are learning why Matthew begins with Jesus' family history. Key question: What do you think is so important about this particular baby? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "Promise two: a king forever",
+              "summary": "Promise two: a king forever (Luke 1:30–33), part of the week’s study \"The Christmas promise.\" Big idea: Christmas is not really about presents — it is about promises, and about God keeping them. Every promise God made to Abraham… Learning intention: We are learning what God promised King David. Key question: Every kingdom in history has eventually ended. How could that promise possibly be kept? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "Promise three: a Saviour",
+              "summary": "Promise three: a Saviour (Matthew 1:20–21), part of the week’s study \"The Christmas promise.\" Big idea: Christmas is not really about presents — it is about promises, and about God keeping them. Every promise God made to Abraham… Learning intention: We are learning why Jesus was given his name. Key question: Why was Joseph to give this baby the name Jesus? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            }
+          ]
+        },
+        {
+          "name": "Week 10",
+          "days": [
+            {
+              "day": "Monday",
+              "title": "Which country am I?",
+              "summary": "Which country am I? (1 Timothy 4:12 (introduction)), part of the week’s study \"Miriam.\" Big idea: Miriam is a real person following Jesus today. She trusted him when she was eight and now sets an example for the… Learning intention: We are learning about Miriam's cultural background. Key question: What things do you already know about China? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Tuesday",
+              "title": "Growing up in two cultures",
+              "summary": "Growing up in two cultures (1 Timothy 4:12 (continued)), part of the week’s study \"Miriam.\" Big idea: Miriam is a real person following Jesus today. She trusted him when she was eight and now sets an example for the… Learning intention: We are learning what Miriam's bi-cultural childhood was like. Key question: Does anyone here have a mum from one cultural background and a dad from a different one? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Wednesday",
+              "title": "From art teacher to chaplain",
+              "summary": "From art teacher to chaplain (1 Timothy 4:12 (continued)), part of the week’s study \"Miriam.\" Big idea: Miriam is a real person following Jesus today. She trusted him when she was eight and now sets an example for the… Learning intention: We are learning what a Christian chaplain does. Key question: Who might you be able to talk to if you had questions about God? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
+            },
+            {
+              "day": "Thursday",
+              "title": "Don't let anyone look down on you",
+              "summary": "Don't let anyone look down on you (1 Timothy 4:12), part of the week’s study \"Miriam.\" Big idea: Miriam is a real person following Jesus today. She trusted him when she was eight and now sets an example for the… Learning intention: We are learning who Timothy was and why Paul wrote to him. Key question: And what did Paul tell Timothy to do instead? Curriculum focus: Bible narrative comprehension, oral language, and Christian character formation, through story, comic panels, discussion, and memory verse work."
             }
           ]
         }
