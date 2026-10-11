@@ -3,6 +3,7 @@
 //            -> units (a term's specific topic, e.g. 'Polynesian Exploration (Wayfinder)',
 //               or 'Te Reo Maori Warm-Up - Term 1'..'Term 4') -> weeks -> days (Monday-Friday),
 //               each with a title and a lesson summary.
+// 'All' holds Term 2 (Polynesian Exploration - Wayfinder), Term 3 (Skybound: The Baobab Route) and The Royal Road Race (Persia).
 // Add more units to an area's "units" array as new term data files become available,
 // and add more areas (Art, PE already stubbed in below) the same way.
 // Keep this file next to weeklyplanner.html (see the <script> tag in <head>).
@@ -312,6 +313,616 @@ window.TOPIC_LESSON_DATA = {
                   "day": "Friday",
                   "title": "Bonus Station: Wayfinder's Examination — Finale: The Wayfinder Ceremony",
                   "summary": "Using the whole term's navigation knowledge (star compass from Week 4, latitude from Week 7), teams steer a token across the floor map from the voyage's start to Aotearoa, earning bonus points for correctly explaining why their route makes sense. After tallying the final examination as a genuine, shared achievement, the Wayfinder Ceremony closes the term: Tama's closing words are read aloud, certificates or badges are presented, and every group's completed quilt is displayed together one last time. Curriculum focus: demonstrating a full term's real navigation knowledge and reflecting on genuine growth across an extended unit of work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skybound: The Baobab Route",
+          "weeks": [
+            {
+              "name": "Week 1",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 1: The Logbook Opens",
+                  "summary": "Launches the term with Tapiwa's grandfather's logbook. Students locate Zimbabwe and South Africa on a map of Africa and get a sense of the region's size, then meet the San, Southern Africa's first peoples, whose knowledge of the land stretches back tens of thousands of years. In pairs they list what they'd need to know to survive without shops or maps, then compare with real San water-finding and tracking knowledge, treating unwritten knowledge as genuine expertise. Faith connection: Acts 17:26, God marking out every nation's times and places. Curriculum focus: locating significant places and understanding the past through evidence and living culture."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 2: Three Kinds of Country",
+                  "summary": "Shows that Zimbabwe and South Africa are not one landscape. Students learn how altitude, latitude and distance from the coast shape climate, then identify the savanna, highveld and lowveld by rainfall, temperature and vegetation. In groups they sort landscape photographs into the correct zone using visual evidence, then predict the housing, clothing and food suited to each. Faith connection: Genesis 1:31, the variety of a creation God called very good. Curriculum focus: understanding place and environment and how people adapt to climate."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 3: The Tree That Stores Water",
+                  "summary": "Introduces the savanna biome, with its clear wet and dry seasons, then focuses on the baobab. Students learn how its swollen trunk stores hundreds or thousands of litres of water, how its shallow, far-reaching roots catch rain quickly and how it drops its leaves in the dry season. Teams then list every living thing that might depend on one baobab, building the idea of interdependence. Faith connection: Psalm 104:24, God's wisdom in making so many different creatures. Curriculum focus: the living world, adaptation and interdependence."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 4: Reading the Land",
+                  "summary": "Presents San tracking as a real technology: a learned, refined system of reading spoor such as footprints, droppings, broken twigs and disturbed sand. Small groups solve a tracking challenge using spoor clue cards and must justify their answer with specific evidence. The lesson then links to modern rangers like Baba Farai, who use radios, GPS and cameras alongside spoor-reading, showing old and new technology working together. Faith connection: Job 12:7, creation as a teacher. Curriculum focus: technological knowledge and how people solve real problems."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 5: Stories on Stone",
+                  "summary": "Explores San rock art as one of the world's oldest storytelling traditions, painted with natural pigments like ochre and charcoal on rock shelters. Students make a symbol-based artwork on stone-look paper in ochre tones, planning the smallest number of clear shapes that can tell a story without words. Partners then try to read each other's symbols before the artist explains, discussing what made a symbol easy or hard to read. Faith connection: Exodus 35:31, God filling Bezalel with skill and creativity. Curriculum focus: visual arts, symbols and communicating ideas."
+                }
+              ]
+            },
+            {
+              "name": "Week 2",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 6: The Stone City",
+                  "summary": "Introduces Great Zimbabwe, capital of a powerful trading kingdom that flourished from about the 11th to 15th centuries, with trade links reaching the East African coast and beyond. Students study its dry-stone walls, built from shaped granite without mortar, and try stacking blocks themselves. They then discuss why colonial-era writers wrongly denied that Africans built it and why such an impressive civilisation is less globally well known, asking whose stories get told. Faith connection: Psalm 78:4, telling the next generation. Curriculum focus: understanding the past, evidence and perspectives."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 7: What the Family Table Needs",
+                  "summary": "Defines subsistence farming, growing mainly to feed your own family, and contrasts it with farming to sell. Students meet maize, sorghum and groundnuts as reliable staple crops and discuss why subsistence farming still underpins food security for many rural households, including the risk of a poor rainfall year. As a class they plan a small subsistence plot, choosing three crops and weighing trade-offs such as nutritious but hard to store versus easy to grow but less filling. Faith connection: Matthew 6:11, \"Give us today our daily bread.\" Curriculum focus: how people use and depend on land."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 8: Built for the Dry",
+                  "summary": "Looks at three savanna plant adaptations and the specific problem each solves: thorns deter grazers, small waxy leaves reduce water loss and deep roots reach water far below. In teams, students match feature cards to problems and present one pair with evidence. Pairs then sketch an imaginary super-adapted plant for extreme drought, labelling at least three features and the problem each one solves. Faith connection: Psalm 104:24, wisdom shown in the design of creation. Curriculum focus: the living world, adaptation and explaining with evidence."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 9: Voices Across the Bush",
+                  "summary": "Explains why rangers rely on two-way radios across reserves larger than phone coverage, with a simple account of how a microphone, transmitter and receiver carry a voice. Students learn the rules of clear radio talk: short phrases, confirming messages with \"copy\" and not talking over each other. In the Message Relay Challenge a ranger report is whispered along a line, then compared with the original to see how and why details change. Faith connection: Ecclesiastes 4:9, two are better than one. Curriculum focus: technological systems, communication and teamwork."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 10: Carving a Story in Stone",
+                  "summary": "Introduces Shona stone sculpture as an internationally celebrated Zimbabwean tradition in which the shape of a figure carries the story. Students learn that carvers plan every side before removing material because it can't be put back, and sketch their figure from front, side and top views. They then carve a simple figure in soap or air-dry clay representing an idea or feeling and explain their intention. Faith connection: Exodus 35:31, God-given skill and creativity. Curriculum focus: visual arts, planning, making and explaining ideas."
+                }
+              ]
+            },
+            {
+              "name": "Week 3",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 11: The Gold and Ivory Kingdom",
+                  "summary": "Introduces Mapungubwe, a gold and ivory trading kingdom active from about the 11th to 13th centuries near where South Africa, Zimbabwe and Botswana meet, and a forerunner to Great Zimbabwe. Using a map, students trace trade overland to the East African coast and by dhow across the Indian Ocean to Arabia, India and China, then plot a plausible route and the goods that travelled it. The class discusses how Southern Africa was already part of a wide trade network long before European contact. Faith connection: Proverbs 11:1, honest scales. Curriculum focus: understanding the past and the movement of people and goods."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 12: Farming for the World, Not Just the Table",
+                  "summary": "Defines commercial farming as large-scale growing to sell for profit, often to distant markets, and introduces tobacco, citrus and sugar as export crops from Zimbabwe and South Africa. As a class, students build a chart comparing subsistence and commercial farming by purpose, scale and risk. The lesson closes with why both matter: commercial farming brings income and jobs while subsistence farming keeps rural families fed. Faith connection: 2 Timothy 2:6, the hardworking farmer. Curriculum focus: how economic activity shapes places and people."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 13: Who Eats Whom",
+                  "summary": "Explains a food web as a picture of how energy moves from producers to herbivores to predators, with lions and leopards as savanna predators. The class builds a savanna food web on the board with arrows, adding scavengers and extra connections. In the Ripple Effect Challenge, groups predict what happens to the whole web if one link, such as all the antelope, disappears. Faith connection: Genesis 1:31, interlocking design in a creation God called very good. Curriculum focus: the living world, ecosystems and predicting from models."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 14: The Watching Eye",
+                  "summary": "Explains how a camera trap's motion and heat sensor triggers a weatherproof camera when a warm animal passes, and why researchers prefer it to watching predators in person, since lions and leopards change behaviour around people. Groups get a map of a waterhole and game trail area and must decide, and justify, where to place two or three camera traps to capture the most useful information. Faith connection: Psalm 33:13, God watching over all the earth. Curriculum focus: technological devices, sensors and justifying design decisions."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 15: Painting the Walls",
+                  "summary": "Introduces Ndebele house painting as a living geometric art tradition in which women paint bold patterns on the outside walls of homes. Students learn that the work depends on straight lines, precise angles and repeated symmetry planned before any paint is applied. They then design a Ndebele-inspired geometric pattern in bright paint or oil pastel, using strong contrasting colours and repeating shapes, with intentional meaning. Faith connection: Matthew 5:16, letting your light shine. Curriculum focus: visual arts, pattern, symmetry and cultural identity."
+                }
+              ]
+            },
+            {
+              "name": "Week 4",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 16: A Kingdom on the Move",
+                  "summary": "Explains the Mfecane, \"the crushing\" or \"scattering\", a period of upheaval in the early 1800s driven by severe drought and competition for land that moved large groups of people across Southern Africa. The Ndebele Kingdom, Nomvula's own people, rose from this period. In groups, students discuss at least three reasons a whole community might leave everything and rebuild elsewhere. The lesson ends on how new, lasting nations can emerge from hard chapters. Faith connection: Psalm 46:1, God as refuge and strength. Curriculum focus: understanding the past, causes and consequences of migration."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 17: When the Rain Doesn't Come",
+                  "summary": "Looks at the Kariba Dam on the Zambezi, one of the world's largest reservoirs, which generates hydroelectric power for Zambia and Zimbabwe. Groups map everything that depends on the Zambezi's water, including farms, electricity, wildlife, drinking water, fishing and tourism, and discuss what happens to each in a drought. The lesson ends on how small household water-saving choices add up across a community. Faith connection: Psalm 104:13, God watering the land. Curriculum focus: how people depend on and manage natural resources."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 18: The Rhino Crisis",
+                  "summary": "Defines \"endangered\" and addresses rhino poaching honestly as a real threat, with care for the age of the class. Students learn why rhinos are an ecologically important species whose grazing shapes grassland for others, and meet the real people and organisations protecting them, including anti-poaching rangers like Baba Farai, scientists and wildlife vets. The focus stays on hope and action. Faith connection: Proverbs 12:10, the righteous care for their animals. Curriculum focus: the living world, human impact and conservation."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 19: Marked and Traced",
+                  "summary": "Introduces three real anti-poaching technologies. Students learn how DNA acts like a fingerprint, with South Africa's RhODIS database able to match one horn to one rhino among thousands, then how ear notching and microchipping identify individual animals. The lesson focuses on why identifying evidence is vital to stopping wildlife crime, and on the people and technology working to protect rhino. Faith connection: Proverbs 31:8, speaking up for those who cannot speak. Curriculum focus: technological devices and systems used to solve real problems."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 20: What a Colour Can Say",
+                  "summary": "Explores Southern African beadwork, where colours carry shared meanings within a community, for example green for land or growth. The class agrees a simple colour code of three or four colours, then students design a beadwork pattern with paper or real beads in which every colour choice has intentional meaning. They finish by explaining what their pattern communicates using only its colours. Faith connection: Zechariah 4:10, not despising small beginnings. Curriculum focus: visual arts, colour as symbol and communicating meaning."
+                }
+              ]
+            },
+            {
+              "name": "Week 5",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: The Lost City Trial — Station 1: True Story or Myth?",
+                  "summary": "A team consolidation station for Weeks 1–4 history. In a rapid-fire True/False round, teams confer for 10–15 seconds and signal their answer to statements drawn from Weeks 1–4, such as the San being among Southern Africa's first peoples, separating real history from common misconceptions. Scores are revealed and questions that several teams got wrong are revisited with a short explanation. Faith connection: Joshua 4:6–7, stones set up as a memorial so children learn the story. Curriculum focus: recalling and applying understanding of the past under time pressure."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: The Lost City Trial — Station 2: Farming & Water Challenge",
+                  "summary": "A team consolidation station for Weeks 1–4 geography. Using the term's regional map with climate zones unlabelled, teams draw cards and place or match each farming type or water challenge to the correct zone or cause, explaining their reasoning aloud, for example why tobacco is a commercial crop. Scores are revealed and incorrect placements are re-shown on the map. Faith connection: Genesis 8:22, seedtime and harvest. Curriculum focus: applying understanding of place, climate, farming and water."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: The Lost City Trial — Station 3: Build the Food Web",
+                  "summary": "A team consolidation station for Weeks 1–4 science. Teams use connector cards or string to link savanna organism cards, including the baobab, thorn plants and grasses, impala, zebra, lion, leopard and the endangered rhino, into a real food web. They must justify each link with content from the term, such as plant adaptations and predator-prey relationships. Scores are revealed and disputed links are discussed. Faith connection: Psalm 104:24, wisdom in the variety of creation. Curriculum focus: applying ecological reasoning under pressure."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: The Lost City Trial — Station 4: The Ranger's Workshop",
+                  "summary": "A team consolidation station for Weeks 1–4 technology. Acting as ranger technology consultants, teams design a monitoring plan for a fictional reserve combining at least three of the term's technologies: spoor tracking, radios, camera traps and DNA tracing. They annotate a reserve map showing where each is used and why, then pitch in under two minutes and field one challenge question from a rival team. Faith connection: Colossians 3:23, working at it with all your heart. Curriculum focus: designing, justifying and presenting a technology solution."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: The Lost City Trial — Station 5: One Symbol, Three Traditions",
+                  "summary": "A team consolidation station for Weeks 1–4 art. After recapping San rock art symbols, Ndebele geometric wall painting and beadwork colour symbolism, teams agree on one message their symbol should communicate, then design a single combined symbol that draws on all three traditions. Each student explains how every part of the design links to a real tradition studied this term. Faith connection: Exodus 35:31, skill given to create meaningful work. Curriculum focus: visual arts, symbolism and explaining design choices."
+                }
+              ]
+            },
+            {
+              "name": "Week 6",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 21: New Arrivals, New Boundaries",
+                  "summary": "Explains colonisation and how, from the late 1800s, European settlers and organisations such as the British South Africa Company took control of large areas of land, changing who owned it and how it was used. The lesson stays honest but focuses on what people did in response, such as passing on language, stories, farming knowledge and art. The class names at least two real ways communities responded. Faith connection: Micah 6:8, acting justly, loving mercy and walking humbly. Curriculum focus: understanding the past, perspectives and responses to change."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 22: Whose Land, Whose Food",
+                  "summary": "Connects land use change to food security. Students learn that when ownership changed, many families who had farmed for their own food lost access to land they relied on, and that this still shapes food security today. In groups they list what a community needs to feed itself reliably, including land, water, seeds and knowledge, and explain what happens when even one is taken away. The lesson draws out that fair access matters as much as farming skill. Faith connection: Leviticus 25:23, the land belongs to God. Curriculum focus: land use, resources and fairness."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 23: The Animal That Shapes the Land",
+                  "summary": "Introduces keystone species, those whose impact is far larger than their numbers suggest, with elephants as the savanna example. Students learn how herds shape the landscape by knocking down trees to open space for grasses, digging waterholes other species use and dispersing seeds, and predict what would happen if elephants disappeared. The class links this back to the Week 5 food web work. Faith connection: Psalm 50:10, every animal belongs to God. Curriculum focus: the living world, ecosystems and predicting from models."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 24: Following From the Sky",
+                  "summary": "Explains how a GPS collar receives satellite signals, works out its own position and stores or transmits its location. Groups plot a fictional elephant herd's GPS \"ping\" points over a week on a simplified table or map, and describe the movement pattern. The lesson then shows how data about a herd heading toward farmland or a village lets rangers warn communities, protecting both people and elephants. Faith connection: Psalm 139:7, nowhere to go from God's presence. Curriculum focus: interpreting data and technology that solves real problems."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 25: A Wall Big Enough for a Whole Story",
+                  "summary": "Looks at township murals in South Africa, where communities paint large public walls to tell their own stories and celebrate identity. The class first agrees one shared theme so every section connects into a single story, then each student or pair designs one section of a collaborative mural on a long shared sheet. Students explain the message their section communicates. Faith connection: Isaiah 61:3, a crown of beauty instead of ashes. Curriculum focus: visual arts, collective storytelling and public art."
+                }
+              ]
+            },
+            {
+              "name": "Week 7",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 26: I Am, Because We Are",
+                  "summary": "Explains apartheid simply as a legal system that separated and disadvantaged people by race, and was deeply unjust. Students learn about the long struggle for freedom and Nelson Mandela, and the philosophy of Ubuntu, \"I am, because we are\". Each student explains Ubuntu in their own words and gives one example of courage or unity from this history. Faith connection: 1 Corinthians 12:12, one body with many parts. Curriculum focus: understanding the past, human rights and community values."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 27: More Than Just Cattle",
+                  "summary": "Introduces Nguni cattle, a hardy, distinctively patterned breed central to livestock farming in parts of Southern Africa and valued for milk, meat and hide. Students then explore the cultural meaning of cattle: herd size can reflect status, cattle are traditionally part of lobola (dowry) and they carry identity. Students compare something valuable in their own culture to what cattle represent here. Faith connection: Proverbs 27:23, knowing the condition of your flocks. Curriculum focus: farming and culture, and how places hold meaning for people."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 28: The Small Workers of the Fields",
+                  "summary": "Defines pollination and introduces sunbirds and weaver birds as real pollinators in Southern African landscapes, with sunbirds carrying pollen on their beaks and heads as they feed on nectar. The lesson shows that small, easily overlooked animals can play an essential role in an ecosystem. Each student names a plant or crop that depends on pollinators and explains what would happen without them. Faith connection: Matthew 6:26, God caring for the birds of the air. Curriculum focus: the living world and interdependence."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 29: The Buzz That Builds Peace",
+                  "summary": "Explores the beehive fence, a real invention in which hives hang on wires around a field, so an elephant that brushes the wire disturbs the bees and learns to avoid the farm. Students learn how elephants and farms increasingly overlap, and that a clever solution doesn't have to be expensive or complicated. In pairs, they list every group who benefits, including farmers, elephants, bees and the wider community. Faith connection: Psalm 8:6, humans given responsibility over creation. Curriculum focus: technological design, and solutions that benefit several groups."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 30: Threads That Tell a Story",
+                  "summary": "Introduces Shweshwe printed cotton and basket weaving as textile traditions with deep roots in Southern African fashion and identity. Students learn that real weaving needs a planned pattern, then use coloured paper strips to weave a small mat or panel inspired by Shweshwe patterns, working over and under in a deliberate, repeating pattern. Faith connection: Proverbs 31:13, working with eager hands. Curriculum focus: visual arts, pattern, technique and cultural traditions."
+                }
+              ]
+            },
+            {
+              "name": "Week 8",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 31: The Day the Flag Changed",
+                  "summary": "Explains that Zimbabwe gained independence in 1980, ending British colonial rule and minority rule, and that South Africa held its first fully democratic election in 1994, ending apartheid. Students learn what democracy and self-determination mean. The class discusses what changes quickly on such a day, like a flag or an anthem, and what takes much longer, like economic opportunity and land ownership. Faith connection: Galatians 5:1, freedom for a purpose. Curriculum focus: understanding the past, democracy and change over time."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 32: From Field to Table",
+                  "summary": "Recaps subsistence and commercial farming, then follows food's journey from farm to table. As a class, students sequence the steps a maize crop takes: planting, growing, harvesting, storage, transport, market sale and preparation, and identify where things can go wrong, including markets and transport. The journey is linked back to both kinds of farming studied earlier in the term. Faith connection: Proverbs 31:14, bringing food from afar. Curriculum focus: how people and places are connected through trade and supply chains."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 33: The Dung Beetle's Big Job",
+                  "summary": "Defines decomposers as organisms that break down dead material and waste, recycling nutrients into the soil. Students learn the dung beetle's real role: rolling and burying dung, which recycles nutrients, helps control flies and parasites and helps disperse seeds. They then explain what would happen to a savanna ecosystem without decomposers. Faith connection: Psalm 104:30, God renewing the face of the earth. Curriculum focus: the living world, nutrient cycles and ecosystem roles."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 34: Eyes That Never Sleep",
+                  "summary": "Shows how thermal cameras detect heat to reveal warm shapes in darkness or thick bush, how drones cover large areas quickly from above and why patrol-management software depends on carefully logged data. In teams, students plan a night patrol route on a reserve map, deciding where to use ground patrols, where a drone sweep helps most and where a fixed camera trap from Week 3 fits. Faith connection: Nehemiah 4:9, keeping watch day and night. Curriculum focus: technological systems working together."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 35: Marimba and Gumboot",
+                  "summary": "Introduces marimba music, drumming patterns and gumboot dance, a rhythmic stamping and boot-slapping dance with real cultural and historical roots. In groups, students create a simple eight-beat rhythm pattern using body percussion such as stamping, clapping and slapping, then perform it for the class as part of a group. Faith connection: Psalm 150:4, praising God with dancing and rhythm. Curriculum focus: music and dance, rhythm and group performance."
+                }
+              ]
+            },
+            {
+              "name": "Week 9",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Flight Log 36: Two Worlds, One Life",
+                  "summary": "Looks at Southern Africa today, where large modern cities like Johannesburg and Harare sit alongside rural villages, farms and reserves. Students learn about the diaspora, people who live and work away from their home community, like Nomvula's mother working in Johannesburg during the week. They discuss what might be hard and what might be good about living between a city and a home village. Faith connection: Jeremiah 29:11, God's plans for people living far from home. Curriculum focus: understanding the past and present, and how people live between places."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Flight Log 37: Farming for a Changing Climate",
+                  "summary": "Recaps the term's farming learning, covering subsistence, commercial, water challenges and land and food security, then introduces real climate-smart techniques used across the region, including conservation agriculture with minimal soil disturbance, drought-resistant crop varieties and rainwater harvesting. Students design a simple farm plan with at least two climate-smart features. Faith connection: Romans 8:19, 21, creation waiting for renewal. Curriculum focus: sustainability, and adapting to environmental change."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Flight Log 38: Where Things Are Getting Better",
+                  "summary": "Turns to hope: national parks and community conservancies, locally run protected areas that often benefit nearby communities, are producing real, measurable conservation successes in Southern Africa. The class discusses what makes a project genuinely successful rather than just well-intentioned, including population recovery, community involvement and benefit, ongoing funding and effective anti-poaching work. Each student describes one real success story. Faith connection: Revelation 21:5, God making all things new. Curriculum focus: the living world, evaluating conservation and human impact."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: Flight Log 39: Blueprints for Tomorrow",
+                  "summary": "Launches the Conservation Tech Expo project. Students choose one endangered Southern African animal and one real, specific problem affecting it, then apply the technological design process of plan, create and evaluate to plan a device or system that could help, including materials and how they'll know it worked. Partners swap plans and give one strength and one question that would make the plan stronger. Faith connection: Ephesians 2:10, God's handiwork created to do good works. Curriculum focus: technological practice, planning and peer feedback."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Flight Log 40: Faces Carved to Remember",
+                  "summary": "Explores mask and carving traditions across Southern Africa, which are rarely made purely for decoration and carry memory, ceremony, storytelling and identity. Students write one sentence about a value, memory or feeling they want to carry forward from the term, then design a mask or carved-face artwork from card, clay or paper that represents it, and explain its meaning. Faith connection: Psalm 139:14, fearfully and wonderfully made. Curriculum focus: visual arts, symbolism and personal meaning."
+                }
+              ]
+            },
+            {
+              "name": "Week 10",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: The Legacy Trial — Station 1: The Whole Route, In Order",
+                  "summary": "A team synthesis station for the whole term's history. Teams place shuffled event cards on a long floor timeline from earliest to today, covering the San, Great Zimbabwe, Mapungubwe, the Ndebele migration (Mfecane), colonisation, apartheid and the struggle for freedom, and independence in Zimbabwe (1980) and South Africa (1994). They justify each placement with a real fact from that week's learning, then discuss disputed placements and how an earlier event influenced a later one. Faith connection: Deuteronomy 6:6–7, talking about God's story constantly. Curriculum focus: understanding the past, sequence and cause and effect."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: The Legacy Trial — Station 2: A Farming Plan for the Future",
+                  "summary": "A team synthesis station for the whole term's geography. Teams design and pitch a sustainable farming plan for an imagined Southern African community that balances family food security (Week 2), income opportunity (Week 3) and resilience to drought and a changing climate (Weeks 4 and 9). They present clearly and persuasively, justify at least two choices with term content, and are scored on a rubric. Faith connection: Matthew 25:21, faithfully using what you've been given. Curriculum focus: sustainability, resources and persuasive presentation."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: The Legacy Trial — Station 3: Design a Conservation Plan",
+                  "summary": "A team synthesis station for the whole term's science. Teams choose an endangered Southern African species studied this term, such as the rhino, or another real species, identify its real threats such as habitat loss, poaching, climate change and human-wildlife conflict, and design a plan combining at least two real strategies from the term. Plans are scored on a rubric and the class discusses which combined strategies rather than relying on one. Faith connection: Psalm 24:1, the earth is the Lord's. Curriculum focus: the living world, applying science to real problems."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Technology: The Legacy Trial — Station 4: The Route-Keepers' Invention",
+                  "summary": "The Conservation Tech Expo showcase. Students finish their model, prototype, poster or diagram from Week 9's plan, then present it in small groups or to the class in the style of a real expo, explaining their chosen animal, the specific problem and how their invention helps. They evaluate their own and others' work honestly, and reflect on the whole technology strand from San spoor-reading in Week 1 to today's original inventions. Faith connection: Matthew 5:16, letting your light shine. Curriculum focus: technological practice, presenting and evaluating."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Art: Boss Battle 2 Finale: The Baobab Route Artwork",
+                  "summary": "The term's closing legacy artwork. After recapping every art tradition studied, including San rock art, Shona stone sculpture, Ndebele house painting, beadwork colour symbolism, township murals, weaving and Shweshwe, marimba and gumboot, and masks and carving, the class creates one large artwork centred on a baobab tree. Each student contributes a piece and explains how it connects to at least one tradition. Faith connection: 1 Corinthians 10:31, doing everything for the glory of God. Curriculum focus: visual arts, collaboration and drawing on cultural traditions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Royal Road Race — Persia",
+          "weeks": [
+            {
+              "name": "Week 1",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Before the Empire: Elamites, Medes and Persians",
+                  "summary": "Launches the Royal Road Race. Teams open Dig Envelopes containing a clay-tablet scrap, pottery shard and copied map, and work like archaeologists. Students meet the Elamites of Susa, the Medes of Ecbatana and the Persians of Persis, learn four kinds of source (archaeology, written records, Greek historians, the Bible) and why one source is never enough, using Herodotus's seven coloured walls as an example. Choices include a Field Report, class Timeline Scroll or radio bulletin. Faith connection: Genesis 10:22 and Acts 17:26–27, God setting the times and places of nations. Curriculum focus: understanding the past, sources and bias."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: The Great Plateau: Reading the Land",
+                  "summary": "Locates Persia on the high Iranian Plateau ringed by the Zagros and Alborz mountains and explains how qanats, underground water tunnels, made settlement possible in a dry land. Students use four questions for choosing a settlement site (water, soil, defence, trade), learn the settlement ladder from farm to city, and compare Damavand with the Southern Alps. Choices include a relief map, journey map with compass rose and scale, or a \"Why Here?\" site selection. Faith connection: Acts 17:26–27 and Psalm 24:1, the earth and its places belong to God. Curriculum focus: settlement patterns and map skills."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: What Is a Habitat? The Zagros Mountain Community",
+                  "summary": "Introduces habitat, population, community, ecosystem and adaptation through the Zagros mountain community of bezoar ibex, Persian leopard, brown bear and golden eagle, and how each is built for steep, rocky country. Students collect the first Animal Cards and compare the ibex with the Himalayan tahr introduced to the Southern Alps. Choices include an adaptation fact-file, mountain diorama, or an outdoor quadrat survey of the school grounds. Faith connection: Psalm 104:16–18 and Genesis 1:24–25, God caring for every creature in its home. Curriculum focus: the living world, adaptation and communities."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Pattern, Power & Symmetry: Rosettes, Lotus & Team Banners",
+                  "summary": "Teaches reflection and radial symmetry through the rosette and lotus motifs carved at Persepolis, with rhythm, positive and negative shape and a limited palette of lapis, turquoise and gold. Students choose a compass-and-protractor Golden Rosette, a foam-print Lotus Frieze or a Team Banner and Crest that becomes their Caravan's identity for all ten weeks. Faith connection: Exodus 31:1–5, God filling Bezalel with skill to design beautiful things. Curriculum focus: visual arts, symmetry, repeated pattern and design."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: Charter Day",
+                  "summary": "Opening Friday Showdown in classic mode. Before the quiz, each Caravan writes and reads aloud a one-sentence Creed about how it will race with integrity, and the Creeds can stay on the wall all term. The quiz retrieves the week's learning on sources, the plateau, mountain habitats and symmetry, with the Shadow Courier's silver mark revealed on the Fragment of Beginnings. Victory Lap choices: Caravan Log, Question-Maker or Teach-Back Comic/Poster. Faith connection: Acts 17:26–27, Psalm 24:1 and Exodus 31:1–5. Curriculum focus: recall, applying learning and teamwork."
+                }
+              ]
+            },
+            {
+              "name": "Week 2",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Cyrus Rises: From Anshan to the Gates of Babylon",
+                  "summary": "Traces Cyrus II from king of Anshan about 559 BC to taking the Median kingdom, defeating Croesus and entering Babylon, with sources saying the city fell with little fighting. Students separate legend from evidence, examine the Cyrus Cylinder and weigh Greek, Babylonian and Biblical perspectives on why he was remembered as fair. Choices include a newspaper front page, a courtroom \"Was Cyrus Great?\" statement or an eight-frame storyboard. Faith connection: Isaiah 44:28–45:4, Ezra 1:1–4 and Proverbs 21:1. Curriculum focus: understanding the past, evidence, perspectives and legend versus fact."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Pasargadae, Ecbatana & Babylon: Royal Cities and Gardens",
+                  "summary": "Explains what makes a capital and why the royal cities were sited where they were: Pasargadae the high-plain tomb city in Fars, Ecbatana the cool summer capital on Mount Alvand, and Babylon the Euphrates river city with canals. Students learn site, situation and function, and the four-part Persian garden that gave us the word paradise. Choices include a bird's-eye Capital City Plan, a three-city comparison with a New Zealand city, or a Persian Garden Model. Faith connection: Genesis 2:8–15 and Revelation 22:1–2, gardens and a river of life. Curriculum focus: settlements, cities and place."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Cyrus’s Camel Secret & the Grassland Community",
+                  "summary": "Uses the story of camels frightening horses to explore the grassland community: grasses as producers, onagers, goitered gazelles and the Asiatic cheetah as consumers, and hide-or-run adaptations such as camouflage and long legs. Students learn what makes a fair test (one variable changed, everything else kept the same). Choices include a Camouflage Fair Test with paper moths, a grassland food-chain mobile or a Predator–Prey Card Game. Faith connection: Job 39:5–8 and Matthew 6:26, God caring for wild creatures. Curriculum focus: the living world, food chains and planning a fair test."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Writing in Clay: Cuneiform and Cylinder Seals",
+                  "summary": "Introduces clay as the paper of the ancient world and cuneiform, wedge-shaped writing pressed with a cut reed. Students learn press, smooth, score and roll techniques, and how cylinder seals act as signatures in stone. They link this to the Cyrus Cylinder as a decree meant to be remembered. Choices include a clay tablet \"decree of kindness\", rolled seal prints or an illuminated decree scroll. Faith connection: Habakkuk 2:2 and Ezra 1:1–4, writing a message plainly so it can be read and sent out. Curriculum focus: visual arts, impressed and relief techniques and communicating ideas."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: Camel Charge",
+                  "summary": "Friday Showdown in classic mode with a 15-second timer and a speed bonus, where each right answer wins back a piece of the torn map. Before the quiz, Caravans revisit their Week 1 Creed and add a promise about being fair. The quiz covers Cyrus, royal cities, grassland animals and clay writing, and the Fragment of the Open Gate is revealed. Victory Lap choices: Caravan Log, Question-Maker or Teach-Back. Faith connection: Isaiah 45:1–4, Job 39:5–8 and Habakkuk 2:2. Curriculum focus: recall, applying learning and teamwork."
+                }
+              ]
+            },
+            {
+              "name": "Week 3",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Darius the Organiser: Satraps, Coins, Roads & Law",
+                  "summary": "Examines how Darius I (about 522–486 BC) held a vast empire together using four tools: provinces run by satraps, the gold daric coin, the Royal Road and records, including the trilingual Rock of Behistun. Students weigh whether Darius was wise or controlling, given heavy taxes and rebellions. Choices include a \"King's Eye\" inspection report, designing a daric with a museum label, or a persuasive speech. Faith connection: Ezra 5:3–6:15 and Isaiah 55:11, Darius finding Cyrus's decree in the archives so a promise could be kept. Curriculum focus: understanding the past, cause and effect and evaluating a ruler."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: The Royal Road: A Highway Through the Landscape",
+                  "summary": "Follows the Royal Road, about 2,700 km from Sardis to Susa with around 111 relay stations a day apart. Students use scale to measure distance, explore how a station grows into a village and then a town, and see why Persepolis was sited on a terrace on the Marvdasht plain. Choices include a scale map with at least six stops, a Station Master's Handbook or a Persepolis site plan. Faith connection: Isaiah 40:3–4 and 35:8, a road made ready. Curriculum focus: routes, settlements, scale and map skills."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Lions, Leopards & the Royal Hunt: Predators in the Food Web",
+                  "summary": "Moves from food chains to food webs and apex predators, looking at the Asiatic lion, Persian leopard and Caspian tiger, and why the lion disappeared from Iran in the 1940s and the tiger became extinct. Students predict what happens when a top predator is lost, and learn about royal \"paradise\" hunting parks. Choices include a \"What If?\" food web, designing a predator or an ecosystem role-play report. Faith connection: Daniel 6:16–23 and Psalm 104:21. Curriculum focus: the living world, food webs and human impact."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Carving the Kings: Relief Sculpture of the Apadana",
+                  "summary": "Explores relief sculpture and the processions of delegations carved on the Apadana stairways at Persepolis, using profile figures, rhythm and repetition to show an orderly empire. Students learn low and high relief and safe carving methods in soap, clay and foil. Choices include a carved gift-bearer, a foil emboss panel or a class Procession of the Caravans mural. Faith connection: Psalm 72:10–11, Philippians 2:9–11 and Mark 10:42–45, true kingship as service. Curriculum focus: visual arts, relief techniques and art as message."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: The Royal Relay",
+                  "summary": "Friday Showdown in relay mode, where Caravans pass the baton down the line and every answer is a link in the chain. Before the quiz each Caravan writes a Relay Creed about how it will pass the baton well. The quiz reviews Darius, the Royal Road, predators and relief sculpture, and the Fragment of the Swift Road is revealed. Victory Lap choices: Caravan Log, Question-Maker or Teach-Back. Faith connection: Ezra 6:1–12, Isaiah 40:3–4, Daniel 6:19–23 and Mark 10:42–45. Curriculum focus: recall, applying learning and teamwork."
+                }
+              ]
+            },
+            {
+              "name": "Week 4",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Marathon, Thermopylae & Salamis: Whose Story?",
+                  "summary": "Covers the Persian wars from Marathon in 490 BC, Xerxes's bridge of boats over the Hellespont and the Hot Gates to Salamis and Plataea, with a strong focus on whose story survives: most evidence is Greek, and very few Persian accounts remain. Students use primary and secondary sources and compare perspectives. Choices include Two Voices reports from a Greek Herald and a Persian Scribe, a campaign map and timeline, or a Hot-Seat council drama. Faith connection: Proverbs 16:18, 21:30–31 and Mark 4:35–41. Curriculum focus: perspectives, sources and cause and effect."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Straits, Harbours & Chokepoints: The Scale of an Empire",
+                  "summary": "Compares the empire, about 5 million square kilometres or roughly twenty New Zealands, with Aotearoa using a scale. Students study the Hellespont strait between Asia and Europe and why narrow places such as Thermopylae and Salamis help defenders, then look at harbour towns and compare with Lyttelton, Wellington and Tauranga. Choices include an Empire vs NZ map, a chokepoint model or designing a harbour town. Faith connection: Job 38:8–11 and Isaiah 40:15–17, God setting limits on the sea. Curriculum focus: how geography shapes war and settlement."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: The Desert Challenge: Adaptations in Dasht-e Kavir & Lut",
+                  "summary": "Looks at deserts shaped by abiotic factors, with scorching days, cold nights and little rain, and the body and behaviour adaptations of the sand cat, the nocturnal jerboa and the Bactrian camel. Students plan and run a fair test of insulation materials. Choices include an Insulation Fair Test with wrapped beakers, a Desert Survival Guide for an invented species or a Double Bubble comparing the desert with NZ high-country tussockland. Faith connection: Psalm 63:1, Isaiah 41:18 and Psalm 104:10–13. Curriculum focus: adaptation and investigating with a fair test."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Glazed-Brick Immortals: A Never-Ending Frieze",
+                  "summary": "Studies the glazed bricks of Susa and the Immortals, an elite unit of about 10,000 soldiers according to Herodotus. Students make a foam printing block, learn registration, rhythm and layering with a limited palette, and print a repeating frieze. Choices include an Immortal Frieze, a glazed-brick paper collage of an archer or an Armour of God frieze based on Ephesians 6. Faith connection: Ephesians 6:10–18 and John 11:25. Curriculum focus: visual arts, printmaking and repetition."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: Storm at the Hellespont",
+                  "summary": "Friday Showdown in lives mode, where each Caravan has three lives and a wrong step costs one. Before the quiz, Caravans add a line to their Creed about staying humble. The quiz reviews the Greek wars, chokepoints, desert adaptations and printmaking, and the Fragment of the Storm is revealed. Victory Lap choices: a Caravan Log with a Faith Thought about pride, Question-Maker or Teach-Back. Faith connection: Proverbs 16:18, Mark 4:35–41 and Ephesians 6:10–18. Curriculum focus: recall, applying learning and teamwork."
+                }
+              ]
+            },
+            {
+              "name": "Week 5",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Queen Esther of Susa: Courage in the Palace",
+                  "summary": "Sets the book of Esther in its Persian setting at Susa under Xerxes I (Ahasuerus, 486–465 BC): the banquet, an orphan who becomes queen, Haman's plot, the king's signet ring and Esther's choice to approach the king. Students look for God's quiet providence in a book that never names Him. Choices include an eight-frame story map or comic, Hot-Seat interviews with Mordecai, Esther, Haman and Xerxes, or a Persian court explainer. Faith connection: Esther 4:12–16 and Proverbs 31:8–9, speaking up for others. Curriculum focus: understanding the past and the courage to act."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Susa: The City of Lilies and the Story of a Tell",
+                  "summary": "Locates Susa on the Khuzestan plain and explores river-valley living between the Tigris and Euphrates, with irrigation, silt and floodplains bringing both benefits and risks. Students learn how mud-brick cities build up into a tell over thousands of years, and about the palace city of Darius and Xerxes. Choices include a tell cross-section with at least five layers, a river cities map or a palace city plan. Faith connection: Genesis 2:10–14, Nehemiah 1:1 and Daniel 8:2. Curriculum focus: river-valley settlements and how places change over time."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Rivers, Marshes & Lake Urmia: Wetland Communities",
+                  "summary": "Answers \"Why is the water pink?\" by exploring Lake Urmia's salty community of algae, brine shrimp and flamingos, and describes wetland producers, consumers and decomposers and interdependence. Students also learn why the lake has shrunk dramatically in recent decades. Choices include a wetland food-web diorama, an evaporation fair test with trays in sun and shade, or a documentary script called \"A Day on the Lake\". Faith connection: Genesis 1:20–22, Psalm 104:25 and Genesis 2:15, caring for creation. Curriculum focus: the living world, interdependence and human impact."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Gold & Jewel: Persian Splendour",
+                  "summary": "Studies Achaemenid metalwork: the rhyton, an animal-headed drinking horn, griffins, armlets in the style of the Oxus Treasure and repoussé, pressing metal from behind. Students use warm and cool colour contrast and balance, and discuss what luxury objects said about power. Choices include modelling a rhyton, a repoussé foil griffin armlet or painting the banquet scene from Esther 5–7. Faith connection: Esther 1:7, Matthew 6:19–21 and Proverbs 31:30, treasure that lasts. Curriculum focus: visual arts, design and colour contrast."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: For Such a Time as This",
+                  "summary": "Mid-term Friday Showdown in classic mode, where the final question is worth triple points and the first half of the term is reviewed along the way. Caravans re-read their Week 1 Creed and add a line about how they will finish the race. The quiz covers Esther, Susa, wetlands and Persian art, and the Fragment of the Golden Sceptre is revealed. Victory Lap choices: Mid-Term Caravan Log, Question-Maker or Teach-Back. Faith connection: Esther 4:14, Proverbs 31:8–9 and Psalm 104:25. Curriculum focus: reviewing and recalling learning across the half-term."
+                }
+              ]
+            },
+            {
+              "name": "Week 6",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Home Again: Persian Rule, Ezra & Nehemiah",
+                  "summary": "Explains why Persian kings supported rebuilding Jerusalem, following the returns from about 538 BC, the small province of Yehud, Ezra the scribe who set his heart to study, do and teach the Law, and Nehemiah the cupbearer turned project leader who faced opposition from Sanballat, Tobiah and Geshem. Choices include Nehemiah's Project Plan based on Nehemiah 3, a cupbearer's persuasive request letter or three diary entries from a returning family. Faith connection: Nehemiah 1:4–11, Nehemiah 4:9 and Ezra 7:10. Curriculum focus: understanding the past, leadership and sources."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Jerusalem on a Hill: Walls, Gates & the Return Route",
+                  "summary": "Explains why ancient Jerusalem was built on a defensible ridge with valleys as natural moats and the Gihon spring for water, and what walls and gates do. Students trace the return route from Babylon along the Fertile Crescent and compare hilltop settlements with pā sites at home. Choices include a walled city model with at least three gates, a return route map with scale, or a settlement comparison with a local hill settlement. Faith connection: Psalm 122, Psalm 125:2 and Nehemiah 3. Curriculum focus: settlement, defence and mapping a journey."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Rebuilding a Habitat: Restoration & Recovery",
+                  "summary": "Explores how habitats are damaged and restored through the Zagros oak woodland and the rediscovery of the Persian fallow deer, with restoration steps (protect, remove the cause of harm, reintroduce) and links to predator control and native planting in Aotearoa. Choices include a restoration plan, a Jenga web investigation of what happens when links are removed, or comparing a Persian and a New Zealand restoration story. Faith connection: Isaiah 58:12, Romans 8:19–21 and Genesis 2:15. Curriculum focus: ecosystems, human impact and restoration."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Build the Gate: Architecture & a Collaborative Gate of Welcome",
+                  "summary": "Studies the Gate of All Nations at Persepolis and its guardian bulls, the parts of a column (base, shaft, capital), symmetry and proportion. Choices include a 3D gate model with columns and guardian figures, a ruler elevation drawing or a Caravan-designed Gate of Welcome for the school, echoing Nehemiah 3 where each family built the part in front of their own house. Faith connection: Nehemiah 3:28–30 and 1 Peter 2:5. Curriculum focus: visual arts, architecture, symmetry and collaboration."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: The Wall of 52 Days",
+                  "summary": "Friday Showdown in wall mode, where the whole class cooperates: every Caravan adds bricks to one shared wall, and if the wall is finished everyone gains. Caravans write a Wall Creed about working with the others. The quiz reviews Ezra and Nehemiah, Jerusalem's geography, restoration and architecture, and the Fragment of the Wall is revealed. Victory Lap choices: Caravan Log, Question-Maker or Teach-Back. Faith connection: Nehemiah 4:9 and 6:15, Isaiah 58:12 and 1 Peter 2:5. Curriculum focus: recall, applying learning and cooperating as one team."
+                }
+              ]
+            },
+            {
+              "name": "Week 7",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Ordinary Lives in an Extraordinary Empire",
+                  "summary": "Looks beyond kings to everyday Persians using the thousands of Persepolis Fortification clay tablets found in 1933, which record rations for builders, weavers, bakers, herders and others, men, women and children. Students learn about Aramaic as a common language and what the tablets cannot tell us. Choices include an illustrated A Day in the Life diary, a Ration Ledger activity or a museum display of five everyday items. Faith connection: Jeremiah 29:4–7, Colossians 3:23 and Proverbs 31:10–31. Curriculum focus: evidence, inference and everyday life in the past."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Bazaars, Caravans & Trade Routes: How Trade Shapes Settlements",
+                  "summary": "Explores how goods from across the empire, listed in Darius's palace foundation text at Susa, moved along trade routes, and how specialisation, trade hubs, caravans and caravanserais shaped towns. Students also learn about money, weights and honest scales. Choices include a flow-map trade route map, running Bazaar Data trade rounds and graphing them, or designing a caravan stop. Faith connection: Proverbs 11:1, 16:11 and Micah 6:11, honest scales. Curriculum focus: trade, settlements and economic activity."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Working Animals: Camels, Horses & Mules",
+                  "summary": "Explains how working animals suit their jobs: the camel's wide padded feet, eyelashes and nostrils, dromedary versus Bactrian camels, horses for speed and relay riders, mules and donkeys, and wild onagers versus domesticated animals. Students discuss animal welfare. Choices include a Foot-in-Sand Fair Test, designing a transport animal for a new habitat or a Venn diagram comparing the onager and the horse. Faith connection: Genesis 24:10–20 and Proverbs 12:10, caring for animals. Curriculum focus: adaptation, fair testing and caring for animals."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Woven Worlds: Carpets & Textile Pattern",
+                  "summary": "Introduces warp and weft, looms, medallion and border design, symmetry on two axes, the 2,400-year-old Pazyryk carpet and natural dyes such as madder for red and indigo for blue. Choices include a cardboard-loom woven piece with a planned three-colour pattern, a medallion carpet design on squared paper or a textile collage. Faith connection: Exodus 35:25–26, Exodus 35:30–35 and Psalm 139:13, skilled hands and being woven together. Curriculum focus: visual arts, weaving, symmetry and pattern."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: Bazaar Bargains",
+                  "summary": "Friday Showdown in wager mode: Caravans bet their Darics on their answers, backing what they know and holding back what they are unsure of, learning that honest trading is a kind of courage. Caravans write a Bazaar Creed about dealing honestly. The quiz reviews daily life, trade, working animals and weaving, and the Fragment of the Market is revealed. Victory Lap choices: Caravan Log, Question-Maker or Teach-Back. Faith connection: Jeremiah 29:4–7, Proverbs 11:1, Genesis 24:10–20 and Exodus 35:30–35. Curriculum focus: recall, risk and teamwork."
+                }
+              ]
+            },
+            {
+              "name": "Week 8",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: The Fall: Alexander and Darius III",
+                  "summary": "Explains how the Persian Empire fell to Alexander of Macedonia and Darius III, the last Achaemenid king, through the battles of Granicus (334 BC), Issus, Gaugamela and the burning of Persepolis in 330 BC. Students build a cause-and-effect view (tactics, leadership, internal weakness) and examine why ancient writers disagree on whether the burning was an accident, revenge or a political act. Choices include a cause–effect chain, an annotated campaign map or a debate. Faith connection: Daniel 2:31–45, Daniel 8:20–21 and Daniel 2:44. Curriculum focus: causes and effects, and why accounts differ."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Cities Under Attack: Destruction, Abandonment and Rebuilding",
+                  "summary": "Asks why places are destroyed, abandoned or rebuilt. Students study what the ruins of Persepolis tell us (stone survived, wooden roofs and mud-brick did not), Alexander's new cities such as Alexandria, earthquakes in Iran and Aotearoa, and the 1931 Napier earthquake. They weigh why people rebuild or leave a place. Choices include a Reconstruct Persepolis diagram, a rebuild plan for an imagined town after an earthquake, or a Then and Now Venn. Faith connection: Psalm 46:1–3 and Isaiah 61:4. Curriculum focus: how events change settlements."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Gone or Going: Why Animals Disappear and How We Can Help",
+                  "summary": "Defines extinct, endangered and critically endangered, and four big causes of loss: habitat loss, hunting, introduced species and climate change. Students look at the Caspian tiger and Asiatic cheetah in the old Persian lands and Aotearoa's lost and rediscovered birds, and what conservation, including kaitiakitanga, achieves. Choices include an awareness campaign for the Asiatic cheetah, a persuasive letter to a decision-maker or kākāpō data detectives. Faith connection: Genesis 1:26–28, Genesis 2:15 and Psalm 72:12–14. Curriculum focus: human impact, conservation and graphing data."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Fire and Ruin: Light, Shadow and Hope",
+                  "summary": "Teaches tone and value, contrast, silhouette and focal point to express mood, with techniques for drawing smoke, firelight and ruined columns, and the idea of adding one small light of hope. Choices include a charcoal and chalk night scene, a mixed-media collage of ruins in fire and gold, or a Ruins to Restoration diptych. Faith connection: Isaiah 61:3 and Psalm 126, a crown of beauty instead of ashes. Curriculum focus: visual arts, tone, contrast and expressing feeling."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: Fire on the Mountain",
+                  "summary": "Friday Showdown in classic mode with a lives twist: every Caravan starts with three lives, a wrong answer costs one, and teams can rally to keep each other going so that no Caravan goes down alone. Caravans write a Lives Creed about holding on to each other. The quiz reviews Alexander and the fall of the empire, rebuilding, conservation and tone, and the Fragment of Ashes is revealed. Victory Lap choices: Caravan Log, Question-Maker or Teach-Back. Faith connection: Daniel 2:44, Psalm 46:1–3, Isaiah 61:3 and Genesis 2:15. Curriculum focus: recall and supporting a team."
+                }
+              ]
+            },
+            {
+              "name": "Week 9",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: Parthians & Sasanians: Persia Rises Again",
+                  "summary": "Follows how Persian power returned after Alexander: the Seleucids, the Parthians (about 247 BC–224 AD) with their horse archers and the Parthian shot, and the Sasanians (224–651 AD) who began with Ardashir I from Fars. Students see how Parthian lands made them Silk Road middlemen between China and Rome. Choices include a Three Empires chart, a Rome vs Persia infographic or a six-frame comic of the battle of Carrhae. Faith connection: Matthew 2:1–12 and Acts 2:9–11, magi from the east. Curriculum focus: continuity and change and comparing empires."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Silk Road Cities, Ctesiphon & the Round City",
+                  "summary": "Explains the Silk Road as a network of routes linking China, Central Asia, Persia and the Mediterranean, and why cities grow at crossroads and rivers. Students study Ctesiphon on the Tigris with Taq Kasra, Ardashir I's circular city at Gur near Firuzabad, and caravanserais. Choices include designing a circular city with at least three concentric zones, a Silk Road journey map or a postcard from Ctesiphon. Faith connection: Matthew 5:14–16 and Isaiah 60:1–3, a city on a hill that cannot be hidden. Curriculum focus: trade routes, urban planning and map skills."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Gulf & Caspian: Mangroves, Pearls and Sea Creatures",
+                  "summary": "Explores coastal and marine communities: the Hara mangrove forest near Qeshm Island as a living nursery, dugongs, turtles, pearl oysters and flamingos in the Persian Gulf, the Caspian Sea as the world's largest inland body of water, and zonation along a shore. Students learn threats and kaitiakitanga. Choices include a coastal zone cross-section, a mangrove food web or comparing a mangrove coast with an NZ estuary or rocky shore. Faith connection: Psalm 8:3–8, Psalm 148:7 and Job 12:7–10. Curriculum focus: habitats, zonation and human impact."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: Star-Gazers’ Night: Painting the Journey of the Magi",
+                  "summary": "Teaches watercolour resist with wax or oil pastel stars, graded night-sky washes, silhouettes, horizon and composition, and looks at Sasanian silver plates with riders and animals in profile. Choices include a watercolour resist night sky with a silhouette caravan, a Sasanian-style silver roundel or a decorative Star-Watcher's Chart. Faith connection: Numbers 24:17, Matthew 2:2, 10–11 and Psalm 19:1, the heavens declaring God's glory. Curriculum focus: visual arts, atmosphere and composition."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: Starlight Navigation",
+                  "summary": "Friday Showdown in classic mode, where before each question a Caravan picks one, two or three stars of difficulty and the brighter the star, the bigger the risk and the reward. Caravans write a Starlight Creed about how they will steer when the road is dark. The quiz reviews the Parthians and Sasanians, Silk Road cities, coastal communities and the Magi, together with earlier weeks, and the Fragment of the Star is revealed. Faith connection: Matthew 2:1–12, Numbers 24:17, Matthew 5:14–16 and Psalm 19:1. Curriculum focus: recall, risk and teamwork."
+                }
+              ]
+            },
+            {
+              "name": "Week 10",
+              "days": [
+                {
+                  "day": "Monday",
+                  "title": "History: What Persia Gave the World",
+                  "summary": "Finale history lesson on Persia's legacy: gardens and the word paradise, qanats, coins and roads, carpets, windcatchers, chess and polo, the Shahnameh epic, and Persian words in English such as paradise, caravan and bazaar. Students judge how important each contribution is. Choices include a \"Persia Gives\" museum exhibit, a Word Detectives booklet or a time-capsule letter to Cyrus or Nehemiah. Faith connection: Genesis 12:2–3, Psalm 78:4–7 and Revelation 7:9, blessing for all peoples. Curriculum focus: legacy, influence and evaluating importance."
+                },
+                {
+                  "day": "Tuesday",
+                  "title": "Geography: Persia to Iran: Cities Then & Now",
+                  "summary": "Compares ancient and modern settlements and encourages respectful talk about modern Iran, a country about six times the size of Aotearoa. Students look at Tehran, Isfahan and other modern cities, Persepolis near Shiraz, Ecbatana under modern Hamadan and the windcatchers of Yazd, and discuss what changed and what stayed the same. Choices include a Then & Now map pair, a data comparison graph of an Iranian and a New Zealand city or a travel guide page. Faith connection: Revelation 7:9, Matthew 28:19 and 1 Timothy 2:1–2. Curriculum focus: continuity and change, and avoiding stereotypes."
+                },
+                {
+                  "day": "Wednesday",
+                  "title": "Science: Wild Persia: Design a Sanctuary",
+                  "summary": "Consolidates the term's science by designing a wildlife reserve with a protected core, buffer zone and corridors for the habitats met across the term: mountains, plains, deserts, wetlands, the Gulf and the Caspian. Students focus on the Asiatic cheetah, which survives only in Iran, and on recovery stories like the kākāpō and takahē. Choices include a reserve blueprint, a six-species field guide or a two-minute pitch to save the Asiatic cheetah. Faith connection: Genesis 2:15, Psalm 24:1 and Revelation 22:2. Curriculum focus: applying knowledge of habitats and conservation."
+                },
+                {
+                  "day": "Thursday",
+                  "title": "Art: The Great Exhibition: Persian Gallery Night",
+                  "summary": "Students curate and explain the term's artworks for a gallery night, learning what a curator does, how to write a good label, how to group work by theme (such as Pattern and power, and Writing and records), and how to respond respectfully to every maker. Choices include curating a gallery wall, writing an artist's statement and gallery guide, or recording a 60-second audio guide. Faith connection: Colossians 3:17 and 1 Peter 4:10, using gifts for others. Curriculum focus: visual arts, curating, explaining and respecting others' work."
+                },
+                {
+                  "day": "Friday",
+                  "title": "Friday Showdown: The Gate of All Nations",
+                  "summary": "Grand Finale Showdown covering all ten weeks, with a Forgiveness Vote, the last Fragment of Wisdom and the Seal made whole. Before the final quiz, each Caravan writes a Gate Creed about how it wants to be remembered. Victory Lap choices: a Caravan Log looking back over the whole journey, a Hall of Fame Question-Maker or a Teach-Back comic telling the story of the Royal Road Race. Faith connection: Genesis 12:3, Revelation 7:9, Psalm 78:4, 1 Peter 4:10 and Proverbs 2:3–6. Curriculum focus: recalling the whole unit and celebrating the journey as a team."
                 }
               ]
             }
